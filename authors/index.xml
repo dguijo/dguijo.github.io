@@ -7,21 +7,10 @@
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
-    
-    <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I was born in Córdoba, Spain. I received the B.S. degree in Computer Science from the University of Córdoba, Córdoba, Spain, in 2016, and the M.Sc. degree in Artificial Intelligence from the International University of Menendez Pelayo, Madrid, Spain, in 2017. I am currently pursuing the Ph.D. degree in Computer Science and Artificial Intelligence with the Department of Computer Cience and Numerical Analysis, University of Córdoba.&lt;/p&gt;
-&lt;p&gt;My current research interests include a wide range of topics concerning machine learning and time series data mining.&lt;/p&gt;
-&lt;p&gt;I usually spend my free time in scouts (I am a leisure time monitor of teenagers between 14 and 17 years old). Travelling is another of my passions. I love feeling at one with nature and doing sport, which keeps me energic and alive.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
