@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ordinal classification | David Guijo-Rubio</title>
+    <link>/tags/ordinal-classification/</link>
+      <atom:link href="/tags/ordinal-classification/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ordinal classification</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
+      <title>Ordinal classification</title>
+      <link>/tags/ordinal-classification/</link>
+    </image>
+    
+    <item>
+      <title>Distribution-Based Discretisation and Ordinal Classification Applied to Wave Height Prediction</title>
+      <link>/publication/guijo-ideal-2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/guijo-ideal-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francisco Téllez | David Guijo-Rubio</title>
+    <link>/authors/francisco-tellez/</link>
+      <atom:link href="/authors/francisco-tellez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Francisco Téllez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
+      <title>Francisco Téllez</title>
+      <link>/authors/francisco-tellez/</link>
+    </image>
+    
+    <item>
+      <title>Using machine learning methods to determine a typology of patients with HIV-HCV infection to be treated with antivirals</title>
+      <link>/publication/vih-ann-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/vih-ann-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
