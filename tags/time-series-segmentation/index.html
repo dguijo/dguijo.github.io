@@ -205,6 +205,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-271170290-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-271170290-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -535,7 +573,7 @@
     
     
     <div>
-      <h2><a href="/publication/guijo-jovenes-uco-16/" >Clustering de Series Temporales basado en la Extracción de Tipologías de Segmentos</a></h2>
+      <h2><a href="/es/publication/guijo-jovenes-uco-16/" >Clustering de Series Temporales basado en la Extracción de Tipologías de Segmentos</a></h2>
       <div class="article-style">
         
           Durante los últimos años se ha producido un gran aumento de series de datos distribuidas a lo largo del tiempo, o lo que es lo mismo, de series temporales. Este crecimiento ha traído consigo un interés en su agrupamiento o clustering, proceso de …

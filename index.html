@@ -30,6 +30,8 @@
   <meta name="description" content="Data Scientist">
 
   
+  <link rel="alternate" hreflang="es" href="/es/">
+  
   <link rel="alternate" hreflang="en-us" href="/">
 
   
@@ -203,6 +205,44 @@
   
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-271170290-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-271170290-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -498,6 +538,22 @@
 
       
 
+      
+      <li class="nav-item dropdown i18n-dropdown">
+        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">English</span>
+        </a>
+        <div class="dropdown-menu">
+          <div class="dropdown-item dropdown-item-active">
+            <span>English</span>
+          </div>
+          
+          <a class="dropdown-item" href="/es/" data-target="/es/">
+            <span>Español</span>
+          </a>
+          
+        </div>
+      </li>
       
 
     </ul>
@@ -1233,7 +1289,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="/publication/guijo-aaltd-2020/" >Ordinal versus nominal time series classification</a>
+  <a href="/publication/ijcnn-guijo-2020/" >Time series ordinal classification via shapelets</a>
 
   
 
@@ -1259,7 +1315,7 @@
     
       
     
-    September 2020
+    July 2020
   </span>
   
 
@@ -1267,7 +1323,7 @@
   <span class="middot-divider"></span>
   <span class="pub-publication">
     
-      <em>Proceedings of the 5th Workshop on Advances Analytics and Learning on Temporal Data</em>
+      *Proceedings of the 2020  IEEE International Joint Conference on Neural Networks (IJCNN2020) *
     
   </span>
   
@@ -1298,19 +1354,13 @@
 
 
   
-    
-  
 
 
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://project.inria.fr/aaltd20/files/2020/08/AALTD_20_paper_Guijo-Rubio.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/guijo-aaltd-2020/cite.bib">
+        data-filename="/publication/ijcnn-guijo-2020/cite.bib">
   Cite
 </button>
 
@@ -1326,7 +1376,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-030-65742-0_2" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/IJCNN48605.2020.9207200" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1361,7 +1411,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="/publication/coot-guijo-2020/" >Machine learning methods in organ transplantation</a>
+  <a href="/publication/ap-acoustics-2020/" >Validation of artificial neural networks to model the acoustic behaviour of induction motors</a>
 
   
 
@@ -1370,7 +1420,7 @@
     
 
   
-  <span><b style="color:#000000">David Guijo-Rubio</b></span>, <span>Pedro Antonio Gutiérrez</span>, <span>César Hervás-Martínez</span>
+  <span>Francisco Javier Jiménez-Romero</span>, <span><b style="color:#000000">David Guijo-Rubio</b></span>, <span>Francisco Ramón Lara-Raya</span>, <span>Antonio Ruiz-González</span>, <span>César Hervás-Martínez</span>
   </div>
   
 
@@ -1387,7 +1437,7 @@
     
       
     
-    August 2020
+    March 2020
   </span>
   
 
@@ -1395,7 +1445,7 @@
   <span class="middot-divider"></span>
   <span class="pub-publication">
     
-      <em>Current Opinion in Organ Transplantation</em>
+      <em>Applied Acoustics</em>
     
   </span>
   
@@ -1432,7 +1482,7 @@
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/coot-guijo-2020/cite.bib">
+        data-filename="/publication/ap-acoustics-2020/cite.bib">
   Cite
 </button>
 
@@ -1448,7 +1498,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1097/MOT.0000000000000774" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.apacoust.2020.107332" target="_blank" rel="noopener">
   DOI
 </a>
 

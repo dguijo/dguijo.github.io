@@ -30,6 +30,8 @@
   <meta name="description" content="Wave height prediction is an important task for ocean and marine resource management. Traditionally, regression techniques are used for this prediction, but estimating continuous changes in the corresponding time series can be very difficult. With the purpose of simplifying the prediction, wave height can be discretised in consecutive intervals, resulting in a set of ordinal categories. Despite this discretisation could be performed using the criterion of an expert, the prediction could be biased to the opinion of the expert, and the obtained categories could be unrepresentative of the data recorded. In this paper, we propose a novel automated method to categorise the wave height based on selecting the most appropriate distribution from a set of well- suited candidates. Moreover, given that the categories resulting from the discretisation show a clear natural order, we propose to use different ordinal classifiers. The methodology is tested in real wave height data collected from two buoys located in the Gulf of Alaska. We also incorporate reanalysis data in order to increase the accuracy of the predictors. The results confirm that this kind of discretisation is suitable for the time series considered and that the ordinal classifiers achieve outstanding results in comparison with nominal techniques.">
 
   
+  <link rel="alternate" hreflang="es" href="/es/publication/guijo-uco-2019/">
+  
   <link rel="alternate" hreflang="en-us" href="/publication/guijo-uco-2019/">
 
   
@@ -203,6 +205,44 @@
   
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-271170290-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-271170290-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -532,6 +572,22 @@
 
       
 
+      
+      <li class="nav-item dropdown i18n-dropdown">
+        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">English</span>
+        </a>
+        <div class="dropdown-menu">
+          <div class="dropdown-item dropdown-item-active">
+            <span>English</span>
+          </div>
+          
+          <a class="dropdown-item" href="/es/publication/guijo-uco-2019/">
+            <span>Español</span>
+          </a>
+          
+        </div>
+      </li>
       
 
     </ul>

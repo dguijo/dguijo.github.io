@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sancho Salcedo-Sanz | David Guijo-Rubio</title>
+    <link>/es/authors/sancho-salcedo-sanz/</link>
+      <atom:link href="/es/authors/sancho-salcedo-sanz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sancho Salcedo-Sanz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2021</copyright><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
+      <title>Sancho Salcedo-Sanz</title>
+      <link>/es/authors/sancho-salcedo-sanz/</link>
+    </image>
+    
+    <item>
+      <title>Evolutionary artificial neural networks for accurate solar radiation prediction</title>
+      <link>/es/publication/solar-energy-guijo-2920/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/es/publication/solar-energy-guijo-2920/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of convective clouds formation using evolutionary neural computation techniques</title>
+      <link>/es/publication/ncaa-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/es/publication/ncaa-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A coral reef optimization algorithm for wave height time series segmentation problems </title>
+      <link>/es/publication/duran-rosal-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/es/publication/duran-rosal-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

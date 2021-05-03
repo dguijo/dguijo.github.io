@@ -30,6 +30,8 @@
   <meta name="description" content="Data Scientist">
 
   
+  <link rel="alternate" hreflang="es" href="/es/authors/anthony-bagnall/">
+  
   <link rel="alternate" hreflang="en-us" href="/authors/anthony-bagnall/">
 
   
@@ -203,6 +205,44 @@
   
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-271170290-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-271170290-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -489,6 +529,22 @@
       
 
       
+      <li class="nav-item dropdown i18n-dropdown">
+        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">English</span>
+        </a>
+        <div class="dropdown-menu">
+          <div class="dropdown-item dropdown-item-active">
+            <span>English</span>
+          </div>
+          
+          <a class="dropdown-item" href="/es/authors/anthony-bagnall/">
+            <span>Español</span>
+          </a>
+          
+        </div>
+      </li>
+      
 
     </ul>
 
@@ -518,11 +574,19 @@
       <ul>
         
         <li>
-          <a href="/publication/guijo-aaltd-2020/">Ordinal versus nominal time series classification</a>
+          <a href="/es/publication/guijo-aaltd-2020/">Ordinal versus nominal time series classification</a>
+        </li>
+        
+        <li>
+          <a href="/es/publication/ijcnn-guijo-2020/">Time series ordinal classification via shapelets</a>
         </li>
         
         <li>
           <a href="/publication/ijcnn-guijo-2020/">Time series ordinal classification via shapelets</a>
+        </li>
+        
+        <li>
+          <a href="/es/publication/guijo-shapelets-2019-ideal/">A hybrid approach to time series classification with shapelets</a>
         </li>
         
         <li>

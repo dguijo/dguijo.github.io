@@ -30,6 +30,8 @@
   <meta name="description" content="Data Scientist">
 
   
+  <link rel="alternate" hreflang="es" href="/es/authors/cesar-hervas-martinez/">
+  
   <link rel="alternate" hreflang="en-us" href="/authors/cesar-hervas-martinez/">
 
   
@@ -203,6 +205,44 @@
   
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-271170290-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-271170290-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -489,6 +529,22 @@
       
 
       
+      <li class="nav-item dropdown i18n-dropdown">
+        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">English</span>
+        </a>
+        <div class="dropdown-menu">
+          <div class="dropdown-item dropdown-item-active">
+            <span>English</span>
+          </div>
+          
+          <a class="dropdown-item" href="/es/authors/cesar-hervas-martinez/">
+            <span>Español</span>
+          </a>
+          
+        </div>
+      </li>
+      
 
     </ul>
 
@@ -518,15 +574,23 @@
       <ul>
         
         <li>
+          <a href="/es/publication/solar-energy-guijo-2920/">Evolutionary artificial neural networks for accurate solar radiation prediction</a>
+        </li>
+        
+        <li>
           <a href="/publication/solar-energy-guijo-2920/">Evolutionary artificial neural networks for accurate solar radiation prediction</a>
         </li>
         
         <li>
-          <a href="/publication/guijo-aaltd-2020/">Ordinal versus nominal time series classification</a>
+          <a href="/es/publication/guijo-aaltd-2020/">Ordinal versus nominal time series classification</a>
         </li>
         
         <li>
-          <a href="/publication/coot-guijo-2020/">Machine learning methods in organ transplantation</a>
+          <a href="/es/publication/coot-guijo-2020/">Machine learning methods in organ transplantation</a>
+        </li>
+        
+        <li>
+          <a href="/es/publication/ijcnn-guijo-2020/">Time series ordinal classification via shapelets</a>
         </li>
         
         <li>
@@ -534,7 +598,11 @@
         </li>
         
         <li>
-          <a href="/publication/tormentas-barajas-2019-atmos/">Ordinal regression algorithms for the analysis of convective situations over Madrid-Barajas airport</a>
+          <a href="/es/publication/tormentas-barajas-2019-atmos/">Ordinal regression algorithms for the analysis of convective situations over Madrid-Barajas airport</a>
+        </li>
+        
+        <li>
+          <a href="/es/publication/ap-acoustics-2020/">Validation of artificial neural networks to model the acoustic behaviour of induction motors</a>
         </li>
         
         <li>
@@ -542,15 +610,23 @@
         </li>
         
         <li>
+          <a href="/es/publication/ncaa-2020/">Prediction of convective clouds formation using evolutionary neural computation techniques</a>
+        </li>
+        
+        <li>
           <a href="/publication/ncaa-2020/">Prediction of convective clouds formation using evolutionary neural computation techniques</a>
         </li>
         
         <li>
-          <a href="/publication/ocean-engineering-guijo-2020/">Short- and long-term energy flux prediction using Multi-Task Evolutionary Artificial Neural Networks</a>
+          <a href="/es/publication/ocean-engineering-guijo-2020/">Short- and long-term energy flux prediction using Multi-Task Evolutionary Artificial Neural Networks</a>
         </li>
         
         <li>
-          <a href="/publication/clustering-guijo-19/">Time series clustering based on the characterisation of segment typologies</a>
+          <a href="/es/publication/clustering-guijo-19/">Time series clustering based on the characterisation of segment typologies</a>
+        </li>
+        
+        <li>
+          <a href="/es/publication/guijo-uco-2019/">Predicción de altura de ola mediante discretización basada en distribuciones utilizando clasificación ordinal</a>
         </li>
         
         <li>
@@ -558,11 +634,15 @@
         </li>
         
         <li>
-          <a href="/publication/comino-2019-validation/">Validation of multitask artificial neural networks to model desiccant wheels activated at low temperature</a>
+          <a href="/es/publication/comino-2019-validation/">Validation of multitask artificial neural networks to model desiccant wheels activated at low temperature</a>
         </li>
         
         <li>
-          <a href="/publication/guijo-2018-fog-ordinal/">Prediction of low-visibility events due to fog using ordinal classification</a>
+          <a href="/es/publication/guijo-2018-fog-ordinal/">Prediction of low-visibility events due to fog using ordinal classification</a>
+        </li>
+        
+        <li>
+          <a href="/es/publication/guijo-ideal-2018/">Distribution-Based Discretisation and Ordinal Classification Applied to Wave Height Prediction</a>
         </li>
         
         <li>
@@ -570,15 +650,23 @@
         </li>
         
         <li>
+          <a href="/es/publication/guijo-2018-time/">Time series clustering based on the characterisation of segment typologies</a>
+        </li>
+        
+        <li>
           <a href="/publication/guijo-2018-time/">Time series clustering based on the characterisation of segment typologies</a>
         </li>
         
         <li>
-          <a href="/publication/diaz-caepia-2018/">Algoritmos de aprendizaje automático para predicción de niveles de niebla usando ventanas estáticas y dinámicas</a>
+          <a href="/es/publication/diaz-caepia-2018/">Algoritmos de aprendizaje automático para predicción de niveles de niebla usando ventanas estáticas y dinámicas</a>
         </li>
         
         <li>
-          <a href="/publication/duran-2018-bioma/">Hybrid Weighted Barebones Exploiting Particle Swarm Optimization Algorithm for Time Series Representation</a>
+          <a href="/es/publication/duran-2018-bioma/">Hybrid Weighted Barebones Exploiting Particle Swarm Optimization Algorithm for Time Series Representation</a>
+        </li>
+        
+        <li>
+          <a href="/es/publication/duran-rosal-2017/">A coral reef optimization algorithm for wave height time series segmentation problems </a>
         </li>
         
         <li>
@@ -586,11 +674,11 @@
         </li>
         
         <li>
-          <a href="/publication/guijo-jovenes-uco-16/">Clustering de Series Temporales basado en la Extracción de Tipologías de Segmentos</a>
+          <a href="/es/publication/guijo-jovenes-uco-16/">Clustering de Series Temporales basado en la Extracción de Tipologías de Segmentos</a>
         </li>
         
         <li>
-          <a href="/publication/manolo-2016-caepia/">Multiclass Prediction of Wind Power Ramp Events Combining Reservoir Computing and Support Vector Machines</a>
+          <a href="/es/publication/manolo-2016-caepia/">Multiclass Prediction of Wind Power Ramp Events Combining Reservoir Computing and Support Vector Machines</a>
         </li>
         
       </ul>

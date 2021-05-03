@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>satellite data | David Guijo-Rubio</title>
+    <link>/es/tags/satellite-data/</link>
+      <atom:link href="/es/tags/satellite-data/index.xml" rel="self" type="application/rss+xml" />
+    <description>satellite data</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2021</copyright><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
+      <title>satellite data</title>
+      <link>/es/tags/satellite-data/</link>
+    </image>
+    
+    <item>
+      <title>Evolutionary artificial neural networks for accurate solar radiation prediction</title>
+      <link>/es/publication/solar-energy-guijo-2920/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/es/publication/solar-energy-guijo-2920/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

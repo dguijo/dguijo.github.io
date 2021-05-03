@@ -30,6 +30,8 @@
   <meta name="description" content="Time series segmentation can be approached using metaheuristics procedures such as genetic algorithms (GAs) methods, with the purpose of automatically finding segments and determine similarities in the time series with the lowest possible clustering error. In this way, segments belonging to the same cluster must have similar properties, and the dissimilarity between segments of different clusters should be the highest possible. In this paper we tackle a specific problem of significant wave height time series segmentation, with application in coastal and ocean engineering. The basic idea in this case is that similarity between segments can be used to characterise those segments with high significant wave heights, and then being able to predict them. A recently metaheuristic, the Coral Reef Optimization (CRO) algorithm is proposed for this task, and we analyze its performance by comparing it with that of a GA in three wave height time series collected in three real buoys (two of them in the Gulf of Alaska and another one in Puerto Rico). The results show that the CRO performance is better than the GA in this problem of time series segmentation, due to the better exploration of the search space obtained with the CRO.">
 
   
+  <link rel="alternate" hreflang="es" href="/es/publication/duran-rosal-2017/">
+  
   <link rel="alternate" hreflang="en-us" href="/publication/duran-rosal-2017/">
 
   
@@ -203,6 +205,44 @@
   
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-271170290-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-271170290-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -532,6 +572,22 @@
 
       
 
+      
+      <li class="nav-item dropdown i18n-dropdown">
+        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">English</span>
+        </a>
+        <div class="dropdown-menu">
+          <div class="dropdown-item dropdown-item-active">
+            <span>English</span>
+          </div>
+          
+          <a class="dropdown-item" href="/es/publication/duran-rosal-2017/">
+            <span>Español</span>
+          </a>
+          
+        </div>
+      </li>
       
 
     </ul>

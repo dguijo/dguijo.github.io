@@ -30,6 +30,8 @@
   <meta name="description" content="Data Scientist">
 
   
+  <link rel="alternate" hreflang="es" href="/es/authors/sancho-salcedo-sanz/">
+  
   <link rel="alternate" hreflang="en-us" href="/authors/sancho-salcedo-sanz/">
 
   
@@ -203,6 +205,44 @@
   
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-271170290-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-271170290-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -489,6 +529,22 @@
       
 
       
+      <li class="nav-item dropdown i18n-dropdown">
+        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">English</span>
+        </a>
+        <div class="dropdown-menu">
+          <div class="dropdown-item dropdown-item-active">
+            <span>English</span>
+          </div>
+          
+          <a class="dropdown-item" href="/es/authors/sancho-salcedo-sanz/">
+            <span>Español</span>
+          </a>
+          
+        </div>
+      </li>
+      
 
     </ul>
 
@@ -518,11 +574,19 @@
       <ul>
         
         <li>
+          <a href="/es/publication/solar-energy-guijo-2920/">Evolutionary artificial neural networks for accurate solar radiation prediction</a>
+        </li>
+        
+        <li>
           <a href="/publication/solar-energy-guijo-2920/">Evolutionary artificial neural networks for accurate solar radiation prediction</a>
         </li>
         
         <li>
-          <a href="/publication/tormentas-barajas-2019-atmos/">Ordinal regression algorithms for the analysis of convective situations over Madrid-Barajas airport</a>
+          <a href="/es/publication/tormentas-barajas-2019-atmos/">Ordinal regression algorithms for the analysis of convective situations over Madrid-Barajas airport</a>
+        </li>
+        
+        <li>
+          <a href="/es/publication/ncaa-2020/">Prediction of convective clouds formation using evolutionary neural computation techniques</a>
         </li>
         
         <li>
@@ -530,11 +594,15 @@
         </li>
         
         <li>
-          <a href="/publication/guijo-2018-fog-ordinal/">Prediction of low-visibility events due to fog using ordinal classification</a>
+          <a href="/es/publication/guijo-2018-fog-ordinal/">Prediction of low-visibility events due to fog using ordinal classification</a>
         </li>
         
         <li>
-          <a href="/publication/diaz-caepia-2018/">Algoritmos de aprendizaje automático para predicción de niveles de niebla usando ventanas estáticas y dinámicas</a>
+          <a href="/es/publication/diaz-caepia-2018/">Algoritmos de aprendizaje automático para predicción de niveles de niebla usando ventanas estáticas y dinámicas</a>
+        </li>
+        
+        <li>
+          <a href="/es/publication/duran-rosal-2017/">A coral reef optimization algorithm for wave height time series segmentation problems </a>
         </li>
         
         <li>
@@ -542,7 +610,7 @@
         </li>
         
         <li>
-          <a href="/publication/manolo-2016-caepia/">Multiclass Prediction of Wind Power Ramp Events Combining Reservoir Computing and Support Vector Machines</a>
+          <a href="/es/publication/manolo-2016-caepia/">Multiclass Prediction of Wind Power Ramp Events Combining Reservoir Computing and Support Vector Machines</a>
         </li>
         
       </ul>
