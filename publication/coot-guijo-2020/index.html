@@ -30,6 +30,8 @@
   <meta name="description" content="Purpose of review: Machine Learning techniques play an important role in organ transplantation. Analysing the main tasks for which they are being applied, together with the advantages and disadvantages of their use, can be of crucial interest for clinical practitioners. Recent findings: In the last 10 years, there has been an explosion of interest in the application of ML techniques to organ transplantation. Several approaches have been proposed in the literature aiming to find universal models by considering multicenter cohorts or from different countries. Moreover, recently, deep learning has also been applied demonstrating a notable ability when dealing with a vast amount of information. Summary: Organ transplantation can benefit from ML in such a way to improve the current procedures for donor-recipient matching or to improve standard scores. However, a correct preprocessing is needed to provide consistent and high quality databases for ML algorithms, aiming to robust and fair approaches to support expert decision-making systems.">
 
   
+  <link rel="alternate" hreflang="es" href="/es/publication/coot-guijo-2020/">
+  
   <link rel="alternate" hreflang="en-us" href="/publication/coot-guijo-2020/">
 
   
@@ -203,6 +205,44 @@
   
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-271170290-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-271170290-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -533,6 +573,22 @@
       
 
       
+      <li class="nav-item dropdown i18n-dropdown">
+        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">English</span>
+        </a>
+        <div class="dropdown-menu">
+          <div class="dropdown-item dropdown-item-active">
+            <span>English</span>
+          </div>
+          
+          <a class="dropdown-item" href="/es/publication/coot-guijo-2020/">
+            <span>Español</span>
+          </a>
+          
+        </div>
+      </li>
+      
 
     </ul>
 
@@ -862,6 +918,15 @@
 
 
   
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/es/publication/coot-guijo-2020/">Machine learning methods in organ transplantation</a></li>
+      
+    </ul>
+  </div>
   
 
 

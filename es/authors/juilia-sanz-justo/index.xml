@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juilia Sanz-Justo | David Guijo-Rubio</title>
+    <link>/es/authors/juilia-sanz-justo/</link>
+      <atom:link href="/es/authors/juilia-sanz-justo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juilia Sanz-Justo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2021</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
+      <title>Juilia Sanz-Justo</title>
+      <link>/es/authors/juilia-sanz-justo/</link>
+    </image>
+    
+    <item>
+      <title>Ordinal regression algorithms for the analysis of convective situations over Madrid-Barajas airport</title>
+      <link>/es/publication/tormentas-barajas-2019-atmos/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/es/publication/tormentas-barajas-2019-atmos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

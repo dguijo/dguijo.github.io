@@ -30,6 +30,8 @@
   <meta name="description" content="This paper proposes a reservoir computing architecture for predicting wind power ramp events (WPREs), which are strong increases or decreases of wind speed in a short period of time. This is a problem of high interest, because WPREs increases the maintenance costs of wind farms and hinders the energy production. The standard echo state network architecture is modified by replacing the linear regression used to compute the reservoir outputs by a nonlinear support vector machine, and past ramp function values are combined with reanalysis data to perform the prediction. Another novelty of the study is that we will predict three type of events (negative ramps, non-ramps and positive ramps), instead of binary classification of ramps, given that the type of ramp can be crucial for the correct maintenance of the farm. The model proposed obtains satisfying results, being able to correctly predict around 70% of WPREs and outperforming other models.">
 
   
+  <link rel="alternate" hreflang="es" href="/es/publication/manolo-2016-caepia/">
+  
   <link rel="alternate" hreflang="en-us" href="/publication/manolo-2016-caepia/">
 
   
@@ -203,6 +205,44 @@
   
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-271170290-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-271170290-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -532,6 +572,22 @@
 
       
 
+      
+      <li class="nav-item dropdown i18n-dropdown">
+        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">English</span>
+        </a>
+        <div class="dropdown-menu">
+          <div class="dropdown-item dropdown-item-active">
+            <span>English</span>
+          </div>
+          
+          <a class="dropdown-item" href="/es/publication/manolo-2016-caepia/">
+            <span>Español</span>
+          </a>
+          
+        </div>
+      </li>
       
 
     </ul>
