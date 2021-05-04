@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Ordinal versus nominal time series classification</title>
+      <link>/publication/guijo-aaltd-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/guijo-aaltd-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Time series ordinal classification via shapelets</title>
       <link>/es/publication/ijcnn-guijo-2020/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
@@ -61,10 +69,26 @@
     </item>
     
     <item>
+      <title>Predicción de altura de ola mediante discretización basada en distribuciones utilizando clasificación ordinal</title>
+      <link>/publication/guijo-uco-2019/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/guijo-uco-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Distribution-Based Discretisation and Ordinal Classification Applied to Wave Height Prediction</title>
       <link>/es/publication/guijo-ideal-2018/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       <guid>/es/publication/guijo-ideal-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution-Based Discretisation and Ordinal Classification Applied to Wave Height Prediction</title>
+      <link>/publication/guijo-ideal-2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/guijo-ideal-2018/</guid>
       <description></description>
     </item>
     
@@ -109,26 +133,10 @@
     </item>
     
     <item>
-      <title>A coral reef optimization algorithm for wave height time series segmentation problems </title>
-      <link>/publication/duran-rosal-2017/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/duran-rosal-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Clustering de Series Temporales basado en la Extracción de Tipologías de Segmentos</title>
       <link>/es/publication/guijo-jovenes-uco-16/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       <guid>/es/publication/guijo-jovenes-uco-16/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clustering de Series Temporales basado en la Extracción de Tipologías de Segmentos</title>
-      <link>/publication/guijo-jovenes-uco-16/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-jovenes-uco-16/</guid>
       <description></description>
     </item>
     
