@@ -37,6 +37,14 @@
     </item>
     
     <item>
+      <title>Prediction of convective clouds formation using evolutionary neural computation techniques</title>
+      <link>/publication/ncaa-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ncaa-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Prediction of low-visibility events due to fog using ordinal classification</title>
       <link>/es/publication/guijo-2018-fog-ordinal/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
@@ -45,18 +53,18 @@
     </item>
     
     <item>
-      <title>Prediction of low-visibility events due to fog using ordinal classification</title>
-      <link>/publication/guijo-2018-fog-ordinal/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-2018-fog-ordinal/</guid>
+      <title>Algoritmos de aprendizaje automático para predicción de niveles de niebla usando ventanas estáticas y dinámicas</title>
+      <link>/es/publication/diaz-caepia-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/es/publication/diaz-caepia-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Algoritmos de aprendizaje automático para predicción de niveles de niebla usando ventanas estáticas y dinámicas</title>
-      <link>/es/publication/diaz-caepia-2018/</link>
+      <link>/publication/diaz-caepia-2018/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/es/publication/diaz-caepia-2018/</guid>
+      <guid>/publication/diaz-caepia-2018/</guid>
       <description></description>
     </item>
     

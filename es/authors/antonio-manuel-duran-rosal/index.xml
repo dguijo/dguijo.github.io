@@ -5,12 +5,20 @@
     <link>/es/authors/antonio-manuel-duran-rosal/</link>
       <atom:link href="/es/authors/antonio-manuel-duran-rosal/index.xml" rel="self" type="application/rss+xml" />
     <description>Antonio Manuel Durán-Rosal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2021</copyright><lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2021</copyright><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
       <title>Antonio Manuel Durán-Rosal</title>
       <link>/es/authors/antonio-manuel-duran-rosal/</link>
     </image>
+    
+    <item>
+      <title>Time series clustering based on the characterisation of segment typologies</title>
+      <link>/es/publication/guijo-2018-time/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/es/publication/guijo-2018-time/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A coral reef optimization algorithm for wave height time series segmentation problems </title>

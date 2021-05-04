@@ -29,6 +29,14 @@
     </item>
     
     <item>
+      <title>Ordinal versus nominal time series classification</title>
+      <link>/publication/guijo-aaltd-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/guijo-aaltd-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Machine learning methods in organ transplantation</title>
       <link>/es/publication/coot-guijo-2020/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
@@ -37,18 +45,18 @@
     </item>
     
     <item>
-      <title>Machine learning methods in organ transplantation</title>
-      <link>/publication/coot-guijo-2020/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/coot-guijo-2020/</guid>
+      <title>Time series ordinal classification via shapelets</title>
+      <link>/es/publication/ijcnn-guijo-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/es/publication/ijcnn-guijo-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time series ordinal classification via shapelets</title>
-      <link>/es/publication/ijcnn-guijo-2020/</link>
+      <link>/publication/ijcnn-guijo-2020/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/es/publication/ijcnn-guijo-2020/</guid>
+      <guid>/publication/ijcnn-guijo-2020/</guid>
       <description></description>
     </item>
     
@@ -65,6 +73,14 @@
       <link>/es/publication/ncaa-2020/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/es/publication/ncaa-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of convective clouds formation using evolutionary neural computation techniques</title>
+      <link>/publication/ncaa-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ncaa-2020/</guid>
       <description></description>
     </item>
     
@@ -133,14 +149,6 @@
     </item>
     
     <item>
-      <title>Prediction of low-visibility events due to fog using ordinal classification</title>
-      <link>/publication/guijo-2018-fog-ordinal/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-2018-fog-ordinal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Distribution-Based Discretisation and Ordinal Classification Applied to Wave Height Prediction</title>
       <link>/es/publication/guijo-ideal-2018/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
@@ -157,10 +165,26 @@
     </item>
     
     <item>
+      <title>Time series clustering based on the characterisation of segment typologies</title>
+      <link>/publication/guijo-2018-time/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/guijo-2018-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Algoritmos de aprendizaje automático para predicción de niveles de niebla usando ventanas estáticas y dinámicas</title>
       <link>/es/publication/diaz-caepia-2018/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       <guid>/es/publication/diaz-caepia-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algoritmos de aprendizaje automático para predicción de niveles de niebla usando ventanas estáticas y dinámicas</title>
+      <link>/publication/diaz-caepia-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/diaz-caepia-2018/</guid>
       <description></description>
     </item>
     

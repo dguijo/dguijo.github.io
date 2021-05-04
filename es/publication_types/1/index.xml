@@ -5,7 +5,7 @@
     <link>/es/publication_types/1/</link>
       <atom:link href="/es/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2021</copyright><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2021</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
@@ -13,10 +13,42 @@
     </image>
     
     <item>
+      <title>Ordinal versus nominal time series classification</title>
+      <link>/es/publication/guijo-aaltd-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/es/publication/guijo-aaltd-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time series ordinal classification via shapelets</title>
+      <link>/es/publication/ijcnn-guijo-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/es/publication/ijcnn-guijo-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Predicción de altura de ola mediante discretización basada en distribuciones utilizando clasificación ordinal</title>
       <link>/es/publication/guijo-uco-2019/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/es/publication/guijo-uco-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time series clustering based on the characterisation of segment typologies</title>
+      <link>/es/publication/guijo-2018-time/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/es/publication/guijo-2018-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algoritmos de aprendizaje automático para predicción de niveles de niebla usando ventanas estáticas y dinámicas</title>
+      <link>/es/publication/diaz-caepia-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/es/publication/diaz-caepia-2018/</guid>
       <description></description>
     </item>
     
