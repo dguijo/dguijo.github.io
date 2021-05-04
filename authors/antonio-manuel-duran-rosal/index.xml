@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Evolutionary artificial neural networks for accurate solar radiation prediction</title>
+      <link>/publication/solar-energy-guijo-2920/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/solar-energy-guijo-2920/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Time series clustering based on the characterisation of segment typologies</title>
       <link>/es/publication/clustering-guijo-19/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -29,18 +37,18 @@
     </item>
     
     <item>
-      <title>Distribution-Based Discretisation and Ordinal Classification Applied to Wave Height Prediction</title>
-      <link>/es/publication/guijo-ideal-2018/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/es/publication/guijo-ideal-2018/</guid>
+      <title>Time series clustering based on the characterisation of segment typologies</title>
+      <link>/publication/clustering-guijo-19/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/clustering-guijo-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distribution-Based Discretisation and Ordinal Classification Applied to Wave Height Prediction</title>
-      <link>/publication/guijo-ideal-2018/</link>
+      <link>/es/publication/guijo-ideal-2018/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-ideal-2018/</guid>
+      <guid>/es/publication/guijo-ideal-2018/</guid>
       <description></description>
     </item>
     
@@ -69,6 +77,14 @@
     </item>
     
     <item>
+      <title>A coral reef optimization algorithm for wave height time series segmentation problems </title>
+      <link>/publication/duran-rosal-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/duran-rosal-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Clustering de Series Temporales basado en la Extracción de Tipologías de Segmentos</title>
       <link>/es/publication/guijo-jovenes-uco-16/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
@@ -81,14 +97,6 @@
       <link>/es/publication/manolo-2016-caepia/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       <guid>/es/publication/manolo-2016-caepia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multiclass Prediction of Wind Power Ramp Events Combining Reservoir Computing and Support Vector Machines</title>
-      <link>/publication/manolo-2016-caepia/</link>
-      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/manolo-2016-caepia/</guid>
       <description></description>
     </item>
     
