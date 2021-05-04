@@ -21,14 +21,6 @@
     </item>
     
     <item>
-      <title>Evolutionary artificial neural networks for accurate solar radiation prediction</title>
-      <link>/publication/solar-energy-guijo-2920/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/solar-energy-guijo-2920/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Prediction of convective clouds formation using evolutionary neural computation techniques</title>
       <link>/es/publication/ncaa-2020/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
@@ -41,6 +33,14 @@
       <link>/es/publication/ocean-engineering-guijo-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/es/publication/ocean-engineering-guijo-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Short- and long-term energy flux prediction using Multi-Task Evolutionary Artificial Neural Networks</title>
+      <link>/publication/ocean-engineering-guijo-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ocean-engineering-guijo-2020/</guid>
       <description></description>
     </item>
     
