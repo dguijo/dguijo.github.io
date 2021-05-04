@@ -5,7 +5,7 @@
     <link>/es/authors/cesar-hervas-mart%5Cnez/</link>
       <atom:link href="/es/authors/cesar-hervas-mart%5Cnez/index.xml" rel="self" type="application/rss+xml" />
     <description>César Hervás-Mart\ńez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2021</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
       <title>César Hervás-Mart\ńez</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Using machine learning methods to determine a typology of patients with HIV-HCV infection to be treated with antivirals</title>
-      <link>/es/publication/vih-ann-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/es/publication/vih-ann-2020/</guid>
+      <title>Modelling survival by machine learning methods in liver transplantation: application to the UNOS dataset</title>
+      <link>/es/publication/ideal-guijo-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/es/publication/ideal-guijo-2019/</guid>
       <description></description>
     </item>
     

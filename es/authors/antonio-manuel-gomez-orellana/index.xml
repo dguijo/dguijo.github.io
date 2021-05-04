@@ -5,12 +5,20 @@
     <link>/es/authors/antonio-manuel-gomez-orellana/</link>
       <atom:link href="/es/authors/antonio-manuel-gomez-orellana/index.xml" rel="self" type="application/rss+xml" />
     <description>Antonio Manuel Gómez-Orellana</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2021</copyright><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
       <title>Antonio Manuel Gómez-Orellana</title>
       <link>/es/authors/antonio-manuel-gomez-orellana/</link>
     </image>
+    
+    <item>
+      <title>Evolutionary artificial neural networks for accurate solar radiation prediction</title>
+      <link>/es/publication/solar-energy-guijo-2920/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/es/publication/solar-energy-guijo-2920/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Short- and long-term energy flux prediction using Multi-Task Evolutionary Artificial Neural Networks</title>

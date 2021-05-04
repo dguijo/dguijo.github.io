@@ -5,12 +5,20 @@
     <link>/es/authors/antonio-manuel-duran-rosal/</link>
       <atom:link href="/es/authors/antonio-manuel-duran-rosal/index.xml" rel="self" type="application/rss+xml" />
     <description>Antonio Manuel Durán-Rosal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2021</copyright><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
       <title>Antonio Manuel Durán-Rosal</title>
       <link>/es/authors/antonio-manuel-duran-rosal/</link>
     </image>
+    
+    <item>
+      <title>Evolutionary artificial neural networks for accurate solar radiation prediction</title>
+      <link>/es/publication/solar-energy-guijo-2920/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/es/publication/solar-energy-guijo-2920/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Time series clustering based on the characterisation of segment typologies</title>
@@ -21,10 +29,26 @@
     </item>
     
     <item>
-      <title>Distribution-Based Discretisation and Ordinal Classification Applied to Wave Height Prediction</title>
-      <link>/es/publication/guijo-ideal-2018/</link>
+      <title>Time series clustering based on the characterisation of segment typologies</title>
+      <link>/es/publication/guijo-2018-time/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/es/publication/guijo-ideal-2018/</guid>
+      <guid>/es/publication/guijo-2018-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid Weighted Barebones Exploiting Particle Swarm Optimization Algorithm for Time Series Representation</title>
+      <link>/es/publication/duran-2018-bioma/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/es/publication/duran-2018-bioma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering de Series Temporales basado en la Extracción de Tipologías de Segmentos</title>
+      <link>/es/publication/guijo-jovenes-uco-16/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/es/publication/guijo-jovenes-uco-16/</guid>
       <description></description>
     </item>
     

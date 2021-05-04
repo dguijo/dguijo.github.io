@@ -21,18 +21,18 @@
     </item>
     
     <item>
-      <title>Time series ordinal classification via shapelets</title>
-      <link>/es/publication/ijcnn-guijo-2020/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/es/publication/ijcnn-guijo-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A hybrid approach to time series classification with shapelets</title>
       <link>/es/publication/guijo-shapelets-2019-ideal/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/es/publication/guijo-shapelets-2019-ideal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling survival by machine learning methods in liver transplantation: application to the UNOS dataset</title>
+      <link>/es/publication/ideal-guijo-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/es/publication/ideal-guijo-2019/</guid>
       <description></description>
     </item>
     
@@ -45,10 +45,10 @@
     </item>
     
     <item>
-      <title>Distribution-Based Discretisation and Ordinal Classification Applied to Wave Height Prediction</title>
-      <link>/es/publication/guijo-ideal-2018/</link>
+      <title>Time series clustering based on the characterisation of segment typologies</title>
+      <link>/es/publication/guijo-2018-time/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/es/publication/guijo-ideal-2018/</guid>
+      <guid>/es/publication/guijo-2018-time/</guid>
       <description></description>
     </item>
     
@@ -57,6 +57,22 @@
       <link>/es/publication/diaz-caepia-2018/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       <guid>/es/publication/diaz-caepia-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid Weighted Barebones Exploiting Particle Swarm Optimization Algorithm for Time Series Representation</title>
+      <link>/es/publication/duran-2018-bioma/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/es/publication/duran-2018-bioma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering de Series Temporales basado en la Extracción de Tipologías de Segmentos</title>
+      <link>/es/publication/guijo-jovenes-uco-16/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/es/publication/guijo-jovenes-uco-16/</guid>
       <description></description>
     </item>
     
