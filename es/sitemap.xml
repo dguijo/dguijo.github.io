@@ -3,32 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/es/publication_types/1/</loc>
-    <lastmod>2021-04-28T14:24:58+02:00</lastmod>
+    <loc>/es/publication_types/2/</loc>
+    <lastmod>2021-04-28T11:37:54+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/publication_types/1/"
+                href="/publication_types/2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/publication_types/1/"
+                href="/es/publication_types/2/"
                 />
   </url>
   
   <url>
-    <loc>/es/authors/anthony-bagnall/</loc>
-    <lastmod>2021-04-28T14:24:56+02:00</lastmod>
+    <loc>/es/authors/antonio-manuel-duran-rosal/</loc>
+    <lastmod>2021-04-28T14:24:58+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/authors/anthony-bagnall/"
+                href="/authors/antonio-manuel-duran-rosal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/authors/anthony-bagnall/"
+                href="/es/authors/antonio-manuel-duran-rosal/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/authors/antonio-manuel-gomez-orellana/</loc>
+    <lastmod>2021-04-28T11:37:52+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/antonio-manuel-gomez-orellana/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/antonio-manuel-gomez-orellana/"
                 />
   </url>
   
@@ -44,6 +59,21 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/authors/carlos-casanova-mateo/</loc>
+    <lastmod>2021-04-28T14:24:57+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/carlos-casanova-mateo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/carlos-casanova-mateo/"
                 />
   </url>
   
@@ -93,17 +123,47 @@
   </url>
   
   <url>
-    <loc>/es/publication/guijo-aaltd-2020/</loc>
-    <lastmod>2021-04-28T14:24:56+02:00</lastmod>
+    <loc>/es/tags/evolutionary-artificial-neural-networks/</loc>
+    <lastmod>2021-04-28T11:37:52+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/publication/guijo-aaltd-2020/"
+                href="/tags/evolutionary-artificial-neural-networks/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/publication/guijo-aaltd-2020/"
+                href="/es/tags/evolutionary-artificial-neural-networks/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/publication/solar-energy-guijo-2920/</loc>
+    <lastmod>2021-04-28T11:37:52+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/solar-energy-guijo-2920/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/solar-energy-guijo-2920/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/authors/julia-sanz-justo/</loc>
+    <lastmod>2021-04-28T11:37:54+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/julia-sanz-justo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/julia-sanz-justo/"
                 />
   </url>
   
@@ -119,6 +179,21 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/authors/pedro-antonio-gutierrez/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/physical-models/</loc>
+    <lastmod>2021-04-28T11:37:52+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/physical-models/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/physical-models/"
                 />
   </url>
   
@@ -153,62 +228,392 @@
   </url>
   
   <url>
-    <loc>/es/publication/ijcnn-guijo-2020/</loc>
-    <lastmod>2021-04-28T14:24:56+02:00</lastmod>
+    <loc>/es/authors/sancho-salcedo-sanz/</loc>
+    <lastmod>2021-04-28T14:24:58+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/publication/ijcnn-guijo-2020/"
+                href="/authors/sancho-salcedo-sanz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/publication/ijcnn-guijo-2020/"
+                href="/es/authors/sancho-salcedo-sanz/"
                 />
   </url>
   
   <url>
-    <loc>/es/publication_types/2/</loc>
+    <loc>/es/tags/satellite-data/</loc>
     <lastmod>2021-04-28T11:37:52+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/publication_types/2/"
+                href="/tags/satellite-data/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/publication_types/2/"
+                href="/es/tags/satellite-data/"
                 />
   </url>
   
   <url>
-    <loc>/es/authors/antonio-manuel-gomez-orellana/</loc>
+    <loc>/es/tags/solar-radiation-estimation/</loc>
     <lastmod>2021-04-28T11:37:52+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/authors/antonio-manuel-gomez-orellana/"
+                href="/tags/solar-radiation-estimation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/authors/antonio-manuel-gomez-orellana/"
+                href="/es/tags/solar-radiation-estimation/"
                 />
   </url>
   
   <url>
-    <loc>/es/authors/carlos-casanova-mateo/</loc>
+    <loc>/es/tags/</loc>
     <lastmod>2021-04-28T14:24:57+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/authors/carlos-casanova-mateo/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/authors/carlos-casanova-mateo/"
+                href="/es/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/liver-transplant/</loc>
+    <lastmod>2021-04-28T11:37:52+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/liver-transplant/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/liver-transplant/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/machine-learning/</loc>
+    <lastmod>2021-04-28T11:37:52+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/machine-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/machine-learning/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/publication/coot-guijo-2020/</loc>
+    <lastmod>2021-04-28T11:37:52+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/coot-guijo-2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/coot-guijo-2020/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/organ-transplantation/</loc>
+    <lastmod>2021-04-28T11:37:52+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/organ-transplantation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/organ-transplantation/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/unos-database/</loc>
+    <lastmod>2021-04-28T11:37:52+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/unos-database/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/unos-database/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/airports/</loc>
+    <lastmod>2021-04-28T11:37:52+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/airports/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/airports/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/convective-analysis/</loc>
+    <lastmod>2021-04-28T11:37:52+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/convective-analysis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/convective-analysis/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/convective-clouds/</loc>
+    <lastmod>2021-04-28T11:37:52+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/convective-clouds/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/convective-clouds/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/authors/juilia-sanz-justo/</loc>
+    <lastmod>2021-04-28T11:37:52+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/juilia-sanz-justo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/juilia-sanz-justo/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/machine-learning-techniques/</loc>
+    <lastmod>2021-04-28T11:37:52+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/machine-learning-techniques/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/machine-learning-techniques/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/ordinal-regression/</loc>
+    <lastmod>2021-04-28T11:37:52+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/ordinal-regression/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/ordinal-regression/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/publication/tormentas-barajas-2019-atmos/</loc>
+    <lastmod>2021-04-28T11:37:52+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/tormentas-barajas-2019-atmos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/tormentas-barajas-2019-atmos/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/authors/sara-cornejo-bueno/</loc>
+    <lastmod>2021-04-28T11:37:52+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/sara-cornejo-bueno/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/sara-cornejo-bueno/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/authors/antonio-ruiz-gonzalez/</loc>
+    <lastmod>2021-04-28T11:19:50+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/antonio-ruiz-gonzalez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/antonio-ruiz-gonzalez/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/artificial-neural-networks/</loc>
+    <lastmod>2021-04-28T11:19:50+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/artificial-neural-networks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/artificial-neural-networks/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/authors/francisco-javier-jimenez-romero/</loc>
+    <lastmod>2021-04-28T11:19:50+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/francisco-javier-jimenez-romero/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/francisco-javier-jimenez-romero/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/authors/francisco-ramon-lara-raya/</loc>
+    <lastmod>2021-04-28T11:19:50+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/francisco-ramon-lara-raya/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/francisco-ramon-lara-raya/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/induction-motor/</loc>
+    <lastmod>2021-04-28T11:19:50+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/induction-motor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/induction-motor/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/pulse-width-modulation/</loc>
+    <lastmod>2021-04-28T11:19:50+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/pulse-width-modulation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/pulse-width-modulation/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/sigmoid-units/</loc>
+    <lastmod>2021-04-28T11:19:50+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/sigmoid-units/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/sigmoid-units/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/sound-quality/</loc>
+    <lastmod>2021-04-28T11:19:50+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/sound-quality/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/sound-quality/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/publication/ap-acoustics-2020/</loc>
+    <lastmod>2021-04-28T11:19:50+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/ap-acoustics-2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/ap-acoustics-2020/"
                 />
   </url>
   
@@ -303,36 +708,6 @@
   </url>
   
   <url>
-    <loc>/es/authors/sancho-salcedo-sanz/</loc>
-    <lastmod>2021-04-28T14:24:58+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/sancho-salcedo-sanz/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/authors/sancho-salcedo-sanz/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/tags/</loc>
-    <lastmod>2021-04-28T14:24:58+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>/es/tags/unbalanced-databases/</loc>
     <lastmod>2021-04-28T11:37:52+02:00</lastmod>
     <xhtml:link
@@ -344,21 +719,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/tags/unbalanced-databases/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/publication/guijo-uco-2019/</loc>
-    <lastmod>2021-04-28T14:24:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/guijo-uco-2019/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/publication/guijo-uco-2019/"
                 />
   </url>
   
@@ -378,17 +738,212 @@
   </url>
   
   <url>
-    <loc>/es/authors/antonio-manuel-duran-rosal/</loc>
-    <lastmod>2021-04-28T14:24:58+02:00</lastmod>
+    <loc>/es/tags/data-mining/</loc>
+    <lastmod>2021-04-28T11:37:53+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/authors/antonio-manuel-duran-rosal/"
+                href="/tags/data-mining/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/authors/antonio-manuel-duran-rosal/"
+                href="/es/tags/data-mining/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/feature-extraction/</loc>
+    <lastmod>2021-04-28T11:37:53+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/feature-extraction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/feature-extraction/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/segmentation/</loc>
+    <lastmod>2021-04-28T11:37:53+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/segmentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/segmentation/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/time-series-clustering/</loc>
+    <lastmod>2021-04-28T11:37:53+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/time-series-clustering/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/time-series-clustering/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/publication/clustering-guijo-19/</loc>
+    <lastmod>2021-04-28T11:37:53+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/clustering-guijo-19/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/clustering-guijo-19/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/publication_types/1/</loc>
+    <lastmod>2021-04-28T14:24:58+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication_types/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication_types/1/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/publication/guijo-shapelets-2019-ideal/</loc>
+    <lastmod>2021-04-28T14:24:57+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/guijo-shapelets-2019-ideal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/guijo-shapelets-2019-ideal/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/authors/anthony-bagnall/</loc>
+    <lastmod>2021-04-28T14:24:57+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/anthony-bagnall/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/anthony-bagnall/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/authors/r.-tavenard/</loc>
+    <lastmod>2021-04-28T14:24:57+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/r.-tavenard/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/r.-tavenard/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/publication/guijo-uco-2019/</loc>
+    <lastmod>2021-04-28T14:24:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/guijo-uco-2019/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/guijo-uco-2019/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/authors/francisco-comino/</loc>
+    <lastmod>2021-04-28T11:37:54+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/francisco-comino/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/francisco-comino/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/authors/manuel-ruiz-de-adana/</loc>
+    <lastmod>2021-04-28T11:37:54+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/manuel-ruiz-de-adana/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/manuel-ruiz-de-adana/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/publication/comino-2019-validation/</loc>
+    <lastmod>2021-04-28T11:37:54+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/comino-2019-validation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/comino-2019-validation/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/publication/guijo-2018-fog-ordinal/</loc>
+    <lastmod>2021-04-28T11:37:54+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/guijo-2018-fog-ordinal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/guijo-2018-fog-ordinal/"
                 />
   </url>
   
@@ -498,6 +1053,21 @@
   </url>
   
   <url>
+    <loc>/es/publication/duran-2018-bioma/</loc>
+    <lastmod>2021-04-28T14:24:58+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/duran-2018-bioma/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/duran-2018-bioma/"
+                />
+  </url>
+  
+  <url>
     <loc>/es/publication/duran-rosal-2017/</loc>
     <lastmod>2021-04-28T14:24:58+02:00</lastmod>
     <xhtml:link
@@ -509,51 +1079,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/publication/duran-rosal-2017/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/publication/guijo-jovenes-uco-16/</loc>
-    <lastmod>2021-04-28T14:24:58+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/guijo-jovenes-uco-16/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/publication/guijo-jovenes-uco-16/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/tags/time-series-clustering/</loc>
-    <lastmod>2021-04-28T14:24:58+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/time-series-clustering/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/time-series-clustering/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/tags/time-series-segmentation/</loc>
-    <lastmod>2021-04-28T14:24:58+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/time-series-segmentation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/time-series-segmentation/"
                 />
   </url>
   

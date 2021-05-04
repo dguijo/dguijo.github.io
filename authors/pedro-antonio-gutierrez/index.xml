@@ -21,18 +21,18 @@
     </item>
     
     <item>
-      <title>Ordinal versus nominal time series classification</title>
-      <link>/es/publication/guijo-aaltd-2020/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/es/publication/guijo-aaltd-2020/</guid>
+      <title>Evolutionary artificial neural networks for accurate solar radiation prediction</title>
+      <link>/publication/solar-energy-guijo-2920/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/solar-energy-guijo-2920/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ordinal versus nominal time series classification</title>
-      <link>/publication/guijo-aaltd-2020/</link>
+      <link>/es/publication/guijo-aaltd-2020/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-aaltd-2020/</guid>
+      <guid>/es/publication/guijo-aaltd-2020/</guid>
       <description></description>
     </item>
     
@@ -45,6 +45,14 @@
     </item>
     
     <item>
+      <title>Machine learning methods in organ transplantation</title>
+      <link>/publication/coot-guijo-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/coot-guijo-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Time series ordinal classification via shapelets</title>
       <link>/es/publication/ijcnn-guijo-2020/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
@@ -53,18 +61,18 @@
     </item>
     
     <item>
-      <title>Time series ordinal classification via shapelets</title>
-      <link>/publication/ijcnn-guijo-2020/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/ijcnn-guijo-2020/</guid>
+      <title>Ordinal regression algorithms for the analysis of convective situations over Madrid-Barajas airport</title>
+      <link>/es/publication/tormentas-barajas-2019-atmos/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/es/publication/tormentas-barajas-2019-atmos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ordinal regression algorithms for the analysis of convective situations over Madrid-Barajas airport</title>
-      <link>/es/publication/tormentas-barajas-2019-atmos/</link>
+      <link>/publication/tormentas-barajas-2019-atmos/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/es/publication/tormentas-barajas-2019-atmos/</guid>
+      <guid>/publication/tormentas-barajas-2019-atmos/</guid>
       <description></description>
     </item>
     
@@ -101,6 +109,14 @@
     </item>
     
     <item>
+      <title>Time series clustering based on the characterisation of segment typologies</title>
+      <link>/publication/clustering-guijo-19/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/clustering-guijo-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Using machine learning methods to determine a typology of patients with HIV-HCV infection to be treated with antivirals</title>
       <link>/es/publication/vih-ann-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -113,6 +129,14 @@
       <link>/es/publication/guijo-shapelets-2019-ideal/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/es/publication/guijo-shapelets-2019-ideal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A hybrid approach to time series classification with shapelets</title>
+      <link>/publication/guijo-shapelets-2019-ideal/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/guijo-shapelets-2019-ideal/</guid>
       <description></description>
     </item>
     
@@ -145,6 +169,14 @@
       <link>/es/publication/guijo-2018-fog-ordinal/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       <guid>/es/publication/guijo-2018-fog-ordinal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of low-visibility events due to fog using ordinal classification</title>
+      <link>/publication/guijo-2018-fog-ordinal/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/guijo-2018-fog-ordinal/</guid>
       <description></description>
     </item>
     
@@ -197,6 +229,14 @@
     </item>
     
     <item>
+      <title>Hybrid Weighted Barebones Exploiting Particle Swarm Optimization Algorithm for Time Series Representation</title>
+      <link>/publication/duran-2018-bioma/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/duran-2018-bioma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A coral reef optimization algorithm for wave height time series segmentation problems </title>
       <link>/es/publication/duran-rosal-2017/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
@@ -217,14 +257,6 @@
       <link>/es/publication/guijo-jovenes-uco-16/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       <guid>/es/publication/guijo-jovenes-uco-16/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clustering de Series Temporales basado en la Extracción de Tipologías de Segmentos</title>
-      <link>/publication/guijo-jovenes-uco-16/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-jovenes-uco-16/</guid>
       <description></description>
     </item>
     

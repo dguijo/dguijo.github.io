@@ -21,10 +21,26 @@
     </item>
     
     <item>
+      <title>Evolutionary artificial neural networks for accurate solar radiation prediction</title>
+      <link>/publication/solar-energy-guijo-2920/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/solar-energy-guijo-2920/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Machine learning methods in organ transplantation</title>
       <link>/es/publication/coot-guijo-2020/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <guid>/es/publication/coot-guijo-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning methods in organ transplantation</title>
+      <link>/publication/coot-guijo-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/coot-guijo-2020/</guid>
       <description></description>
     </item>
     
@@ -37,10 +53,26 @@
     </item>
     
     <item>
+      <title>Ordinal regression algorithms for the analysis of convective situations over Madrid-Barajas airport</title>
+      <link>/publication/tormentas-barajas-2019-atmos/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/tormentas-barajas-2019-atmos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Validation of artificial neural networks to model the acoustic behaviour of induction motors</title>
       <link>/es/publication/ap-acoustics-2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/es/publication/ap-acoustics-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation of artificial neural networks to model the acoustic behaviour of induction motors</title>
+      <link>/publication/ap-acoustics-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ap-acoustics-2020/</guid>
       <description></description>
     </item>
     
@@ -77,6 +109,14 @@
     </item>
     
     <item>
+      <title>Time series clustering based on the characterisation of segment typologies</title>
+      <link>/publication/clustering-guijo-19/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/clustering-guijo-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Using machine learning methods to determine a typology of patients with HIV-HCV infection to be treated with antivirals</title>
       <link>/es/publication/vih-ann-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -93,10 +133,26 @@
     </item>
     
     <item>
+      <title>Validation of multitask artificial neural networks to model desiccant wheels activated at low temperature</title>
+      <link>/publication/comino-2019-validation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/comino-2019-validation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Prediction of low-visibility events due to fog using ordinal classification</title>
       <link>/es/publication/guijo-2018-fog-ordinal/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       <guid>/es/publication/guijo-2018-fog-ordinal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of low-visibility events due to fog using ordinal classification</title>
+      <link>/publication/guijo-2018-fog-ordinal/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/guijo-2018-fog-ordinal/</guid>
       <description></description>
     </item>
     

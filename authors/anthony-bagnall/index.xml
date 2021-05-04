@@ -21,14 +21,6 @@
     </item>
     
     <item>
-      <title>Ordinal versus nominal time series classification</title>
-      <link>/publication/guijo-aaltd-2020/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-aaltd-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Time series ordinal classification via shapelets</title>
       <link>/es/publication/ijcnn-guijo-2020/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
@@ -37,18 +29,18 @@
     </item>
     
     <item>
-      <title>Time series ordinal classification via shapelets</title>
-      <link>/publication/ijcnn-guijo-2020/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/ijcnn-guijo-2020/</guid>
+      <title>A hybrid approach to time series classification with shapelets</title>
+      <link>/es/publication/guijo-shapelets-2019-ideal/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/es/publication/guijo-shapelets-2019-ideal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A hybrid approach to time series classification with shapelets</title>
-      <link>/es/publication/guijo-shapelets-2019-ideal/</link>
+      <link>/publication/guijo-shapelets-2019-ideal/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/es/publication/guijo-shapelets-2019-ideal/</guid>
+      <guid>/publication/guijo-shapelets-2019-ideal/</guid>
       <description></description>
     </item>
     
