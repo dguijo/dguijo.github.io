@@ -5,36 +5,12 @@
     <link>/es/publication_types/1/</link>
       <atom:link href="/es/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2021</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2021</copyright><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>/es/publication_types/1/</link>
     </image>
-    
-    <item>
-      <title>Ordinal versus nominal time series classification</title>
-      <link>/es/publication/guijo-aaltd-2020/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/es/publication/guijo-aaltd-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A hybrid approach to time series classification with shapelets</title>
-      <link>/es/publication/guijo-shapelets-2019-ideal/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/es/publication/guijo-shapelets-2019-ideal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modelling survival by machine learning methods in liver transplantation: application to the UNOS dataset</title>
-      <link>/es/publication/ideal-guijo-2019/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/es/publication/ideal-guijo-2019/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Predicción de altura de ola mediante discretización basada en distribuciones utilizando clasificación ordinal</title>
@@ -45,26 +21,10 @@
     </item>
     
     <item>
-      <title>Time series clustering based on the characterisation of segment typologies</title>
-      <link>/es/publication/guijo-2018-time/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/es/publication/guijo-2018-time/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Algoritmos de aprendizaje automático para predicción de niveles de niebla usando ventanas estáticas y dinámicas</title>
-      <link>/es/publication/diaz-caepia-2018/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/es/publication/diaz-caepia-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hybrid Weighted Barebones Exploiting Particle Swarm Optimization Algorithm for Time Series Representation</title>
-      <link>/es/publication/duran-2018-bioma/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>/es/publication/duran-2018-bioma/</guid>
+      <title>A coral reef optimization algorithm for wave height time series segmentation problems </title>
+      <link>/es/publication/duran-rosal-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/es/publication/duran-rosal-2017/</guid>
       <description></description>
     </item>
     
@@ -73,6 +33,14 @@
       <link>/es/publication/guijo-jovenes-uco-16/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       <guid>/es/publication/guijo-jovenes-uco-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiclass Prediction of Wind Power Ramp Events Combining Reservoir Computing and Support Vector Machines</title>
+      <link>/es/publication/manolo-2016-caepia/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/es/publication/manolo-2016-caepia/</guid>
       <description></description>
     </item>
     
