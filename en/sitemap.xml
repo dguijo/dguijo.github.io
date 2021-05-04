@@ -123,11 +123,6 @@
   </url>
   
   <url>
-    <loc>/es/</loc>
-    <lastmod>2021-04-28T14:28:04+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/evolutionary-artificial-neural-networks/</loc>
     <lastmod>2021-04-28T11:37:52+02:00</lastmod>
     <xhtml:link
@@ -140,11 +135,6 @@
                 hreflang="en"
                 href="/tags/evolutionary-artificial-neural-networks/"
                 />
-  </url>
-  
-  <url>
-    <loc>/es/publication/solar-energy-guijo-2920/</loc>
-    <lastmod>2021-04-28T11:37:52+02:00</lastmod>
   </url>
   
   <url>
@@ -223,13 +213,8 @@
   </url>
   
   <url>
-    <loc>/es/publication/</loc>
-    <lastmod>2021-04-28T14:28:04+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/</loc>
-    <lastmod>2021-04-28T14:24:58+02:00</lastmod>
+    <lastmod>2021-04-28T14:28:04+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -333,8 +318,18 @@
   </url>
   
   <url>
-    <loc>/es/publication/guijo-aaltd-2020/</loc>
+    <loc>/publication/guijo-aaltd-2020/</loc>
     <lastmod>2021-04-28T14:24:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/guijo-aaltd-2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/guijo-aaltd-2020/"
+                />
   </url>
   
   <url>
@@ -365,11 +360,6 @@
                 hreflang="en"
                 href="/tags/machine-learning/"
                 />
-  </url>
-  
-  <url>
-    <loc>/es/publication/coot-guijo-2020/</loc>
-    <lastmod>2021-04-28T11:37:52+02:00</lastmod>
   </url>
   
   <url>
@@ -418,8 +408,18 @@
   </url>
   
   <url>
-    <loc>/es/publication/ijcnn-guijo-2020/</loc>
+    <loc>/publication/ijcnn-guijo-2020/</loc>
     <lastmod>2021-04-28T14:24:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/ijcnn-guijo-2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/ijcnn-guijo-2020/"
+                />
   </url>
   
   <url>
@@ -510,11 +510,6 @@
                 hreflang="en"
                 href="/tags/ordinal-regression/"
                 />
-  </url>
-  
-  <url>
-    <loc>/es/publication/tormentas-barajas-2019-atmos/</loc>
-    <lastmod>2021-04-28T11:37:52+02:00</lastmod>
   </url>
   
   <url>
@@ -668,11 +663,6 @@
   </url>
   
   <url>
-    <loc>/es/publication/ap-acoustics-2020/</loc>
-    <lastmod>2021-04-28T11:19:50+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/ap-acoustics-2020/</loc>
     <lastmod>2021-04-28T11:19:50+02:00</lastmod>
     <xhtml:link
@@ -763,11 +753,6 @@
   </url>
   
   <url>
-    <loc>/es/publication/ncaa-2020/</loc>
-    <lastmod>2021-04-28T11:37:52+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/ncaa-2020/</loc>
     <lastmod>2021-04-28T11:37:52+02:00</lastmod>
     <xhtml:link
@@ -815,16 +800,46 @@
   <url>
     <loc>/authors/antonio-rivero/</loc>
     <lastmod>2021-04-28T11:37:53+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/antonio-rivero/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/antonio-rivero/"
+                />
   </url>
   
   <url>
     <loc>/authors/antonio-rivero-juarez/</loc>
     <lastmod>2021-04-28T11:37:53+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/antonio-rivero-juarez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/antonio-rivero-juarez/"
+                />
   </url>
   
   <url>
     <loc>/authors/cesar-hervas-mart%5Cnez/</loc>
     <lastmod>2021-04-28T14:28:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/cesar-hervas-mart%5Cnez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/cesar-hervas-mart%5Cnez/"
+                />
   </url>
   
   <url>
@@ -845,6 +860,16 @@
   <url>
     <loc>/authors/dolores-merino/</loc>
     <lastmod>2021-04-28T11:37:53+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/dolores-merino/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/dolores-merino/"
+                />
   </url>
   
   <url>
@@ -865,31 +890,91 @@
   <url>
     <loc>/tags/flux-of-energy-prediction/</loc>
     <lastmod>2021-04-28T11:37:53+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/flux-of-energy-prediction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/flux-of-energy-prediction/"
+                />
   </url>
   
   <url>
     <loc>/authors/francisco-tellez/</loc>
     <lastmod>2021-04-28T11:37:53+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/francisco-tellez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/francisco-tellez/"
+                />
   </url>
   
   <url>
     <loc>/tags/hepatitis-c-virus/</loc>
     <lastmod>2021-04-28T11:37:53+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/hepatitis-c-virus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/hepatitis-c-virus/"
+                />
   </url>
   
   <url>
     <loc>/authors/juan-macias/</loc>
     <lastmod>2021-04-28T11:37:53+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/juan-macias/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/juan-macias/"
+                />
   </url>
   
   <url>
     <loc>/tags/ocean-engineering/</loc>
     <lastmod>2021-04-28T11:37:53+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/ocean-engineering/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/ocean-engineering/"
+                />
   </url>
   
   <url>
     <loc>/authors/rosario-palacios/</loc>
     <lastmod>2021-04-28T11:37:53+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/rosario-palacios/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/rosario-palacios/"
+                />
   </url>
   
   <url>
@@ -908,8 +993,18 @@
   </url>
   
   <url>
-    <loc>/es/publication/ocean-engineering-guijo-2020/</loc>
+    <loc>/publication/ocean-engineering-guijo-2020/</loc>
     <lastmod>2021-04-28T11:37:53+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/ocean-engineering-guijo-2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/ocean-engineering-guijo-2020/"
+                />
   </url>
   
   <url>
@@ -925,11 +1020,6 @@
                 hreflang="en"
                 href="/tags/time-series-clustering/"
                 />
-  </url>
-  
-  <url>
-    <loc>/es/publication/clustering-guijo-19/</loc>
-    <lastmod>2021-04-28T11:37:53+02:00</lastmod>
   </url>
   
   <url>
@@ -950,16 +1040,31 @@
   <url>
     <loc>/tags/typology-of-patients/</loc>
     <lastmod>2021-04-28T11:37:53+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/typology-of-patients/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/typology-of-patients/"
+                />
   </url>
   
   <url>
-    <loc>/es/publication/vih-ann-2020/</loc>
+    <loc>/publication/vih-ann-2020/</loc>
     <lastmod>2021-04-28T11:37:53+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/publication/guijo-shapelets-2019-ideal/</loc>
-    <lastmod>2021-04-28T14:24:57+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/vih-ann-2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/vih-ann-2020/"
+                />
   </url>
   
   <url>
@@ -980,21 +1085,61 @@
   <url>
     <loc>/authors/javier-briceno/</loc>
     <lastmod>2021-04-28T14:28:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/javier-briceno/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/javier-briceno/"
+                />
   </url>
   
   <url>
     <loc>/authors/maria-dolores-ayllon/</loc>
     <lastmod>2021-04-28T14:28:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/maria-dolores-ayllon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/maria-dolores-ayllon/"
+                />
   </url>
   
   <url>
-    <loc>/es/publication/ideal-guijo-2019/</loc>
+    <loc>/publication/ideal-guijo-2019/</loc>
     <lastmod>2021-04-28T14:28:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/ideal-guijo-2019/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/ideal-guijo-2019/"
+                />
   </url>
   
   <url>
     <loc>/authors/pedro-j.-villalon-vaquero/</loc>
     <lastmod>2021-04-28T14:28:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/pedro-j.-villalon-vaquero/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/pedro-j.-villalon-vaquero/"
+                />
   </url>
   
   <url>
@@ -1010,11 +1155,6 @@
                 hreflang="en"
                 href="/authors/r.-tavenard/"
                 />
-  </url>
-  
-  <url>
-    <loc>/es/publication/guijo-uco-2019/</loc>
-    <lastmod>2021-04-28T14:24:56+02:00</lastmod>
   </url>
   
   <url>
@@ -1063,11 +1203,6 @@
   </url>
   
   <url>
-    <loc>/es/publication/comino-2019-validation/</loc>
-    <lastmod>2021-04-28T11:37:54+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/comino-2019-validation/</loc>
     <lastmod>2021-04-28T11:37:54+02:00</lastmod>
     <xhtml:link
@@ -1080,11 +1215,6 @@
                 hreflang="en"
                 href="/publication/comino-2019-validation/"
                 />
-  </url>
-  
-  <url>
-    <loc>/es/publication/guijo-2018-fog-ordinal/</loc>
-    <lastmod>2021-04-28T11:37:54+02:00</lastmod>
   </url>
   
   <url>
@@ -1105,31 +1235,76 @@
   <url>
     <loc>/authors/antonio-gomez-orellana/</loc>
     <lastmod>2021-04-28T14:28:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/antonio-gomez-orellana/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/antonio-gomez-orellana/"
+                />
   </url>
   
   <url>
     <loc>/tags/autoregressive-models/</loc>
     <lastmod>2021-04-28T14:28:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/autoregressive-models/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/autoregressive-models/"
+                />
   </url>
   
   <url>
     <loc>/tags/distribution-fitting/</loc>
     <lastmod>2021-04-28T14:28:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/distribution-fitting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/distribution-fitting/"
+                />
   </url>
   
   <url>
-    <loc>/es/publication/guijo-ideal-2018/</loc>
+    <loc>/publication/guijo-ideal-2018/</loc>
     <lastmod>2021-04-28T14:28:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/guijo-ideal-2018/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/guijo-ideal-2018/"
+                />
   </url>
   
   <url>
     <loc>/tags/ordinal-classification/</loc>
     <lastmod>2021-04-28T14:28:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/publication/guijo-2018-time/</loc>
-    <lastmod>2021-04-28T14:15:46+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/ordinal-classification/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/ordinal-classification/"
+                />
   </url>
   
   <url>
@@ -1150,16 +1325,31 @@
   <url>
     <loc>/tags/time-series-discretisation/</loc>
     <lastmod>2021-04-28T14:28:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/time-series-discretisation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/time-series-discretisation/"
+                />
   </url>
   
   <url>
     <loc>/tags/wave-height-prediction/</loc>
     <lastmod>2021-04-28T14:28:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/publication/diaz-caepia-2018/</loc>
-    <lastmod>2021-04-28T14:24:57+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/wave-height-prediction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/wave-height-prediction/"
+                />
   </url>
   
   <url>
@@ -1253,11 +1443,6 @@
   </url>
   
   <url>
-    <loc>/es/publication/duran-2018-bioma/</loc>
-    <lastmod>2021-04-28T14:24:58+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/duran-2018-bioma/</loc>
     <lastmod>2021-04-28T14:24:58+02:00</lastmod>
     <xhtml:link
@@ -1270,11 +1455,6 @@
                 hreflang="en"
                 href="/publication/duran-2018-bioma/"
                 />
-  </url>
-  
-  <url>
-    <loc>/es/publication/duran-rosal-2017/</loc>
-    <lastmod>2021-04-28T14:24:58+02:00</lastmod>
   </url>
   
   <url>
@@ -1293,13 +1473,33 @@
   </url>
   
   <url>
-    <loc>/es/publication/guijo-jovenes-uco-16/</loc>
+    <loc>/publication/guijo-jovenes-uco-16/</loc>
     <lastmod>2021-04-28T14:24:58+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/guijo-jovenes-uco-16/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/guijo-jovenes-uco-16/"
+                />
   </url>
   
   <url>
     <loc>/tags/time-series-segmentation/</loc>
     <lastmod>2021-04-28T14:24:58+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/time-series-segmentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/time-series-segmentation/"
+                />
   </url>
   
   <url>
@@ -1330,11 +1530,6 @@
                 hreflang="en"
                 href="/authors/manuel-dorado-moreno/"
                 />
-  </url>
-  
-  <url>
-    <loc>/es/publication/manolo-2016-caepia/</loc>
-    <lastmod>2021-04-28T14:24:58+02:00</lastmod>
   </url>
   
   <url>

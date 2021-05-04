@@ -21,10 +21,26 @@
     </item>
     
     <item>
+      <title>Ordinal versus nominal time series classification</title>
+      <link>/es/publication/guijo-aaltd-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/es/publication/guijo-aaltd-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Machine learning methods in organ transplantation</title>
       <link>/es/publication/coot-guijo-2020/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <guid>/es/publication/coot-guijo-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time series ordinal classification via shapelets</title>
+      <link>/es/publication/ijcnn-guijo-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/es/publication/ijcnn-guijo-2020/</guid>
       <description></description>
     </item>
     
@@ -49,6 +65,14 @@
       <link>/es/publication/ncaa-2020/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/es/publication/ncaa-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Short- and long-term energy flux prediction using Multi-Task Evolutionary Artificial Neural Networks</title>
+      <link>/es/publication/ocean-engineering-guijo-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/es/publication/ocean-engineering-guijo-2020/</guid>
       <description></description>
     </item>
     
@@ -85,6 +109,14 @@
     </item>
     
     <item>
+      <title>Distribution-Based Discretisation and Ordinal Classification Applied to Wave Height Prediction</title>
+      <link>/es/publication/guijo-ideal-2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/es/publication/guijo-ideal-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Time series clustering based on the characterisation of segment typologies</title>
       <link>/es/publication/guijo-2018-time/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
@@ -113,6 +145,14 @@
       <link>/es/publication/duran-rosal-2017/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       <guid>/es/publication/duran-rosal-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering de Series Temporales basado en la Extracción de Tipologías de Segmentos</title>
+      <link>/es/publication/guijo-jovenes-uco-16/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/es/publication/guijo-jovenes-uco-16/</guid>
       <description></description>
     </item>
     
