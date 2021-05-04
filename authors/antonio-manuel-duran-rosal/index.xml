@@ -37,6 +37,14 @@
     </item>
     
     <item>
+      <title>Time series clustering based on the characterisation of segment typologies</title>
+      <link>/publication/clustering-guijo-19/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/clustering-guijo-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Distribution-Based Discretisation and Ordinal Classification Applied to Wave Height Prediction</title>
       <link>/es/publication/guijo-ideal-2018/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
@@ -97,6 +105,14 @@
       <link>/es/publication/manolo-2016-caepia/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       <guid>/es/publication/manolo-2016-caepia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiclass Prediction of Wind Power Ramp Events Combining Reservoir Computing and Support Vector Machines</title>
+      <link>/publication/manolo-2016-caepia/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/manolo-2016-caepia/</guid>
       <description></description>
     </item>
     

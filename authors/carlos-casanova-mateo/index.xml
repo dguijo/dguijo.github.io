@@ -37,18 +37,18 @@
     </item>
     
     <item>
-      <title>Ordinal regression algorithms for the analysis of convective situations over Madrid-Barajas airport</title>
-      <link>/publication/tormentas-barajas-2019-atmos/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/tormentas-barajas-2019-atmos/</guid>
+      <title>Prediction of convective clouds formation using evolutionary neural computation techniques</title>
+      <link>/es/publication/ncaa-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/es/publication/ncaa-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prediction of convective clouds formation using evolutionary neural computation techniques</title>
-      <link>/es/publication/ncaa-2020/</link>
+      <link>/publication/ncaa-2020/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/es/publication/ncaa-2020/</guid>
+      <guid>/publication/ncaa-2020/</guid>
       <description></description>
     </item>
     
@@ -61,10 +61,26 @@
     </item>
     
     <item>
+      <title>Prediction of low-visibility events due to fog using ordinal classification</title>
+      <link>/publication/guijo-2018-fog-ordinal/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/guijo-2018-fog-ordinal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Algoritmos de aprendizaje automático para predicción de niveles de niebla usando ventanas estáticas y dinámicas</title>
       <link>/es/publication/diaz-caepia-2018/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       <guid>/es/publication/diaz-caepia-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algoritmos de aprendizaje automático para predicción de niveles de niebla usando ventanas estáticas y dinámicas</title>
+      <link>/publication/diaz-caepia-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/diaz-caepia-2018/</guid>
       <description></description>
     </item>
     
