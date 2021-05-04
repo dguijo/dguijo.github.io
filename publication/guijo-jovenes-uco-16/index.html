@@ -30,6 +30,8 @@
   <meta name="description" content="Durante los últimos años se ha producido un gran aumento de series de datos distribuidas a lo largo del tiempo, o lo que es lo mismo, de series temporales. Este crecimiento ha traído consigo un interés en su agrupamiento o clustering, proceso de agrupar las series de forma que, las series de un mismo grupo sean muy similares entre sí y muy diferentes a las de otros grupos. Cuando las series temporales son muy largas, presentan ruido o valores perdidos, muchos de los métodos actuales obtienen soluciones que no son aceptables. En este artículo se presenta un nuevo método de clustering para series temporales, mediante polinomios utilizando un método conocido como Growing Window. De esta forma simplificamos la serie a un conjunto de coeficientes lineales de grado variable, para, posteriormente, agrupar los diferentes segmentos y hallar los centroides de cada cluster. Al final la serie queda simplificada a n x d elementos, siendo n el número de clusters y d el grado del polinomio utilizado en la aproximación y es con esta representación con la que se realiza la agrupación final. El objetivo de esta nueva metodología consiste en disminuir la dimensionalidad de la serie temporal, la sensibilidad del agrupamiento y los datos perdidos.">
 
   
+  <link rel="alternate" hreflang="es" href="/es/publication/guijo-jovenes-uco-16/">
+  
   <link rel="alternate" hreflang="en-us" href="/publication/guijo-jovenes-uco-16/">
 
   
@@ -203,6 +205,44 @@
   
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-271170290-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-271170290-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -532,6 +572,22 @@
 
       
 
+      
+      <li class="nav-item dropdown i18n-dropdown">
+        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">English</span>
+        </a>
+        <div class="dropdown-menu">
+          <div class="dropdown-item dropdown-item-active">
+            <span>English</span>
+          </div>
+          
+          <a class="dropdown-item" href="/es/publication/guijo-jovenes-uco-16/">
+            <span>Español</span>
+          </a>
+          
+        </div>
+      </li>
       
 
     </ul>
@@ -872,7 +928,9 @@
     <h3>Related</h3>
     <ul>
       
-      <li><a href="/publication/clustering-guijo-19/">Time series clustering based on the characterisation of segment typologies</a></li>
+      <li><a href="/es/publication/guijo-jovenes-uco-16/">Clustering de Series Temporales basado en la Extracción de Tipologías de Segmentos</a></li>
+      
+      <li><a href="/es/publication/clustering-guijo-19/">Time series clustering based on the characterisation of segment typologies</a></li>
       
     </ul>
   </div>
