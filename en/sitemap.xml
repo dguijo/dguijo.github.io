@@ -1589,4 +1589,18 @@
                 />
   </url>
   
+  <url>
+    <loc>/teaching/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/teaching/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/teaching/"
+                />
+  </url>
+  
 </urlset>

@@ -1576,6 +1576,20 @@
   </url>
   
   <url>
+    <loc>/es/teaching/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/teaching/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/teaching/"
+                />
+  </url>
+  
+  <url>
     <loc>/es/https/dguijo.github.io/</loc>
     <xhtml:link
                 rel="alternate"
