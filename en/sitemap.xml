@@ -468,21 +468,6 @@
   </url>
   
   <url>
-    <loc>/authors/juilia-sanz-justo/</loc>
-    <lastmod>2021-04-28T11:37:52+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/authors/juilia-sanz-justo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/juilia-sanz-justo/"
-                />
-  </url>
-  
-  <url>
     <loc>/tags/machine-learning-techniques/</loc>
     <lastmod>2021-04-28T11:37:52+02:00</lastmod>
     <xhtml:link
@@ -1576,6 +1561,20 @@
   </url>
   
   <url>
+    <loc>/extra_teaching/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/extra_teaching/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/extra_teaching/"
+                />
+  </url>
+  
+  <url>
     <loc>/https/dguijo.github.io/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1586,6 +1585,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="/https/dguijo.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>/press/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/press/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/press/"
                 />
   </url>
   
