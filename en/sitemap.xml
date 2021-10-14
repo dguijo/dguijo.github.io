@@ -3,6 +3,201 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2021-05-24T10:17:15+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication_types/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication_types/2/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/antonio-manuel-duran-rosal/</loc>
+    <lastmod>2021-04-28T14:28:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/antonio-manuel-duran-rosal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/antonio-manuel-duran-rosal/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/antonio-manuel-gomez-orellana/</loc>
+    <lastmod>2021-04-28T14:24:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/antonio-manuel-gomez-orellana/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/antonio-manuel-gomez-orellana/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2021-05-24T10:30:21+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/david-guijo-rubio/</loc>
+    <lastmod>2021-05-24T10:30:21+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/david-guijo-rubio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/david-guijo-rubio/"
+                />
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-05-24T10:30:21+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/javier-barbero-gomez/</loc>
+    <lastmod>2021-04-28T14:24:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/javier-barbero-gomez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/javier-barbero-gomez/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/juan-carlos-fernandez/</loc>
+    <lastmod>2021-04-28T14:24:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/juan-carlos-fernandez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/juan-carlos-fernandez/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/pedro-antonio-gutierrez/</loc>
+    <lastmod>2021-05-24T10:30:21+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/pedro-antonio-gutierrez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/pedro-antonio-gutierrez/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/guijo-docencia-2021/</loc>
+    <lastmod>2021-04-28T14:24:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/guijo-docencia-2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/guijo-docencia-2021/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-05-24T10:30:21+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-05-24T10:30:21+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/victor-manuel-vargas/</loc>
+    <lastmod>2021-05-24T10:30:21+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/victor-manuel-vargas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/victor-manuel-vargas/"
+                />
+  </url>
+  
+  <url>
     <loc>/tags/analysis-activations/</loc>
     <lastmod>2021-05-24T10:15:44+02:00</lastmod>
     <xhtml:link
@@ -168,21 +363,6 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2021-05-24T10:30:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/"
-                />
-  </url>
-  
-  <url>
     <loc>/authors/cesar-hervas-mart%5Cnez/</loc>
     <lastmod>2021-05-24T10:15:44+02:00</lastmod>
     <xhtml:link
@@ -209,81 +389,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/authors/cesar-hervas-martinez/"
-                />
-  </url>
-  
-  <url>
-    <loc>/authors/david-guijo-rubio/</loc>
-    <lastmod>2021-05-24T10:30:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/authors/david-guijo-rubio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/david-guijo-rubio/"
-                />
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2021-05-24T10:30:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-  </url>
-  
-  <url>
-    <loc>/authors/pedro-antonio-gutierrez/</loc>
-    <lastmod>2021-05-24T10:30:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/authors/pedro-antonio-gutierrez/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/pedro-antonio-gutierrez/"
-                />
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-05-24T10:30:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2021-05-24T10:30:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/"
                 />
   </url>
   
@@ -573,21 +678,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2021-05-24T10:17:15+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/publication_types/2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication_types/2/"
-                />
-  </url>
-  
-  <url>
     <loc>/authors/javier-briceno/</loc>
     <lastmod>2021-05-24T10:17:15+02:00</lastmod>
     <xhtml:link
@@ -689,36 +779,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tags/unos-database/"
-                />
-  </url>
-  
-  <url>
-    <loc>/authors/antonio-manuel-duran-rosal/</loc>
-    <lastmod>2021-04-28T14:28:04+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/authors/antonio-manuel-duran-rosal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/antonio-manuel-duran-rosal/"
-                />
-  </url>
-  
-  <url>
-    <loc>/authors/antonio-manuel-gomez-orellana/</loc>
-    <lastmod>2021-04-28T11:37:53+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/authors/antonio-manuel-gomez-orellana/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/antonio-manuel-gomez-orellana/"
                 />
   </url>
   
@@ -1169,21 +1229,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tags/convection-initialization-prediction/"
-                />
-  </url>
-  
-  <url>
-    <loc>/authors/juan-carlos-fernandez/</loc>
-    <lastmod>2021-04-28T11:37:53+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/authors/juan-carlos-fernandez/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/juan-carlos-fernandez/"
                 />
   </url>
   
