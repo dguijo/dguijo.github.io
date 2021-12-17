@@ -4,7 +4,7 @@
   
   <url>
     <loc>/es/publication_types/2/</loc>
-    <lastmod>2021-05-24T10:17:15+02:00</lastmod>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +14,246 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/publication_types/2/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/authors/a.-m.-gomez-orellana/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/a.-m.-gomez-orellana/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/a.-m.-gomez-orellana/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/authors/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/authors/c.-hervas-martinez/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/c.-hervas-martinez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/c.-hervas-martinez/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/authors/d.-guijo-rubio/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/d.-guijo-rubio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/d.-guijo-rubio/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/energy-flux-prediction/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/energy-flux-prediction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/energy-flux-prediction/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/evolutionary-artificial-neural-networks/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/evolutionary-artificial-neural-networks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/evolutionary-artificial-neural-networks/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/marine-energy/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/marine-energy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/marine-energy/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/multi-task-machine-learning/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/multi-task-machine-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/multi-task-machine-learning/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/authors/p.-a.-gutierrez/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/p.-a.-gutierrez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/p.-a.-gutierrez/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/publication/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/publication_types/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/publication/renewable-energy-antonio/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/renewable-energy-antonio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/renewable-energy-antonio/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/wave-height-prediction/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/wave-height-prediction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/wave-height-prediction/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/zonal-models/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/zonal-models/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/zonal-models/"
                 />
   </url>
   
@@ -48,21 +288,6 @@
   </url>
   
   <url>
-    <loc>/es/authors/</loc>
-    <lastmod>2021-05-24T10:30:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/authors/"
-                />
-  </url>
-  
-  <url>
     <loc>/es/authors/david-guijo-rubio/</loc>
     <lastmod>2021-05-24T10:30:21+02:00</lastmod>
     <xhtml:link
@@ -74,21 +299,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/authors/david-guijo-rubio/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/</loc>
-    <lastmod>2021-05-24T10:30:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/"
                 />
   </url>
   
@@ -149,36 +359,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/publication/guijo-docencia-2021/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/publication/</loc>
-    <lastmod>2021-05-24T10:30:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/publication/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/publication_types/</loc>
-    <lastmod>2021-05-24T10:30:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/publication_types/"
                 />
   </url>
   
@@ -419,21 +599,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/publication/guijo-caepia-2021/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/tags/</loc>
-    <lastmod>2021-05-24T10:30:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/"
                 />
   </url>
   
@@ -794,21 +959,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/authors/carlos-casanova-mateo/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/tags/evolutionary-artificial-neural-networks/</loc>
-    <lastmod>2021-04-28T11:37:52+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/evolutionary-artificial-neural-networks/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/evolutionary-artificial-neural-networks/"
                 />
   </url>
   
@@ -1799,21 +1949,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/tags/time-series-discretisation/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/tags/wave-height-prediction/</loc>
-    <lastmod>2021-04-28T14:28:04+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/wave-height-prediction/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/wave-height-prediction/"
                 />
   </url>
   
