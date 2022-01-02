@@ -5,12 +5,20 @@
     <link>/es/authors/antonio-manuel-duran-rosal/</link>
       <atom:link href="/es/authors/antonio-manuel-duran-rosal/index.xml" rel="self" type="application/rss+xml" />
     <description>Antonio Manuel Durán-Rosal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2022</copyright><lastBuildDate>Thu, 14 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2022</copyright><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
       <title>Antonio Manuel Durán-Rosal</title>
       <link>/es/authors/antonio-manuel-duran-rosal/</link>
     </image>
+    
+    <item>
+      <title>Time series clustering based on the characterisation of segment typologies</title>
+      <link>/es/publication/clustering-guijo-19/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/es/publication/clustering-guijo-19/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Potenciando el perfil profesional Científico de Datos mediante dinámicas de competición</title>
@@ -25,14 +33,6 @@
       <link>/es/publication/solar-energy-guijo-2920/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/es/publication/solar-energy-guijo-2920/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Time series clustering based on the characterisation of segment typologies</title>
-      <link>/es/publication/clustering-guijo-19/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/es/publication/clustering-guijo-19/</guid>
       <description></description>
     </item>
     

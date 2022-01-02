@@ -258,6 +258,36 @@
   </url>
   
   <url>
+    <loc>/es/tags/time-series/</loc>
+    <lastmod>2021-05-24T10:30:21+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/time-series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/time-series/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/authors/alicia-troncoso/</loc>
+    <lastmod>2021-04-28T14:15:46+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/alicia-troncoso/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/alicia-troncoso/"
+                />
+  </url>
+  
+  <url>
     <loc>/es/authors/antonio-manuel-duran-rosal/</loc>
     <lastmod>2021-04-28T14:28:04+02:00</lastmod>
     <xhtml:link
@@ -269,6 +299,81 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/authors/antonio-manuel-duran-rosal/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/data-mining/</loc>
+    <lastmod>2021-04-28T11:37:53+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/data-mining/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/data-mining/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/feature-extraction/</loc>
+    <lastmod>2021-04-28T11:37:53+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/feature-extraction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/feature-extraction/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/segmentation/</loc>
+    <lastmod>2021-04-28T11:37:53+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/segmentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/segmentation/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/time-series-clustering/</loc>
+    <lastmod>2021-04-28T14:24:58+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/time-series-clustering/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/time-series-clustering/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/publication/clustering-guijo-19/</loc>
+    <lastmod>2021-04-28T11:37:53+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/clustering-guijo-19/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/clustering-guijo-19/"
                 />
   </url>
   
@@ -449,21 +554,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/tags/relu/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/tags/time-series/</loc>
-    <lastmod>2021-05-24T10:30:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/time-series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/time-series/"
                 />
   </url>
   
@@ -1398,21 +1488,6 @@
   </url>
   
   <url>
-    <loc>/es/authors/alicia-troncoso/</loc>
-    <lastmod>2021-04-28T14:15:46+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/alicia-troncoso/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/authors/alicia-troncoso/"
-                />
-  </url>
-  
-  <url>
     <loc>/es/authors/antonio-rivero/</loc>
     <lastmod>2021-04-28T11:37:53+02:00</lastmod>
     <xhtml:link
@@ -1443,21 +1518,6 @@
   </url>
   
   <url>
-    <loc>/es/tags/data-mining/</loc>
-    <lastmod>2021-04-28T11:37:53+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/data-mining/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/data-mining/"
-                />
-  </url>
-  
-  <url>
     <loc>/es/authors/dolores-merino/</loc>
     <lastmod>2021-04-28T11:37:53+02:00</lastmod>
     <xhtml:link
@@ -1469,21 +1529,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/authors/dolores-merino/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/tags/feature-extraction/</loc>
-    <lastmod>2021-04-28T11:37:53+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/feature-extraction/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/feature-extraction/"
                 />
   </url>
   
@@ -1578,21 +1623,6 @@
   </url>
   
   <url>
-    <loc>/es/tags/segmentation/</loc>
-    <lastmod>2021-04-28T11:37:53+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/segmentation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/segmentation/"
-                />
-  </url>
-  
-  <url>
     <loc>/es/publication/ocean-engineering-guijo-2020/</loc>
     <lastmod>2021-04-28T11:37:53+02:00</lastmod>
     <xhtml:link
@@ -1604,36 +1634,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/publication/ocean-engineering-guijo-2020/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/tags/time-series-clustering/</loc>
-    <lastmod>2021-04-28T14:24:58+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/time-series-clustering/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/time-series-clustering/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/publication/clustering-guijo-19/</loc>
-    <lastmod>2021-04-28T11:37:53+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/clustering-guijo-19/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/publication/clustering-guijo-19/"
                 />
   </url>
   
