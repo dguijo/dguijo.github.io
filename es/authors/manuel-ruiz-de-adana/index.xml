@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manuel Ruiz de Adana | David Guijo-Rubio</title>
-    <link>/es/authors/manuel-ruiz-de-adana/</link>
-      <atom:link href="/es/authors/manuel-ruiz-de-adana/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dguijo.es/authors/manuel-ruiz-de-adana/</link>
+      <atom:link href="https://dguijo.es/authors/manuel-ruiz-de-adana/index.xml" rel="self" type="application/rss+xml" />
     <description>Manuel Ruiz de Adana</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2022</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
+      <url>https://dguijo.es/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
       <title>Manuel Ruiz de Adana</title>
-      <link>/es/authors/manuel-ruiz-de-adana/</link>
+      <link>https://dguijo.es/authors/manuel-ruiz-de-adana/</link>
     </image>
     
     <item>
       <title>Validation of multitask artificial neural networks to model desiccant wheels activated at low temperature</title>
-      <link>/es/publication/comino-2019-validation/</link>
+      <link>https://dguijo.es/publication/comino-2019-validation/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/es/publication/comino-2019-validation/</guid>
+      <guid>https://dguijo.es/publication/comino-2019-validation/</guid>
       <description></description>
     </item>
     

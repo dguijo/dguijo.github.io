@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sound quality | David Guijo-Rubio</title>
-    <link>/es/tags/sound-quality/</link>
-      <atom:link href="/es/tags/sound-quality/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dguijo.es/tags/sound-quality/</link>
+      <atom:link href="https://dguijo.es/tags/sound-quality/index.xml" rel="self" type="application/rss+xml" />
     <description>Sound quality</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2022</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
+      <url>https://dguijo.es/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
       <title>Sound quality</title>
-      <link>/es/tags/sound-quality/</link>
+      <link>https://dguijo.es/tags/sound-quality/</link>
     </image>
     
     <item>
       <title>Validation of artificial neural networks to model the acoustic behaviour of induction motors</title>
-      <link>/es/publication/ap-acoustics-2020/</link>
+      <link>https://dguijo.es/publication/ap-acoustics-2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/es/publication/ap-acoustics-2020/</guid>
+      <guid>https://dguijo.es/publication/ap-acoustics-2020/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>María Dolores Ayllón | David Guijo-Rubio</title>
-    <link>/es/authors/maria-dolores-ayllon/</link>
-      <atom:link href="/es/authors/maria-dolores-ayllon/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dguijo.es/authors/maria-dolores-ayllon/</link>
+      <atom:link href="https://dguijo.es/authors/maria-dolores-ayllon/index.xml" rel="self" type="application/rss+xml" />
     <description>María Dolores Ayllón</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2022</copyright><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
+      <url>https://dguijo.es/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
       <title>María Dolores Ayllón</title>
-      <link>/es/authors/maria-dolores-ayllon/</link>
+      <link>https://dguijo.es/authors/maria-dolores-ayllon/</link>
     </image>
     
     <item>
       <title>Statistical methods versus machine learning techniques for donor-recipient matching in liver transplantation</title>
-      <link>/es/publication/plos-guijo-2021/</link>
+      <link>https://dguijo.es/publication/plos-guijo-2021/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>/es/publication/plos-guijo-2021/</guid>
+      <guid>https://dguijo.es/publication/plos-guijo-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelling survival by machine learning methods in liver transplantation: application to the UNOS dataset</title>
-      <link>/es/publication/ideal-guijo-2019/</link>
+      <link>https://dguijo.es/publication/ideal-guijo-2019/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/es/publication/ideal-guijo-2019/</guid>
+      <guid>https://dguijo.es/publication/ideal-guijo-2019/</guid>
       <description></description>
     </item>
     

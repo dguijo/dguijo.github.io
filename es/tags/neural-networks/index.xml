@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>neural networks | David Guijo-Rubio</title>
-    <link>/es/tags/neural-networks/</link>
-      <atom:link href="/es/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dguijo.es/tags/neural-networks/</link>
+      <atom:link href="https://dguijo.es/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
     <description>neural networks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2022</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
+      <url>https://dguijo.es/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
       <title>neural networks</title>
-      <link>/es/tags/neural-networks/</link>
+      <link>https://dguijo.es/tags/neural-networks/</link>
     </image>
     
     <item>
       <title>Prediction of convective clouds formation using evolutionary neural computation techniques</title>
-      <link>/es/publication/ncaa-2020/</link>
+      <link>https://dguijo.es/publication/ncaa-2020/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/es/publication/ncaa-2020/</guid>
+      <guid>https://dguijo.es/publication/ncaa-2020/</guid>
       <description></description>
     </item>
     

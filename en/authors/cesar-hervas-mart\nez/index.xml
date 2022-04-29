@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>César Hervás-Mart\ńez | In English</title>
+    <link>https://dguijo.com/authors/cesar-hervas-mart%5Cnez/</link>
+      <atom:link href="https://dguijo.com/authors/cesar-hervas-mart%5Cnez/index.xml" rel="self" type="application/rss+xml" />
+    <description>César Hervás-Mart\ńez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2022</copyright><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dguijo.es/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
+      <title>César Hervás-Mart\ńez</title>
+      <link>https://dguijo.com/authors/cesar-hervas-mart%5Cnez/</link>
+    </image>
+    
+    <item>
+      <title>ReLU-based activations: analysis and experimental study for deep learning</title>
+      <link>https://dguijo.com/publication/relu-victor-caepia-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/relu-victor-caepia-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using machine learning methods to determine a typology of patients with HIV-HCV infection to be treated with antivirals</title>
+      <link>https://dguijo.com/publication/vih-ann-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/vih-ann-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling survival by machine learning methods in liver transplantation: application to the UNOS dataset</title>
+      <link>https://dguijo.com/publication/ideal-guijo-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/ideal-guijo-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
