@@ -78,6 +78,21 @@
   </url>
   
   <url>
+    <loc>https://dguijo.com/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/"
+                />
+  </url>
+  
+  <url>
     <loc>https://dguijo.com/tags/energy-flux-prediction/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -104,21 +119,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://dguijo.com/tags/evolutionary-artificial-neural-networks/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://dguijo.com/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/"
                 />
   </url>
   
