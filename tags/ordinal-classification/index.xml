@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&#34;ordinal classification&#34; | David Guijo-Rubio</title>
-    <link>/tags/ordinal-classification/</link>
-      <atom:link href="/tags/ordinal-classification/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dguijo.com/tags/ordinal-classification/</link>
+      <atom:link href="https://dguijo.com/tags/ordinal-classification/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;ordinal classification&#34;</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2022</copyright><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
+      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
       <title>&#34;ordinal classification&#34;</title>
-      <link>/tags/ordinal-classification/</link>
+      <link>https://dguijo.com/tags/ordinal-classification/</link>
     </image>
     
     <item>
       <title>Studying the effect of different Lp norms in the context of Time Series Ordinal Classification</title>
-      <link>/publication/guijo-caepia-2021/</link>
+      <link>https://dguijo.com/publication/guijo-caepia-2021/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-caepia-2021/</guid>
+      <guid>https://dguijo.com/publication/guijo-caepia-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distribution-Based Discretisation and Ordinal Classification Applied to Wave Height Prediction</title>
-      <link>/publication/guijo-ideal-2018/</link>
+      <link>https://dguijo.com/publication/guijo-ideal-2018/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-ideal-2018/</guid>
+      <guid>https://dguijo.com/publication/guijo-ideal-2018/</guid>
       <description></description>
     </item>
     

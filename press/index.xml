@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Press and Social Media | David Guijo-Rubio</title>
-    <link>/press/</link>
-      <atom:link href="/press/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dguijo.com/press/</link>
+      <atom:link href="https://dguijo.com/press/index.xml" rel="self" type="application/rss+xml" />
     <description>Press and Social Media</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2022</copyright>
     <image>
-      <url>/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
+      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
       <title>Press and Social Media</title>
-      <link>/press/</link>
+      <link>https://dguijo.com/press/</link>
     </image>
     
   </channel>

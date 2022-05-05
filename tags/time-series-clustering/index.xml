@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Time series clustering | David Guijo-Rubio</title>
-    <link>/tags/time-series-clustering/</link>
-      <atom:link href="/tags/time-series-clustering/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dguijo.com/tags/time-series-clustering/</link>
+      <atom:link href="https://dguijo.com/tags/time-series-clustering/index.xml" rel="self" type="application/rss+xml" />
     <description>Time series clustering</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2022</copyright><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
+      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
       <title>Time series clustering</title>
-      <link>/tags/time-series-clustering/</link>
+      <link>https://dguijo.com/tags/time-series-clustering/</link>
     </image>
     
     <item>
       <title>Time series clustering based on the characterisation of segment typologies</title>
-      <link>/publication/clustering-guijo-19/</link>
+      <link>https://dguijo.com/publication/clustering-guijo-19/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/clustering-guijo-19/</guid>
+      <guid>https://dguijo.com/publication/clustering-guijo-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Clustering de Series Temporales basado en la Extracción de Tipologías de Segmentos</title>
-      <link>/publication/guijo-jovenes-uco-16/</link>
+      <link>https://dguijo.com/publication/guijo-jovenes-uco-16/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-jovenes-uco-16/</guid>
+      <guid>https://dguijo.com/publication/guijo-jovenes-uco-16/</guid>
       <description></description>
     </item>
     

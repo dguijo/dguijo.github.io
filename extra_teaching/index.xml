@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Directed Projects, Teaching Innovation Projects,... | David Guijo-Rubio</title>
-    <link>/extra_teaching/</link>
-      <atom:link href="/extra_teaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dguijo.com/extra_teaching/</link>
+      <atom:link href="https://dguijo.com/extra_teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Directed Projects, Teaching Innovation Projects,...</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2022</copyright>
     <image>
-      <url>/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
+      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
       <title>Directed Projects, Teaching Innovation Projects,...</title>
-      <link>/extra_teaching/</link>
+      <link>https://dguijo.com/extra_teaching/</link>
     </image>
     
   </channel>

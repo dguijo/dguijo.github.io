@@ -2,237 +2,237 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David Guijo-Rubio</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dguijo.com/</link>
+      <atom:link href="https://dguijo.com/index.xml" rel="self" type="application/rss+xml" />
     <description>David Guijo-Rubio</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2022</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
+      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
       <title>David Guijo-Rubio</title>
-      <link>/</link>
+      <link>https://dguijo.com/</link>
     </image>
     
     <item>
       <title>Simultaneous short-term significant wave height and energy flux prediction using zonal multi-task evolutionary artificial neural networks</title>
-      <link>/publication/renewable-energy-antonio/</link>
+      <link>https://dguijo.com/publication/renewable-energy-antonio/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/renewable-energy-antonio/</guid>
+      <guid>https://dguijo.com/publication/renewable-energy-antonio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time series clustering based on the characterisation of segment typologies</title>
-      <link>/publication/clustering-guijo-19/</link>
+      <link>https://dguijo.com/publication/clustering-guijo-19/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/clustering-guijo-19/</guid>
+      <guid>https://dguijo.com/publication/clustering-guijo-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Potenciando el perfil profesional Científico de Datos mediante dinámicas de competición</title>
-      <link>/publication/guijo-docencia-2021/</link>
+      <link>https://dguijo.com/publication/guijo-docencia-2021/</link>
       <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-docencia-2021/</guid>
+      <guid>https://dguijo.com/publication/guijo-docencia-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ReLU-based activations: analysis and experimental study for deep learning</title>
-      <link>/publication/relu-victor-caepia-2021/</link>
+      <link>https://dguijo.com/publication/relu-victor-caepia-2021/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/relu-victor-caepia-2021/</guid>
+      <guid>https://dguijo.com/publication/relu-victor-caepia-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Studying the effect of different Lp norms in the context of Time Series Ordinal Classification</title>
-      <link>/publication/guijo-caepia-2021/</link>
+      <link>https://dguijo.com/publication/guijo-caepia-2021/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-caepia-2021/</guid>
+      <guid>https://dguijo.com/publication/guijo-caepia-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enhancing the ORCA framework with a new Fuzzy Rule Base System implementation compatible with the JFML library</title>
-      <link>/publication/fuzzy-orca-2021/</link>
+      <link>https://dguijo.com/publication/fuzzy-orca-2021/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/fuzzy-orca-2021/</guid>
+      <guid>https://dguijo.com/publication/fuzzy-orca-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical methods versus machine learning techniques for donor-recipient matching in liver transplantation</title>
-      <link>/publication/plos-guijo-2021/</link>
+      <link>https://dguijo.com/publication/plos-guijo-2021/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/plos-guijo-2021/</guid>
+      <guid>https://dguijo.com/publication/plos-guijo-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolutionary artificial neural networks for accurate solar radiation prediction</title>
-      <link>/publication/solar-energy-guijo-2920/</link>
+      <link>https://dguijo.com/publication/solar-energy-guijo-2920/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/solar-energy-guijo-2920/</guid>
+      <guid>https://dguijo.com/publication/solar-energy-guijo-2920/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ordinal versus nominal time series classification</title>
-      <link>/publication/guijo-aaltd-2020/</link>
+      <link>https://dguijo.com/publication/guijo-aaltd-2020/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-aaltd-2020/</guid>
+      <guid>https://dguijo.com/publication/guijo-aaltd-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine learning methods in organ transplantation</title>
-      <link>/publication/coot-guijo-2020/</link>
+      <link>https://dguijo.com/publication/coot-guijo-2020/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/coot-guijo-2020/</guid>
+      <guid>https://dguijo.com/publication/coot-guijo-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time series ordinal classification via shapelets</title>
-      <link>/publication/ijcnn-guijo-2020/</link>
+      <link>https://dguijo.com/publication/ijcnn-guijo-2020/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/ijcnn-guijo-2020/</guid>
+      <guid>https://dguijo.com/publication/ijcnn-guijo-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ordinal regression algorithms for the analysis of convective situations over Madrid-Barajas airport</title>
-      <link>/publication/tormentas-barajas-2019-atmos/</link>
+      <link>https://dguijo.com/publication/tormentas-barajas-2019-atmos/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/tormentas-barajas-2019-atmos/</guid>
+      <guid>https://dguijo.com/publication/tormentas-barajas-2019-atmos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Validation of artificial neural networks to model the acoustic behaviour of induction motors</title>
-      <link>/publication/ap-acoustics-2020/</link>
+      <link>https://dguijo.com/publication/ap-acoustics-2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/ap-acoustics-2020/</guid>
+      <guid>https://dguijo.com/publication/ap-acoustics-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prediction of convective clouds formation using evolutionary neural computation techniques</title>
-      <link>/publication/ncaa-2020/</link>
+      <link>https://dguijo.com/publication/ncaa-2020/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/ncaa-2020/</guid>
+      <guid>https://dguijo.com/publication/ncaa-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Short- and long-term energy flux prediction using Multi-Task Evolutionary Artificial Neural Networks</title>
-      <link>/publication/ocean-engineering-guijo-2020/</link>
+      <link>https://dguijo.com/publication/ocean-engineering-guijo-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/ocean-engineering-guijo-2020/</guid>
+      <guid>https://dguijo.com/publication/ocean-engineering-guijo-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using machine learning methods to determine a typology of patients with HIV-HCV infection to be treated with antivirals</title>
-      <link>/publication/vih-ann-2020/</link>
+      <link>https://dguijo.com/publication/vih-ann-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/vih-ann-2020/</guid>
+      <guid>https://dguijo.com/publication/vih-ann-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A hybrid approach to time series classification with shapelets</title>
-      <link>/publication/guijo-shapelets-2019-ideal/</link>
+      <link>https://dguijo.com/publication/guijo-shapelets-2019-ideal/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-shapelets-2019-ideal/</guid>
+      <guid>https://dguijo.com/publication/guijo-shapelets-2019-ideal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelling survival by machine learning methods in liver transplantation: application to the UNOS dataset</title>
-      <link>/publication/ideal-guijo-2019/</link>
+      <link>https://dguijo.com/publication/ideal-guijo-2019/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/ideal-guijo-2019/</guid>
+      <guid>https://dguijo.com/publication/ideal-guijo-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicción de altura de ola mediante discretización basada en distribuciones utilizando clasificación ordinal</title>
-      <link>/publication/guijo-uco-2019/</link>
+      <link>https://dguijo.com/publication/guijo-uco-2019/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-uco-2019/</guid>
+      <guid>https://dguijo.com/publication/guijo-uco-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Validation of multitask artificial neural networks to model desiccant wheels activated at low temperature</title>
-      <link>/publication/comino-2019-validation/</link>
+      <link>https://dguijo.com/publication/comino-2019-validation/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/comino-2019-validation/</guid>
+      <guid>https://dguijo.com/publication/comino-2019-validation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prediction of low-visibility events due to fog using ordinal classification</title>
-      <link>/publication/guijo-2018-fog-ordinal/</link>
+      <link>https://dguijo.com/publication/guijo-2018-fog-ordinal/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-2018-fog-ordinal/</guid>
+      <guid>https://dguijo.com/publication/guijo-2018-fog-ordinal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distribution-Based Discretisation and Ordinal Classification Applied to Wave Height Prediction</title>
-      <link>/publication/guijo-ideal-2018/</link>
+      <link>https://dguijo.com/publication/guijo-ideal-2018/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-ideal-2018/</guid>
+      <guid>https://dguijo.com/publication/guijo-ideal-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time series clustering based on the characterisation of segment typologies</title>
-      <link>/publication/guijo-2018-time/</link>
+      <link>https://dguijo.com/publication/guijo-2018-time/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-2018-time/</guid>
+      <guid>https://dguijo.com/publication/guijo-2018-time/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Algoritmos de aprendizaje automático para predicción de niveles de niebla usando ventanas estáticas y dinámicas</title>
-      <link>/publication/diaz-caepia-2018/</link>
+      <link>https://dguijo.com/publication/diaz-caepia-2018/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/diaz-caepia-2018/</guid>
+      <guid>https://dguijo.com/publication/diaz-caepia-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hybrid Weighted Barebones Exploiting Particle Swarm Optimization Algorithm for Time Series Representation</title>
-      <link>/publication/duran-2018-bioma/</link>
+      <link>https://dguijo.com/publication/duran-2018-bioma/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/duran-2018-bioma/</guid>
+      <guid>https://dguijo.com/publication/duran-2018-bioma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A coral reef optimization algorithm for wave height time series segmentation problems </title>
-      <link>/publication/duran-rosal-2017/</link>
+      <link>https://dguijo.com/publication/duran-rosal-2017/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/duran-rosal-2017/</guid>
+      <guid>https://dguijo.com/publication/duran-rosal-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Clustering de Series Temporales basado en la Extracción de Tipologías de Segmentos</title>
-      <link>/publication/guijo-jovenes-uco-16/</link>
+      <link>https://dguijo.com/publication/guijo-jovenes-uco-16/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-jovenes-uco-16/</guid>
+      <guid>https://dguijo.com/publication/guijo-jovenes-uco-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiclass Prediction of Wind Power Ramp Events Combining Reservoir Computing and Support Vector Machines</title>
-      <link>/publication/manolo-2016-caepia/</link>
+      <link>https://dguijo.com/publication/manolo-2016-caepia/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/manolo-2016-caepia/</guid>
+      <guid>https://dguijo.com/publication/manolo-2016-caepia/</guid>
       <description></description>
     </item>
     
