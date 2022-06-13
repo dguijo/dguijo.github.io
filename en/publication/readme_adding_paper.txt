@@ -1,9 +1,4 @@
-1. Abrir un fichero publicacion.bib donde se incluya la referencia al artículo. 
-2. En una terminal, poner el comando: 
-    academic import --bibtex publicacion.bib .
+1. Abrir un fichero publicacion.bib donde se incluya la referencia al artículo en formato bibtex.
 
-3. Poner el comando:
-    mv ./content/publication/ .
-    rm -rf ./content/publication
-
+2. Ejecutar el script script_añadir_publicacion.sh
 
