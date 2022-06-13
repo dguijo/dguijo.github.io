@@ -3,17 +3,212 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dguijo.com/publication_types/1/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>https://dguijo.com/publication_types/0/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://dguijo.es/publication_types/1/"
+                href="https://dguijo.es/publication_types/0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dguijo.com/publication_types/1/"
+                href="https://dguijo.com/publication_types/0/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dguijo.com/authors/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dguijo.com/tags/clustering/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/tags/clustering/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/tags/clustering/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dguijo.com/publication/covid-19-m-diaz-2022/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/publication/covid-19-m-diaz-2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/publication/covid-19-m-diaz-2022/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dguijo.com/tags/covid-19-contagions/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/tags/covid-19-contagions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/tags/covid-19-contagions/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dguijo.com/tags/curve-characterization/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/tags/curve-characterization/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/tags/curve-characterization/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dguijo.com/authors/cesar-hervas-martinez/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/cesar-hervas-martinez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/cesar-hervas-martinez/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dguijo.com/authors/david-guijo-rubio/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/david-guijo-rubio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/david-guijo-rubio/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dguijo.com/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dguijo.com/authors/miguel-diaz-lozano/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/miguel-diaz-lozano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/miguel-diaz-lozano/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dguijo.com/authors/pedro-antonio-gutierrez/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/pedro-antonio-gutierrez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/pedro-antonio-gutierrez/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dguijo.com/publication_types/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dguijo.com/publication/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dguijo.com/tags/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/tags/"
                 />
   </url>
   
@@ -44,81 +239,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://dguijo.com/authors/antonio-manuel-gomez-orellana/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://dguijo.com/authors/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/authors/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://dguijo.com/publication/diaz-2022-clustering/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/publication/diaz-2022-clustering/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/publication/diaz-2022-clustering/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://dguijo.com/authors/cesar-hervas-martinez/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/authors/cesar-hervas-martinez/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/authors/cesar-hervas-martinez/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://dguijo.com/authors/david-guijo-rubio/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/authors/david-guijo-rubio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/authors/david-guijo-rubio/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://dguijo.com/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/"
                 />
   </url>
   
@@ -168,21 +288,6 @@
   </url>
   
   <url>
-    <loc>https://dguijo.com/authors/miguel-d%C4%B1az-lozano/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/authors/miguel-d%C4%B1az-lozano/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/authors/miguel-d%C4%B1az-lozano/"
-                />
-  </url>
-  
-  <url>
     <loc>https://dguijo.com/tags/multi-task-machine-learning/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -198,51 +303,6 @@
   </url>
   
   <url>
-    <loc>https://dguijo.com/authors/pedro-antonio-gutierrez/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/authors/pedro-antonio-gutierrez/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/authors/pedro-antonio-gutierrez/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://dguijo.com/publication_types/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://dguijo.com/publication/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/publication/"
-                />
-  </url>
-  
-  <url>
     <loc>https://dguijo.com/publication/renewable-energy-antonio/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -254,21 +314,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://dguijo.com/publication/renewable-energy-antonio/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://dguijo.com/tags/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/tags/"
                 />
   </url>
   
@@ -614,6 +659,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://dguijo.com/tags/tsoc/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dguijo.com/publication_types/1/</loc>
+    <lastmod>2021-05-24T10:30:21+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/publication_types/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/publication_types/1/"
                 />
   </url>
   
@@ -1964,21 +2024,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://dguijo.com/tags/eventos-de-baja-visibilidad/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://dguijo.com/authors/miguel-diaz-lozano/</loc>
-    <lastmod>2021-04-28T14:24:57+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/authors/miguel-diaz-lozano/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/authors/miguel-diaz-lozano/"
                 />
   </url>
   

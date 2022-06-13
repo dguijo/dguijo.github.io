@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | David Guijo-Rubio</title>
+    <link>https://dguijo.com/publication_types/0/</link>
+      <atom:link href="https://dguijo.com/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2022</copyright><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
+      <title>0</title>
+      <link>https://dguijo.com/publication_types/0/</link>
+    </image>
+    
+    <item>
+      <title>Clustering of COVID-19 Time Series Incidence Intensity in Andalusia, Spain</title>
+      <link>https://dguijo.com/publication/covid-19-m-diaz-2022/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/covid-19-m-diaz-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
