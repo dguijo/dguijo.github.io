@@ -37,6 +37,14 @@
     </item>
     
     <item>
+      <title>ReLU-based activations: analysis and experimental study for deep learning</title>
+      <link>https://dguijo.es/publication/relu-victor-caepia-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.es/publication/relu-victor-caepia-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Studying the effect of different Lp norms in the context of Time Series Ordinal Classification</title>
       <link>https://dguijo.es/publication/guijo-caepia-2021/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
@@ -113,6 +121,22 @@
       <link>https://dguijo.es/publication/ocean-engineering-guijo-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://dguijo.es/publication/ocean-engineering-guijo-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using machine learning methods to determine a typology of patients with HIV-HCV infection to be treated with antivirals</title>
+      <link>https://dguijo.es/publication/vih-ann-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.es/publication/vih-ann-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling survival by machine learning methods in liver transplantation: application to the UNOS dataset</title>
+      <link>https://dguijo.es/publication/ideal-guijo-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.es/publication/ideal-guijo-2019/</guid>
       <description></description>
     </item>
     
