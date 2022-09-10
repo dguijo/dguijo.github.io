@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Typology of patients | David Guijo-Rubio</title>
+    <link>https://dguijo.com/tags/typology-of-patients/</link>
+      <atom:link href="https://dguijo.com/tags/typology-of-patients/index.xml" rel="self" type="application/rss+xml" />
+    <description>Typology of patients</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2022</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <title>Typology of patients</title>
+      <link>https://dguijo.com/tags/typology-of-patients/</link>
+    </image>
+    
+    <item>
+      <title>Using machine learning methods to determine a typology of patients with HIV-HCV infection to be treated with antivirals</title>
+      <link>https://dguijo.com/publication/vih-ann-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/vih-ann-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

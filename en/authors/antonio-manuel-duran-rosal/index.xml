@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antonio Manuel Durán-Rosal | David Guijo-Rubio</title>
+    <link>https://dguijo.com/authors/antonio-manuel-duran-rosal/</link>
+      <atom:link href="https://dguijo.com/authors/antonio-manuel-duran-rosal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Antonio Manuel Durán-Rosal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2022</copyright><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <title>Antonio Manuel Durán-Rosal</title>
+      <link>https://dguijo.com/authors/antonio-manuel-duran-rosal/</link>
+    </image>
+    
+    <item>
+      <title>Time series clustering based on the characterisation of segment typologies</title>
+      <link>https://dguijo.com/publication/clustering-guijo-19/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/clustering-guijo-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Potenciando el perfil profesional Científico de Datos mediante dinámicas de competición</title>
+      <link>https://dguijo.com/publication/guijo-docencia-2021/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/guijo-docencia-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary artificial neural networks for accurate solar radiation prediction</title>
+      <link>https://dguijo.com/publication/solar-energy-guijo-2920/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/solar-energy-guijo-2920/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution-Based Discretisation and Ordinal Classification Applied to Wave Height Prediction</title>
+      <link>https://dguijo.com/publication/guijo-ideal-2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/guijo-ideal-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time series clustering based on the characterisation of segment typologies</title>
+      <link>https://dguijo.com/publication/guijo-2018-time/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/guijo-2018-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid Weighted Barebones Exploiting Particle Swarm Optimization Algorithm for Time Series Representation</title>
+      <link>https://dguijo.com/publication/duran-2018-bioma/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/duran-2018-bioma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A coral reef optimization algorithm for wave height time series segmentation problems </title>
+      <link>https://dguijo.com/publication/duran-rosal-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/duran-rosal-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering de Series Temporales basado en la Extracción de Tipologías de Segmentos</title>
+      <link>https://dguijo.com/publication/guijo-jovenes-uco-16/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/guijo-jovenes-uco-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiclass Prediction of Wind Power Ramp Events Combining Reservoir Computing and Support Vector Machines</title>
+      <link>https://dguijo.com/publication/manolo-2016-caepia/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/manolo-2016-caepia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

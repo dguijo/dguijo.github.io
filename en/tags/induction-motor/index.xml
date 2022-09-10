@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Induction motor | David Guijo-Rubio</title>
+    <link>https://dguijo.com/tags/induction-motor/</link>
+      <atom:link href="https://dguijo.com/tags/induction-motor/index.xml" rel="self" type="application/rss+xml" />
+    <description>Induction motor</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2022</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <title>Induction motor</title>
+      <link>https://dguijo.com/tags/induction-motor/</link>
+    </image>
+    
+    <item>
+      <title>Validation of artificial neural networks to model the acoustic behaviour of induction motors</title>
+      <link>https://dguijo.com/publication/ap-acoustics-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/ap-acoustics-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
