@@ -8,5 +8,5 @@ cp -r ./content/publication/* ../../es/publication/
 mv ./content/publication/* .
 
 # Eliminamos la basura que se genera
-rm -rf ./content
-rm publicacion.bib
+#rm -rf ./content
+#rm publicacion.bib
