@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marta Guerrero | David Guijo-Rubio</title>
+    <link>https://dguijo.es/authors/marta-guerrero/</link>
+      <atom:link href="https://dguijo.es/authors/marta-guerrero/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marta Guerrero</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2022</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <title>Marta Guerrero</title>
+      <link>https://dguijo.es/authors/marta-guerrero/</link>
+    </image>
+    
+    <item>
+      <title>Development and validation of the Gender-Equity Model for Liver Allocation (GEMA) to prioritise candidates for liver transplantation: a cohort study</title>
+      <link>https://dguijo.es/publication/rodriguezperalvarez-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.es/publication/rodriguezperalvarez-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
