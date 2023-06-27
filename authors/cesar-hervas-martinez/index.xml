@@ -5,12 +5,36 @@
     <link>https://dguijo.com/authors/cesar-hervas-martinez/</link>
       <atom:link href="https://dguijo.com/authors/cesar-hervas-martinez/index.xml" rel="self" type="application/rss+xml" />
     <description>César Hervás-Martínez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2022</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2022</copyright><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_2.png</url>
+      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>César Hervás-Martínez</title>
       <link>https://dguijo.com/authors/cesar-hervas-martinez/</link>
     </image>
+    
+    <item>
+      <title>COVID-19 contagion forecasting framework based on curve decomposition and evolutionary artificial neural networks: A case study in Andalusia, Spain</title>
+      <link>https://dguijo.com/publication/diazlozano-2022117977/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/diazlozano-2022117977/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering of COVID-19 Time Series Incidence Intensity in Andalusia, Spain</title>
+      <link>https://dguijo.com/publication/covid-19-m-diaz-2022/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/covid-19-m-diaz-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and validation of the Gender-Equity Model for Liver Allocation (GEMA) to prioritise candidates for liver transplantation: a cohort study</title>
+      <link>https://dguijo.com/publication/rodriguezperalvarez-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/rodriguezperalvarez-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Simultaneous short-term significant wave height and energy flux prediction using zonal multi-task evolutionary artificial neural networks</title>
@@ -25,6 +49,14 @@
       <link>https://dguijo.com/publication/clustering-guijo-19/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://dguijo.com/publication/clustering-guijo-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReLU-based activations: analysis and experimental study for deep learning</title>
+      <link>https://dguijo.com/publication/relu-victor-caepia-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/relu-victor-caepia-2021/</guid>
       <description></description>
     </item>
     
@@ -105,6 +137,22 @@
       <link>https://dguijo.com/publication/ocean-engineering-guijo-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://dguijo.com/publication/ocean-engineering-guijo-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using machine learning methods to determine a typology of patients with HIV-HCV infection to be treated with antivirals</title>
+      <link>https://dguijo.com/publication/vih-ann-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/vih-ann-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling survival by machine learning methods in liver transplantation: application to the UNOS dataset</title>
+      <link>https://dguijo.com/publication/ideal-guijo-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/ideal-guijo-2019/</guid>
       <description></description>
     </item>
     
