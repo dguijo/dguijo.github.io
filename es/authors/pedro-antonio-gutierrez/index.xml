@@ -5,12 +5,28 @@
     <link>https://dguijo.es/authors/pedro-antonio-gutierrez/</link>
       <atom:link href="https://dguijo.es/authors/pedro-antonio-gutierrez/index.xml" rel="self" type="application/rss+xml" />
     <description>Pedro Antonio Gutiérrez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2023</copyright><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2023</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Pedro Antonio Gutiérrez</title>
       <link>https://dguijo.es/authors/pedro-antonio-gutierrez/</link>
     </image>
+    
+    <item>
+      <title>Cluster analysis and forecasting of viruses incidence growth curves: Application to SARS-CoV-2</title>
+      <link>https://dguijo.es/publication/diaz-2023-cluster/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.es/publication/diaz-2023-cluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One month in advance prediction of air temperature from Reanalysis data with eXplainable Artificial Intelligence techniques</title>
+      <link>https://dguijo.es/publication/gomez-2023-one/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.es/publication/gomez-2023-one/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>COVID-19 contagion forecasting framework based on curve decomposition and evolutionary artificial neural networks: A case study in Andalusia, Spain</title>

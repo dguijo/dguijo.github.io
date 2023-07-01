@@ -5,12 +5,20 @@
     <link>https://dguijo.es/authors/sancho-salcedo-sanz/</link>
       <atom:link href="https://dguijo.es/authors/sancho-salcedo-sanz/index.xml" rel="self" type="application/rss+xml" />
     <description>Sancho Salcedo-Sanz</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2023</copyright><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2023</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Sancho Salcedo-Sanz</title>
       <link>https://dguijo.es/authors/sancho-salcedo-sanz/</link>
     </image>
+    
+    <item>
+      <title>One month in advance prediction of air temperature from Reanalysis data with eXplainable Artificial Intelligence techniques</title>
+      <link>https://dguijo.es/publication/gomez-2023-one/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.es/publication/gomez-2023-one/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Evolutionary artificial neural networks for accurate solar radiation prediction</title>
