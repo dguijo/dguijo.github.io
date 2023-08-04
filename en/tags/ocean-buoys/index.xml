@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ocean buoys | David Guijo-Rubio</title>
+    <link>https://dguijo.com/tags/ocean-buoys/</link>
+      <atom:link href="https://dguijo.com/tags/ocean-buoys/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ocean buoys</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2023</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <title>Ocean buoys</title>
+      <link>https://dguijo.com/tags/ocean-buoys/</link>
+    </image>
+    
+    <item>
+      <title>An Evolutionary Artificial Neural Network approach for spatio-temporal wave height time series reconstruction</title>
+      <link>https://dguijo.com/publication/guijorubio-2023110647/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/guijorubio-2023110647/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
