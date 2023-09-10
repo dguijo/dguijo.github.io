@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Generalised triangular distribution | David Guijo-Rubio</title>
+    <link>https://dguijo.es/tags/generalised-triangular-distribution/</link>
+      <atom:link href="https://dguijo.es/tags/generalised-triangular-distribution/index.xml" rel="self" type="application/rss+xml" />
+    <description>Generalised triangular distribution</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2023</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <title>Generalised triangular distribution</title>
+      <link>https://dguijo.es/tags/generalised-triangular-distribution/</link>
+    </image>
+    
+    <item>
+      <title>Generalised triangular distributions for ordinal deep learning: Novel proposal and optimisation</title>
+      <link>https://dguijo.es/publication/vargas-2023119606/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.es/publication/vargas-2023119606/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
