@@ -2,6 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dguijo.com/tags/deep-learning/</loc>
+    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/tags/deep-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/tags/deep-learning/"
+                />
+  </url><url>
+    <loc>https://dguijo.com/tags/ordinal-classification/</loc>
+    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/tags/ordinal-classification/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/tags/ordinal-classification/"
+                />
+  </url><url>
     <loc>https://dguijo.com/publication_types/2/</loc>
     <lastmod>2023-09-10T12:20:21+02:00</lastmod>
     <xhtml:link
@@ -13,6 +39,188 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://dguijo.com/publication_types/2/"
+                />
+  </url><url>
+    <loc>https://dguijo.com/authors/antonio-manuel-duran-rosal/</loc>
+    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/antonio-manuel-duran-rosal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/antonio-manuel-duran-rosal/"
+                />
+  </url><url>
+    <loc>https://dguijo.com/authors/</loc>
+    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/"
+                />
+  </url><url>
+    <loc>https://dguijo.com/authors/cesar-hervas-martinez/</loc>
+    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/cesar-hervas-martinez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/cesar-hervas-martinez/"
+                />
+  </url><url>
+    <loc>https://dguijo.com/authors/david-guijo-rubio/</loc>
+    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/david-guijo-rubio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/david-guijo-rubio/"
+                />
+  </url><url>
+    <loc>https://dguijo.com/</loc>
+    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/"
+                />
+  </url><url>
+    <loc>https://dguijo.com/tags/dynamic-barebones-explotation-pso/</loc>
+    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/tags/dynamic-barebones-explotation-pso/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/tags/dynamic-barebones-explotation-pso/"
+                />
+  </url><url>
+    <loc>https://dguijo.com/tags/generalised-triangular-distribution/</loc>
+    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/tags/generalised-triangular-distribution/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/tags/generalised-triangular-distribution/"
+                />
+  </url><url>
+    <loc>https://dguijo.com/publication/vargas-2023119606/</loc>
+    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/publication/vargas-2023119606/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/publication/vargas-2023119606/"
+                />
+  </url><url>
+    <loc>https://dguijo.com/authors/pedro-antonio-gutierrez/</loc>
+    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/pedro-antonio-gutierrez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/pedro-antonio-gutierrez/"
+                />
+  </url><url>
+    <loc>https://dguijo.com/publication_types/</loc>
+    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/publication_types/"
+                />
+  </url><url>
+    <loc>https://dguijo.com/publication/</loc>
+    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/publication/"
+                />
+  </url><url>
+    <loc>https://dguijo.com/tags/soft-labelling/</loc>
+    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/tags/soft-labelling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/tags/soft-labelling/"
+                />
+  </url><url>
+    <loc>https://dguijo.com/tags/</loc>
+    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/tags/"
+                />
+  </url><url>
+    <loc>https://dguijo.com/authors/victor-manuel-vargas/</loc>
+    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/victor-manuel-vargas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/victor-manuel-vargas/"
                 />
   </url><url>
     <loc>https://dguijo.com/publication/guijorubio-2023110647/</loc>
@@ -52,45 +260,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://dguijo.com/authors/antonio-m.-gomez-orellana/"
-                />
-  </url><url>
-    <loc>https://dguijo.com/authors/</loc>
-    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/authors/"
-                />
-  </url><url>
-    <loc>https://dguijo.com/authors/david-guijo-rubio/</loc>
-    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/authors/david-guijo-rubio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/authors/david-guijo-rubio/"
-                />
-  </url><url>
-    <loc>https://dguijo.com/</loc>
-    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/"
                 />
   </url><url>
     <loc>https://dguijo.com/tags/evolutionary-artificial-neural-networks/</loc>
@@ -145,45 +314,6 @@
                 href="https://dguijo.com/tags/ocean-buoys/"
                 />
   </url><url>
-    <loc>https://dguijo.com/publication_types/</loc>
-    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/publication_types/"
-                />
-  </url><url>
-    <loc>https://dguijo.com/publication/</loc>
-    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/publication/"
-                />
-  </url><url>
-    <loc>https://dguijo.com/tags/</loc>
-    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/tags/"
-                />
-  </url><url>
     <loc>https://dguijo.com/tags/time-series-reconstruction/</loc>
     <lastmod>2023-08-04T11:08:34+02:00</lastmod>
     <xhtml:link
@@ -223,19 +353,6 @@
                 href="https://dguijo.com/publication/diaz-2023-cluster/"
                 />
   </url><url>
-    <loc>https://dguijo.com/authors/cesar-hervas-martinez/</loc>
-    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/authors/cesar-hervas-martinez/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/authors/cesar-hervas-martinez/"
-                />
-  </url><url>
     <loc>https://dguijo.com/authors/miguel-d%C4%B1az-lozano/</loc>
     <lastmod>2023-07-01T07:27:16+01:00</lastmod>
     <xhtml:link
@@ -247,19 +364,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://dguijo.com/authors/miguel-d%C4%B1az-lozano/"
-                />
-  </url><url>
-    <loc>https://dguijo.com/authors/pedro-antonio-gutierrez/</loc>
-    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/authors/pedro-antonio-gutierrez/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/authors/pedro-antonio-gutierrez/"
                 />
   </url><url>
     <loc>https://dguijo.com/authors/antonio-manuel-gomez-orellana/</loc>
@@ -444,32 +548,6 @@
                 href="https://dguijo.com/authors/sancho-salcedo-sanz/"
                 />
   </url><url>
-    <loc>https://dguijo.com/tags/deep-learning/</loc>
-    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/tags/deep-learning/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/tags/deep-learning/"
-                />
-  </url><url>
-    <loc>https://dguijo.com/tags/ordinal-classification/</loc>
-    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/tags/ordinal-classification/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/tags/ordinal-classification/"
-                />
-  </url><url>
     <loc>https://dguijo.com/publication_types/6/</loc>
     <lastmod>2023-07-01T07:43:34+01:00</lastmod>
     <xhtml:link
@@ -483,58 +561,6 @@
                 href="https://dguijo.com/publication_types/6/"
                 />
   </url><url>
-    <loc>https://dguijo.com/authors/antonio-manuel-duran-rosal/</loc>
-    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/authors/antonio-manuel-duran-rosal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/authors/antonio-manuel-duran-rosal/"
-                />
-  </url><url>
-    <loc>https://dguijo.com/tags/dynamic-barebones-explotation-pso/</loc>
-    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/tags/dynamic-barebones-explotation-pso/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/tags/dynamic-barebones-explotation-pso/"
-                />
-  </url><url>
-    <loc>https://dguijo.com/tags/generalised-triangular-distribution/</loc>
-    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/tags/generalised-triangular-distribution/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/tags/generalised-triangular-distribution/"
-                />
-  </url><url>
-    <loc>https://dguijo.com/publication/vargas-2023119606/</loc>
-    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/publication/vargas-2023119606/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/publication/vargas-2023119606/"
-                />
-  </url><url>
     <loc>https://dguijo.com/publication/duran-2023-machine/</loc>
     <lastmod>2023-07-01T07:43:34+01:00</lastmod>
     <xhtml:link
@@ -546,32 +572,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://dguijo.com/publication/duran-2023-machine/"
-                />
-  </url><url>
-    <loc>https://dguijo.com/tags/soft-labelling/</loc>
-    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/tags/soft-labelling/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/tags/soft-labelling/"
-                />
-  </url><url>
-    <loc>https://dguijo.com/authors/victor-manuel-vargas/</loc>
-    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/authors/victor-manuel-vargas/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/authors/victor-manuel-vargas/"
                 />
   </url><url>
     <loc>https://dguijo.com/authors/armando-romanos-rodriguez/</loc>
@@ -690,12 +690,6 @@
                 hreflang="en"
                 href="https://dguijo.com/tags/time-series/"
                 />
-  </url><url>
-    <loc>https://dguijo.com/content/</loc>
-    <lastmod>2022-09-10T11:57:49+02:00</lastmod>
-  </url><url>
-    <loc>https://dguijo.com/content/publication/rodriguez-2022-development/</loc>
-    <lastmod>2022-09-10T11:57:49+02:00</lastmod>
   </url><url>
     <loc>https://dguijo.com/publication_types/1/</loc>
     <lastmod>2023-07-01T07:31:36+01:00</lastmod>

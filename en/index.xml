@@ -5,12 +5,20 @@
     <link>https://dguijo.com/</link>
       <atom:link href="https://dguijo.com/index.xml" rel="self" type="application/rss+xml" />
     <description>David Guijo-Rubio</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2023</copyright><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2023</copyright><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>David Guijo-Rubio</title>
       <link>https://dguijo.com/</link>
     </image>
+    
+    <item>
+      <title>Generalised triangular distributions for ordinal deep learning: Novel proposal and optimisation</title>
+      <link>https://dguijo.com/publication/vargas-2023119606/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/vargas-2023119606/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An Evolutionary Artificial Neural Network approach for spatio-temporal wave height time series reconstruction</title>
@@ -45,14 +53,6 @@
     </item>
     
     <item>
-      <title>Generalised triangular distributions for ordinal deep learning: Novel proposal and optimisation</title>
-      <link>https://dguijo.com/publication/vargas-2023119606/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.com/publication/vargas-2023119606/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Machine Learning Applications in Real-World Time Series Problems</title>
       <link>https://dguijo.com/publication/duran-2023-machine/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -65,14 +65,6 @@
       <link>https://dguijo.com/publication/diazlozano-2022117977/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://dguijo.com/publication/diazlozano-2022117977/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rodriguez 2022 Development</title>
-      <link>https://dguijo.com/content/publication/rodriguez-2022-development/</link>
-      <pubDate>Sat, 10 Sep 2022 11:57:49 +0200</pubDate>
-      <guid>https://dguijo.com/content/publication/rodriguez-2022-development/</guid>
       <description></description>
     </item>
     
