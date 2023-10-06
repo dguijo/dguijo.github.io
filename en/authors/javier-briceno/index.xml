@@ -5,12 +5,20 @@
     <link>https://dguijo.com/authors/javier-briceno/</link>
       <atom:link href="https://dguijo.com/authors/javier-briceno/index.xml" rel="self" type="application/rss+xml" />
     <description>Javier Briceño</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2023</copyright><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2023</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Javier Briceño</title>
       <link>https://dguijo.com/authors/javier-briceno/</link>
     </image>
+    
+    <item>
+      <title>Ordinal Classification Approach for Donor-Recipient Matching in Liver Transplantation with Circulatory Death Donors</title>
+      <link>https://dguijo.com/publication/rivera-2023-ordinal/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/rivera-2023-ordinal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Statistical methods versus machine learning techniques for donor-recipient matching in liver transplantation</title>
