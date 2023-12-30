@@ -42,7 +42,7 @@
                 />
   </url><url>
     <loc>https://dguijo.es/publication_types/1/</loc>
-    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <lastmod>2023-12-30T09:31:33+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -107,7 +107,7 @@
                 />
   </url><url>
     <loc>https://dguijo.es/authors/</loc>
-    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <lastmod>2023-12-30T09:31:33+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -224,7 +224,7 @@
                 />
   </url><url>
     <loc>https://dguijo.es/authors/david-guijo-rubio/</loc>
-    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <lastmod>2023-12-30T09:31:33+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -237,7 +237,7 @@
                 />
   </url><url>
     <loc>https://dguijo.es/</loc>
-    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <lastmod>2023-12-30T09:31:33+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -588,7 +588,7 @@
                 />
   </url><url>
     <loc>https://dguijo.es/publication/</loc>
-    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <lastmod>2023-12-30T09:31:33+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -601,7 +601,7 @@
                 />
   </url><url>
     <loc>https://dguijo.es/publication_types/</loc>
-    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <lastmod>2023-12-30T09:31:33+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1393,8 +1393,21 @@
                 href="https://dguijo.es/publication/guijo-2022-hackathon/"
                 />
   </url><url>
+    <loc>https://dguijo.es/publication/guijo-2022-hackathonb/</loc>
+    <lastmod>2023-12-30T09:31:33+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/publication/guijo-2022-hackathonb/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/publication/guijo-2022-hackathonb/"
+                />
+  </url><url>
     <loc>https://dguijo.es/authors/javier-barbero-gomez/</loc>
-    <lastmod>2023-12-30T08:44:42+01:00</lastmod>
+    <lastmod>2023-12-30T09:31:33+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1407,7 +1420,7 @@
                 />
   </url><url>
     <loc>https://dguijo.es/authors/jose-v-die/</loc>
-    <lastmod>2023-12-30T08:44:42+01:00</lastmod>
+    <lastmod>2023-12-30T09:31:33+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1420,7 +1433,7 @@
                 />
   </url><url>
     <loc>https://dguijo.es/authors/pablo-gonzalez-moreno/</loc>
-    <lastmod>2023-12-30T08:44:42+01:00</lastmod>
+    <lastmod>2023-12-30T09:31:33+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1430,6 +1443,19 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://dguijo.es/authors/pablo-gonzalez-moreno/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/victor-m-vargas/</loc>
+    <lastmod>2023-12-30T09:31:33+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/victor-m-vargas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/victor-m-vargas/"
                 />
   </url><url>
     <loc>https://dguijo.es/authors/cesar-hervas/</loc>
