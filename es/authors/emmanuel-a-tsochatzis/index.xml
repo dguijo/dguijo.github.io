@@ -5,7 +5,7 @@
     <link>https://dguijo.es/authors/emmanuel-a-tsochatzis/</link>
       <atom:link href="https://dguijo.es/authors/emmanuel-a-tsochatzis/index.xml" rel="self" type="application/rss+xml" />
     <description>Emmanuel A Tsochatzis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2023</copyright><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2023</copyright><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Emmanuel A Tsochatzis</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Performance of the gender-equity model for liver allocation (GEMA-Na) within the first 30 and 60 days of listing</title>
+      <link>https://dguijo.es/publication/rodriguezperalvarez-2023-ilts/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.es/publication/rodriguezperalvarez-2023-ilts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Development and validation of the Gender-Equity Model for Liver Allocation (GEMA) to prioritise candidates for liver transplantation: a cohort study</title>
       <link>https://dguijo.es/publication/rodriguezperalvarez-2022/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://dguijo.es/publication/rodriguezperalvarez-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilidad del gender-equity model for liver allocation (GEMA) en un contexto de acortamiento de la lista de espera de trasplante hepático</title>
+      <link>https://dguijo.es/publication/rodriguezperalvarez-2023-aeeh/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.es/publication/rodriguezperalvarez-2023-aeeh/</guid>
       <description></description>
     </item>
     

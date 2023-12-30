@@ -13,6 +13,22 @@
     </image>
     
     <item>
+      <title>Barycentre Averaging for the Move-Split-Merge Time Series Distance Measure</title>
+      <link>https://dguijo.com/publication/holder-2023-barycentre/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/holder-2023-barycentre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emparejamiento donante-receptor durante la donación en asistolia controlada con perfusión regional normotérmica: papel de los clasificadores de machine learning como modelos predictivos de la supervivencia del injerto</title>
+      <link>https://dguijo.com/publication/calleja-2023-emparejamiento/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/calleja-2023-emparejamiento/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Generalised triangular distributions for ordinal deep learning: Novel proposal and optimisation</title>
       <link>https://dguijo.com/publication/vargas-2023119606/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
@@ -33,6 +49,14 @@
       <link>https://dguijo.com/publication/diaz-2023-cluster/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://dguijo.com/publication/diaz-2023-cluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering Time Series with k-Medoids Based Algorithms</title>
+      <link>https://dguijo.com/publication/holder-2023-clustering/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/holder-2023-clustering/</guid>
       <description></description>
     </item>
     
@@ -61,6 +85,14 @@
     </item>
     
     <item>
+      <title>Performance of the gender-equity model for liver allocation (GEMA-Na) within the first 30 and 60 days of listing</title>
+      <link>https://dguijo.com/publication/rodriguezperalvarez-2023-ilts/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/rodriguezperalvarez-2023-ilts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Development and validation of the Gender-Equity Model for Liver Allocation (GEMA) to prioritise candidates for liver transplantation: a cohort study</title>
       <link>https://dguijo.com/publication/rodriguezperalvarez-2022/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
@@ -77,6 +109,14 @@
     </item>
     
     <item>
+      <title>Utilidad del gender-equity model for liver allocation (GEMA) en un contexto de acortamiento de la lista de espera de trasplante hepático</title>
+      <link>https://dguijo.com/publication/rodriguezperalvarez-2023-aeeh/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/rodriguezperalvarez-2023-aeeh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Machine Learning Applications in Real-World Time Series Problems</title>
       <link>https://dguijo.com/publication/duran-2023-machine/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
@@ -85,10 +125,26 @@
     </item>
     
     <item>
+      <title>Corrección de la disparidad de género en el acceso al trasplante hepático</title>
+      <link>https://dguijo.com/publication/gomez-2023-correccion/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/gomez-2023-correccion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>COVID-19 contagion forecasting framework based on curve decomposition and evolutionary artificial neural networks: A case study in Andalusia, Spain</title>
       <link>https://dguijo.com/publication/diazlozano-2022117977/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://dguijo.com/publication/diazlozano-2022117977/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hackathon en docencia: aprendizaje automático aplicado a Ciencias de la Vida</title>
+      <link>https://dguijo.com/publication/guijo-2022-hackathon/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/guijo-2022-hackathon/</guid>
       <description></description>
     </item>
     
@@ -121,14 +177,6 @@
       <link>https://dguijo.com/publication/duran-2022-gamifying/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://dguijo.com/publication/duran-2022-gamifying/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hackathon in Teaching: Applying Machine Learning to Life Sciences Tasks</title>
-      <link>https://dguijo.com/publication/guijo-2022-hackathon/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.com/publication/guijo-2022-hackathon/</guid>
       <description></description>
     </item>
     

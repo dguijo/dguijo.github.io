@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pablo Ramírez-Romero | David Guijo-Rubio</title>
+    <link>https://dguijo.es/authors/pablo-ramirez-romero/</link>
+      <atom:link href="https://dguijo.es/authors/pablo-ramirez-romero/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pablo Ramírez-Romero</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2023</copyright><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <title>Pablo Ramírez-Romero</title>
+      <link>https://dguijo.es/authors/pablo-ramirez-romero/</link>
+    </image>
+    
+    <item>
+      <title>Emparejamiento donante-receptor durante la donación en asistolia controlada con perfusión regional normotérmica: papel de los clasificadores de machine learning como modelos predictivos de la supervivencia del injerto</title>
+      <link>https://dguijo.es/publication/calleja-2023-emparejamiento/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.es/publication/calleja-2023-emparejamiento/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

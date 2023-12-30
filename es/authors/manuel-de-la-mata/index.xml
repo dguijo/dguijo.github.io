@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuel de la Mata | David Guijo-Rubio</title>
+    <link>https://dguijo.es/authors/manuel-de-la-mata/</link>
+      <atom:link href="https://dguijo.es/authors/manuel-de-la-mata/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manuel de la Mata</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2023</copyright><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <title>Manuel de la Mata</title>
+      <link>https://dguijo.es/authors/manuel-de-la-mata/</link>
+    </image>
+    
+    <item>
+      <title>Utilidad del gender-equity model for liver allocation (GEMA) en un contexto de acortamiento de la lista de espera de trasplante hepático</title>
+      <link>https://dguijo.es/publication/rodriguezperalvarez-2023-aeeh/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.es/publication/rodriguezperalvarez-2023-aeeh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

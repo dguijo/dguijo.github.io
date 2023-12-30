@@ -5,12 +5,36 @@
     <link>https://dguijo.es/publication_types/1/</link>
       <atom:link href="https://dguijo.es/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2023</copyright><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2023</copyright><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://dguijo.es/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Barycentre Averaging for the Move-Split-Merge Time Series Distance Measure</title>
+      <link>https://dguijo.es/publication/holder-2023-barycentre/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.es/publication/holder-2023-barycentre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emparejamiento donante-receptor durante la donación en asistolia controlada con perfusión regional normotérmica: papel de los clasificadores de machine learning como modelos predictivos de la supervivencia del injerto</title>
+      <link>https://dguijo.es/publication/calleja-2023-emparejamiento/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.es/publication/calleja-2023-emparejamiento/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering Time Series with k-Medoids Based Algorithms</title>
+      <link>https://dguijo.es/publication/holder-2023-clustering/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.es/publication/holder-2023-clustering/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Dictionary-based approach to Time Series Ordinal Classification</title>
@@ -37,10 +61,26 @@
     </item>
     
     <item>
-      <title>Machine Learning Applications in Real-World Time Series Problems</title>
-      <link>https://dguijo.es/publication/duran-2023-machine/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.es/publication/duran-2023-machine/</guid>
+      <title>Performance of the gender-equity model for liver allocation (GEMA-Na) within the first 30 and 60 days of listing</title>
+      <link>https://dguijo.es/publication/rodriguezperalvarez-2023-ilts/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.es/publication/rodriguezperalvarez-2023-ilts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilidad del gender-equity model for liver allocation (GEMA) en un contexto de acortamiento de la lista de espera de trasplante hepático</title>
+      <link>https://dguijo.es/publication/rodriguezperalvarez-2023-aeeh/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.es/publication/rodriguezperalvarez-2023-aeeh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corrección de la disparidad de género en el acceso al trasplante hepático</title>
+      <link>https://dguijo.es/publication/gomez-2023-correccion/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.es/publication/gomez-2023-correccion/</guid>
       <description></description>
     </item>
     
@@ -73,14 +113,6 @@
       <link>https://dguijo.es/publication/duran-2022-gamifying/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://dguijo.es/publication/duran-2022-gamifying/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hackathon in Teaching: Applying Machine Learning to Life Sciences Tasks</title>
-      <link>https://dguijo.es/publication/guijo-2022-hackathon/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.es/publication/guijo-2022-hackathon/</guid>
       <description></description>
     </item>
     

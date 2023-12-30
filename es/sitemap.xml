@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dguijo.es/authors/lander-atutxa/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/lander-atutxa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/lander-atutxa/"
+                />
+  </url><url>
     <loc>https://dguijo.es/tags/deep-learning/</loc>
     <lastmod>2023-09-10T12:20:21+02:00</lastmod>
     <xhtml:link
@@ -28,8 +41,21 @@
                 href="https://dguijo.es/tags/ordinal-classification/"
                 />
   </url><url>
+    <loc>https://dguijo.es/publication_types/1/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/publication_types/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/publication_types/1/"
+                />
+  </url><url>
     <loc>https://dguijo.es/publication_types/2/</loc>
-    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
+    <lastmod>2023-12-30T08:44:42+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,6 +65,32 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://dguijo.es/publication_types/2/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/amelia-j.-hessheimer/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/amelia-j.-hessheimer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/amelia-j.-hessheimer/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/anthony-bagnall/</loc>
+    <lastmod>2023-12-30T09:05:52+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/anthony-bagnall/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/anthony-bagnall/"
                 />
   </url><url>
     <loc>https://dguijo.es/authors/antonio-manuel-duran-rosal/</loc>
@@ -55,7 +107,7 @@
                 />
   </url><url>
     <loc>https://dguijo.es/authors/</loc>
-    <lastmod>2023-10-07T16:46:47+02:00</lastmod>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -67,8 +119,99 @@
                 href="https://dguijo.es/authors/"
                 />
   </url><url>
+    <loc>https://dguijo.es/publication/holder-2023-barycentre/</loc>
+    <lastmod>2023-12-30T09:05:52+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/publication/holder-2023-barycentre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/publication/holder-2023-barycentre/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/beatriz-dominguez-gil/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/beatriz-dominguez-gil/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/beatriz-dominguez-gil/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/barbara-vidal/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/barbara-vidal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/barbara-vidal/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/carlos-jimenez-romero/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/carlos-jimenez-romero/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/carlos-jimenez-romero/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/carolina-gonzalez-abos/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/carolina-gonzalez-abos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/carolina-gonzalez-abos/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/christopher-holder/</loc>
+    <lastmod>2023-12-30T09:05:52+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/christopher-holder/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/christopher-holder/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/constantino-fontdevila/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/constantino-fontdevila/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/constantino-fontdevila/"
+                />
+  </url><url>
     <loc>https://dguijo.es/authors/cesar-hervas-martinez/</loc>
-    <lastmod>2023-10-07T16:46:47+02:00</lastmod>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -81,7 +224,7 @@
                 />
   </url><url>
     <loc>https://dguijo.es/authors/david-guijo-rubio/</loc>
-    <lastmod>2023-10-07T16:46:47+02:00</lastmod>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -94,7 +237,7 @@
                 />
   </url><url>
     <loc>https://dguijo.es/</loc>
-    <lastmod>2023-10-07T16:46:47+02:00</lastmod>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -104,6 +247,19 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://dguijo.es/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/david-pacheco-sanchez/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/david-pacheco-sanchez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/david-pacheco-sanchez/"
                 />
   </url><url>
     <loc>https://dguijo.es/tags/dynamic-barebones-explotation-pso/</loc>
@@ -117,6 +273,58 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://dguijo.es/tags/dynamic-barebones-explotation-pso/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/elisabeth-coll/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/elisabeth-coll/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/elisabeth-coll/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/publication/calleja-2023-emparejamiento/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/publication/calleja-2023-emparejamiento/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/publication/calleja-2023-emparejamiento/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/evaristo-varo/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/evaristo-varo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/evaristo-varo/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/fernando-rotellar/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/fernando-rotellar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/fernando-rotellar/"
                 />
   </url><url>
     <loc>https://dguijo.es/tags/generalised-triangular-distribution/</loc>
@@ -145,8 +353,229 @@
                 href="https://dguijo.es/publication/vargas-2023119606/"
                 />
   </url><url>
+    <loc>https://dguijo.es/authors/gerardo-blanco-fernandez/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/gerardo-blanco-fernandez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/gerardo-blanco-fernandez/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/gloria-de-la-rosa/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/gloria-de-la-rosa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/gloria-de-la-rosa/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/gonzalo-rodriguez-laiz/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/gonzalo-rodriguez-laiz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/gonzalo-rodriguez-laiz/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/javier-briceno/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/javier-briceno/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/javier-briceno/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/javier-nuno/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/javier-nuno/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/javier-nuno/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/jesus-maria-villar-del-moral/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/jesus-maria-villar-del-moral/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/jesus-maria-villar-del-moral/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/jose-roldan/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/jose-roldan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/jose-roldan/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/jose-angel-lopez-baena/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/jose-angel-lopez-baena/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/jose-angel-lopez-baena/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/juan-carlos-rodriguez-san-juan/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/juan-carlos-rodriguez-san-juan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/juan-carlos-rodriguez-san-juan/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/julio-santoyo/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/julio-santoyo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/julio-santoyo/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/laura-llado-garriga/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/laura-llado-garriga/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/laura-llado-garriga/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/manuel-barrera/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/manuel-barrera/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/manuel-barrera/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/manuel-gomez/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/manuel-gomez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/manuel-gomez/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/marcos-rivera/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/marcos-rivera/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/marcos-rivera/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/miguel-angel-gomez-bravo/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/miguel-angel-gomez-bravo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/miguel-angel-gomez-bravo/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/mikel-gastaca-mateo/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/mikel-gastaca-mateo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/mikel-gastaca-mateo/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/pablo-ramirez-romero/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/pablo-ramirez-romero/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/pablo-ramirez-romero/"
+                />
+  </url><url>
     <loc>https://dguijo.es/authors/pedro-antonio-gutierrez/</loc>
-    <lastmod>2023-10-07T16:46:47+02:00</lastmod>
+    <lastmod>2023-12-30T09:16:31+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -159,7 +588,7 @@
                 />
   </url><url>
     <loc>https://dguijo.es/publication/</loc>
-    <lastmod>2023-10-07T16:46:47+02:00</lastmod>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -172,7 +601,7 @@
                 />
   </url><url>
     <loc>https://dguijo.es/publication_types/</loc>
-    <lastmod>2023-10-07T16:46:47+02:00</lastmod>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -182,6 +611,45 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://dguijo.es/publication_types/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/rafael-calleja/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/rafael-calleja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/rafael-calleja/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/rafael-lopez-andujar/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/rafael-lopez-andujar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/rafael-lopez-andujar/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/ramon-charco-torra/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/ramon-charco-torra/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/ramon-charco-torra/"
                 />
   </url><url>
     <loc>https://dguijo.es/tags/soft-labelling/</loc>
@@ -211,7 +679,7 @@
                 />
   </url><url>
     <loc>https://dguijo.es/authors/victor-manuel-vargas/</loc>
-    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
+    <lastmod>2023-12-30T08:44:42+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -221,6 +689,19 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://dguijo.es/authors/victor-manuel-vargas/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/victor-sanchez-turrion/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/victor-sanchez-turrion/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/victor-sanchez-turrion/"
                 />
   </url><url>
     <loc>https://dguijo.es/publication/guijorubio-2023110647/</loc>
@@ -353,6 +834,19 @@
                 href="https://dguijo.es/publication/diaz-2023-cluster/"
                 />
   </url><url>
+    <loc>https://dguijo.es/publication/holder-2023-clustering/</loc>
+    <lastmod>2023-12-30T09:02:27+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/publication/holder-2023-clustering/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/publication/holder-2023-clustering/"
+                />
+  </url><url>
     <loc>https://dguijo.es/authors/miguel-d%C4%B1az-lozano/</loc>
     <lastmod>2023-07-01T07:27:16+01:00</lastmod>
     <xhtml:link
@@ -364,19 +858,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://dguijo.es/authors/miguel-d%C4%B1az-lozano/"
-                />
-  </url><url>
-    <loc>https://dguijo.es/publication_types/1/</loc>
-    <lastmod>2023-10-07T16:46:47+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/publication_types/1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/publication_types/1/"
                 />
   </url><url>
     <loc>https://dguijo.es/publication/ayllon-2023-dictionary/</loc>
@@ -403,19 +884,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://dguijo.es/publication/vargas-2023-gramian/"
-                />
-  </url><url>
-    <loc>https://dguijo.es/authors/javier-briceno/</loc>
-    <lastmod>2023-10-07T16:46:47+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/authors/javier-briceno/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/authors/javier-briceno/"
                 />
   </url><url>
     <loc>https://dguijo.es/authors/marcos-rivera-gavilan/</loc>
@@ -471,7 +939,7 @@
                 />
   </url><url>
     <loc>https://dguijo.es/authors/antonio-manuel-gomez-orellana/</loc>
-    <lastmod>2023-07-01T07:28:53+01:00</lastmod>
+    <lastmod>2023-12-30T09:16:31+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -484,7 +952,7 @@
                 />
   </url><url>
     <loc>https://dguijo.es/authors/avik-majumdar/</loc>
-    <lastmod>2022-12-27T17:21:02+00:00</lastmod>
+    <lastmod>2023-12-30T09:16:31+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -494,6 +962,110 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://dguijo.es/authors/avik-majumdar/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/emmanuel-a-tsochatzis/</loc>
+    <lastmod>2023-12-30T09:16:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/emmanuel-a-tsochatzis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/emmanuel-a-tsochatzis/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/geoffrey-w-mccaughan/</loc>
+    <lastmod>2023-12-30T09:09:21+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/geoffrey-w-mccaughan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/geoffrey-w-mccaughan/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/manuel-luis-rodriguez-peralvarez/</loc>
+    <lastmod>2023-12-30T09:16:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/manuel-luis-rodriguez-peralvarez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/manuel-luis-rodriguez-peralvarez/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/marta-guerrero/</loc>
+    <lastmod>2023-12-30T09:09:21+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/marta-guerrero/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/marta-guerrero/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/michael-bailey/</loc>
+    <lastmod>2023-12-30T09:09:21+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/michael-bailey/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/michael-bailey/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/paul-gow/</loc>
+    <lastmod>2023-12-30T09:09:21+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/paul-gow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/paul-gow/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/publication/rodriguezperalvarez-2023-ilts/</loc>
+    <lastmod>2023-12-30T09:09:21+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/publication/rodriguezperalvarez-2023-ilts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/publication/rodriguezperalvarez-2023-ilts/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/rhiannon-taylor/</loc>
+    <lastmod>2023-12-30T09:09:21+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/rhiannon-taylor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/rhiannon-taylor/"
                 />
   </url><url>
     <loc>https://dguijo.es/authors/cesar-hervas-mart%C4%B1nez/</loc>
@@ -522,32 +1094,6 @@
                 href="https://dguijo.es/publication/rodriguezperalvarez-2022/"
                 />
   </url><url>
-    <loc>https://dguijo.es/authors/emmanuel-a-tsochatzis/</loc>
-    <lastmod>2022-12-27T17:21:02+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/authors/emmanuel-a-tsochatzis/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/authors/emmanuel-a-tsochatzis/"
-                />
-  </url><url>
-    <loc>https://dguijo.es/authors/geoffrey-w-mccaughan/</loc>
-    <lastmod>2022-12-27T17:21:02+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/authors/geoffrey-w-mccaughan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/authors/geoffrey-w-mccaughan/"
-                />
-  </url><url>
     <loc>https://dguijo.es/authors/jorge-perez-aracil/</loc>
     <lastmod>2023-07-01T07:28:53+01:00</lastmod>
     <xhtml:link
@@ -561,43 +1107,30 @@
                 href="https://dguijo.es/authors/jorge-perez-aracil/"
                 />
   </url><url>
-    <loc>https://dguijo.es/authors/manuel-luis-rodriguez-peralvarez/</loc>
-    <lastmod>2022-12-27T17:21:02+00:00</lastmod>
+    <loc>https://dguijo.es/authors/manuel-de-la-mata/</loc>
+    <lastmod>2023-12-30T09:16:31+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dguijo.com/authors/manuel-luis-rodriguez-peralvarez/"
+                href="https://dguijo.com/authors/manuel-de-la-mata/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://dguijo.es/authors/manuel-luis-rodriguez-peralvarez/"
+                href="https://dguijo.es/authors/manuel-de-la-mata/"
                 />
   </url><url>
-    <loc>https://dguijo.es/authors/marta-guerrero/</loc>
-    <lastmod>2022-12-27T17:21:02+00:00</lastmod>
+    <loc>https://dguijo.es/authors/maria-dolores-ayllon/</loc>
+    <lastmod>2023-12-30T09:16:31+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dguijo.com/authors/marta-guerrero/"
+                href="https://dguijo.com/authors/maria-dolores-ayllon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://dguijo.es/authors/marta-guerrero/"
-                />
-  </url><url>
-    <loc>https://dguijo.es/authors/michael-bailey/</loc>
-    <lastmod>2022-12-27T17:21:02+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/authors/michael-bailey/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/authors/michael-bailey/"
+                href="https://dguijo.es/authors/maria-dolores-ayllon/"
                 />
   </url><url>
     <loc>https://dguijo.es/publication/gomez-2023-one/</loc>
@@ -613,30 +1146,17 @@
                 href="https://dguijo.es/publication/gomez-2023-one/"
                 />
   </url><url>
-    <loc>https://dguijo.es/authors/paul-gow/</loc>
-    <lastmod>2022-12-27T17:21:02+00:00</lastmod>
+    <loc>https://dguijo.es/authors/pilar-barrera-baena/</loc>
+    <lastmod>2023-12-30T09:16:31+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dguijo.com/authors/paul-gow/"
+                href="https://dguijo.com/authors/pilar-barrera-baena/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://dguijo.es/authors/paul-gow/"
-                />
-  </url><url>
-    <loc>https://dguijo.es/authors/rhiannon-taylor/</loc>
-    <lastmod>2022-12-27T17:21:02+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/authors/rhiannon-taylor/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/authors/rhiannon-taylor/"
+                href="https://dguijo.es/authors/pilar-barrera-baena/"
                 />
   </url><url>
     <loc>https://dguijo.es/authors/sancho-salcedo-sanz/</loc>
@@ -652,6 +1172,32 @@
                 href="https://dguijo.es/authors/sancho-salcedo-sanz/"
                 />
   </url><url>
+    <loc>https://dguijo.es/publication/rodriguezperalvarez-2023-aeeh/</loc>
+    <lastmod>2023-12-30T09:16:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/publication/rodriguezperalvarez-2023-aeeh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/publication/rodriguezperalvarez-2023-aeeh/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/publication_types/6/</loc>
+    <lastmod>2023-10-07T16:32:57+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/publication_types/6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/publication_types/6/"
+                />
+  </url><url>
     <loc>https://dguijo.es/publication/duran-2023-machine/</loc>
     <lastmod>2023-10-07T16:32:57+02:00</lastmod>
     <xhtml:link
@@ -663,6 +1209,58 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://dguijo.es/publication/duran-2023-machine/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/antonio-m-gomez-orellana/</loc>
+    <lastmod>2023-12-30T08:54:57+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/antonio-m-gomez-orellana/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/antonio-m-gomez-orellana/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/publication/gomez-2023-correccion/</loc>
+    <lastmod>2023-12-30T08:54:57+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/publication/gomez-2023-correccion/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/publication/gomez-2023-correccion/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/cesar-hervas-mart%5Cez/</loc>
+    <lastmod>2023-12-30T08:54:57+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/cesar-hervas-mart%5Cez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/cesar-hervas-mart%5Cez/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/manuel-lu%5Cs-rodriguez-peralvarez/</loc>
+    <lastmod>2023-12-30T08:54:57+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/manuel-lu%5Cs-rodriguez-peralvarez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/manuel-lu%5Cs-rodriguez-peralvarez/"
                 />
   </url><url>
     <loc>https://dguijo.es/authors/armando-romanos-rodriguez/</loc>
@@ -782,17 +1380,56 @@
                 href="https://dguijo.es/tags/time-series/"
                 />
   </url><url>
-    <loc>https://dguijo.es/authors/antonio-m-gomez-orellana/</loc>
-    <lastmod>2023-07-01T07:30:04+01:00</lastmod>
+    <loc>https://dguijo.es/publication/guijo-2022-hackathon/</loc>
+    <lastmod>2023-12-30T08:44:42+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dguijo.com/authors/antonio-m-gomez-orellana/"
+                href="https://dguijo.com/publication/guijo-2022-hackathon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://dguijo.es/authors/antonio-m-gomez-orellana/"
+                href="https://dguijo.es/publication/guijo-2022-hackathon/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/javier-barbero-gomez/</loc>
+    <lastmod>2023-12-30T08:44:42+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/javier-barbero-gomez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/javier-barbero-gomez/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/jose-v-die/</loc>
+    <lastmod>2023-12-30T08:44:42+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/jose-v-die/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/jose-v-die/"
+                />
+  </url><url>
+    <loc>https://dguijo.es/authors/pablo-gonzalez-moreno/</loc>
+    <lastmod>2023-12-30T08:44:42+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dguijo.com/authors/pablo-gonzalez-moreno/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dguijo.es/authors/pablo-gonzalez-moreno/"
                 />
   </url><url>
     <loc>https://dguijo.es/authors/cesar-hervas/</loc>
@@ -964,45 +1601,6 @@
                 href="https://dguijo.es/publication/duran-2022-gamifying/"
                 />
   </url><url>
-    <loc>https://dguijo.es/publication/guijo-2022-hackathon/</loc>
-    <lastmod>2023-07-01T07:31:36+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/publication/guijo-2022-hackathon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/publication/guijo-2022-hackathon/"
-                />
-  </url><url>
-    <loc>https://dguijo.es/authors/javier-barbero-gomez/</loc>
-    <lastmod>2023-07-01T07:31:36+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/authors/javier-barbero-gomez/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/authors/javier-barbero-gomez/"
-                />
-  </url><url>
-    <loc>https://dguijo.es/authors/jose-v-die/</loc>
-    <lastmod>2023-07-01T07:31:36+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/authors/jose-v-die/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/authors/jose-v-die/"
-                />
-  </url><url>
     <loc>https://dguijo.es/authors/juan-c-fernandez/</loc>
     <lastmod>2023-07-01T07:30:04+01:00</lastmod>
     <xhtml:link
@@ -1042,19 +1640,6 @@
                 href="https://dguijo.es/tags/multi-task-machine-learning/"
                 />
   </url><url>
-    <loc>https://dguijo.es/authors/pablo-gonzalez-moreno/</loc>
-    <lastmod>2023-07-01T07:31:36+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/authors/pablo-gonzalez-moreno/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/authors/pablo-gonzalez-moreno/"
-                />
-  </url><url>
     <loc>https://dguijo.es/authors/pedro-a-gutierrez/</loc>
     <lastmod>2023-07-01T07:30:04+01:00</lastmod>
     <xhtml:link
@@ -1082,7 +1667,7 @@
                 />
   </url><url>
     <loc>https://dguijo.es/authors/v%C4%B1ctor-m-vargas/</loc>
-    <lastmod>2023-07-01T07:31:36+01:00</lastmod>
+    <lastmod>2023-07-01T07:30:04+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1575,19 +2160,6 @@
                 href="https://dguijo.es/tags/machine-learning/"
                 />
   </url><url>
-    <loc>https://dguijo.es/authors/maria-dolores-ayllon/</loc>
-    <lastmod>2021-05-24T10:17:15+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/authors/maria-dolores-ayllon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/authors/maria-dolores-ayllon/"
-                />
-  </url><url>
     <loc>https://dguijo.es/authors/ruben-ciria/</loc>
     <lastmod>2021-05-24T10:17:15+02:00</lastmod>
     <xhtml:link
@@ -1703,19 +2275,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://dguijo.es/tags/solar-radiation-estimation/"
-                />
-  </url><url>
-    <loc>https://dguijo.es/authors/anthony-bagnall/</loc>
-    <lastmod>2021-04-28T14:24:57+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/authors/anthony-bagnall/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/authors/anthony-bagnall/"
                 />
   </url><url>
     <loc>https://dguijo.es/publication/guijo-aaltd-2020/</loc>
@@ -2262,19 +2821,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://dguijo.es/authors/r.-tavenard/"
-                />
-  </url><url>
-    <loc>https://dguijo.es/publication_types/6/</loc>
-    <lastmod>2021-04-28T14:24:58+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dguijo.com/publication_types/6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dguijo.es/publication_types/6/"
                 />
   </url><url>
     <loc>https://dguijo.es/publication/guijo-uco-2019/</loc>
