@@ -5,12 +5,28 @@
     <link>https://dguijo.com/authors/victor-m-vargas/</link>
       <atom:link href="https://dguijo.com/authors/victor-m-vargas/index.xml" rel="self" type="application/rss+xml" />
     <description>Víctor M Vargas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2024</copyright><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2024</copyright><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Víctor M Vargas</title>
       <link>https://dguijo.com/authors/victor-m-vargas/</link>
     </image>
+    
+    <item>
+      <title>Energy Flux Prediction Using an Ordinal Soft Labelling Strategy</title>
+      <link>https://dguijo.com/publication/gomez-2024-energy/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/gomez-2024-energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medium-and Long-Term Wind Speed Prediction Using the Multi-task Learning Paradigm</title>
+      <link>https://dguijo.com/publication/gomez-2024-medium/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/gomez-2024-medium/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hackathon in Teaching: Applying Machine Learning to Life Sciences Tasks</title>
