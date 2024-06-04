@@ -5,12 +5,28 @@
     <link>https://dguijo.es/authors/antonio-m-gomez-orellana/</link>
       <atom:link href="https://dguijo.es/authors/antonio-m-gomez-orellana/index.xml" rel="self" type="application/rss+xml" />
     <description>Antonio M Gómez-Orellana</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2024</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2024</copyright><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Antonio M Gómez-Orellana</title>
       <link>https://dguijo.es/authors/antonio-m-gomez-orellana/</link>
     </image>
+    
+    <item>
+      <title>Energy Flux Prediction Using an Ordinal Soft Labelling Strategy</title>
+      <link>https://dguijo.es/publication/gomez-2024-energy/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.es/publication/gomez-2024-energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medium-and Long-Term Wind Speed Prediction Using the Multi-task Learning Paradigm</title>
+      <link>https://dguijo.es/publication/gomez-2024-medium/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.es/publication/gomez-2024-medium/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Corrección de la disparidad de género en el acceso al trasplante hepático</title>
