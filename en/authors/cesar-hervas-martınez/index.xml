@@ -5,12 +5,20 @@
     <link>https://dguijo.com/authors/cesar-hervas-mart%C4%B1nez/</link>
       <atom:link href="https://dguijo.com/authors/cesar-hervas-mart%C4%B1nez/index.xml" rel="self" type="application/rss+xml" />
     <description>César Hervás-Martı́nez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2024</copyright><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2024</copyright><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>César Hervás-Martı́nez</title>
       <link>https://dguijo.com/authors/cesar-hervas-mart%C4%B1nez/</link>
     </image>
+    
+    <item>
+      <title>O-Hydra: A Hybrid Convolutional and Dictionary-Based Approach to Time Series Ordinal Classification</title>
+      <link>https://dguijo.com/publication/ayllon-2024-ohydra/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/ayllon-2024-ohydra/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>One month in advance prediction of air temperature from Reanalysis data with eXplainable Artificial Intelligence techniques</title>

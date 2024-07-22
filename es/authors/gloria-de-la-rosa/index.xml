@@ -5,12 +5,20 @@
     <link>https://dguijo.es/authors/gloria-de-la-rosa/</link>
       <atom:link href="https://dguijo.es/authors/gloria-de-la-rosa/index.xml" rel="self" type="application/rss+xml" />
     <description>Gloria De La Rosa</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2024</copyright><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2024</copyright><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Gloria De La Rosa</title>
       <link>https://dguijo.es/authors/gloria-de-la-rosa/</link>
     </image>
+    
+    <item>
+      <title>GEMA-Na and MELD 3.0 severity scores to address sex disparities for accessing liver transplantation: a nationwide retrospective cohort study</title>
+      <link>https://dguijo.es/publication/rodriguez-2024-gema/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.es/publication/rodriguez-2024-gema/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Emparejamiento donante-receptor durante la donación en asistolia controlada con perfusión regional normotérmica: papel de los clasificadores de machine learning como modelos predictivos de la supervivencia del injerto</title>

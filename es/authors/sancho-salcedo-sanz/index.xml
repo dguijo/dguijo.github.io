@@ -13,14 +13,6 @@
     </image>
     
     <item>
-      <title>Data Augmentation Techniques for Extreme Wind Prediction Improvement</title>
-      <link>https://dguijo.es/publication/vega-2024-data/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.es/publication/vega-2024-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Energy Flux Prediction Using an Ordinal Soft Labelling Strategy</title>
       <link>https://dguijo.es/publication/gomez-2024-energy/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
@@ -29,9 +21,17 @@
     </item>
     
     <item>
+      <title>Data Augmentation Techniques for Extreme Wind Prediction Improvement</title>
+      <link>https://dguijo.es/publication/vega-2024-data/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.es/publication/vega-2024-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Medium-and Long-Term Wind Speed Prediction Using the Multi-task Learning Paradigm</title>
       <link>https://dguijo.es/publication/gomez-2024-medium/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://dguijo.es/publication/gomez-2024-medium/</guid>
       <description></description>
     </item>

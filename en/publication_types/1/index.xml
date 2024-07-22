@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Data Augmentation Techniques for Extreme Wind Prediction Improvement</title>
-      <link>https://dguijo.com/publication/vega-2024-data/</link>
+      <title>Age Estimation Using Soft Labelling Ordinal Classification Approaches</title>
+      <link>https://dguijo.com/publication/vargas-2024-age/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.com/publication/vega-2024-data/</guid>
+      <guid>https://dguijo.com/publication/vargas-2024-age/</guid>
       <description></description>
     </item>
     
@@ -29,9 +29,33 @@
     </item>
     
     <item>
+      <title>O-Hydra: A Hybrid Convolutional and Dictionary-Based Approach to Time Series Ordinal Classification</title>
+      <link>https://dguijo.com/publication/ayllon-2024-ohydra/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/ayllon-2024-ohydra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OS-024 The gender-equity model for liver allocation built on artificial intelligence (GEMA-AI) improves outcome predictions among liver transplant candidates</title>
+      <link>https://dguijo.com/publication/rodriguez-2024024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/rodriguez-2024024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Augmentation Techniques for Extreme Wind Prediction Improvement</title>
+      <link>https://dguijo.com/publication/vega-2024-data/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/vega-2024-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Medium-and Long-Term Wind Speed Prediction Using the Multi-task Learning Paradigm</title>
       <link>https://dguijo.com/publication/gomez-2024-medium/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://dguijo.com/publication/gomez-2024-medium/</guid>
       <description></description>
     </item>
