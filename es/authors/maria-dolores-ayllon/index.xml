@@ -1,30 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>María Dolores Ayllón | David Guijo-Rubio</title>
+    <title>Maria Dolores Ayllón | David Guijo-Rubio</title>
     <link>/authors/maria-dolores-ayllon/</link>
       <atom:link href="/authors/maria-dolores-ayllon/index.xml" rel="self" type="application/rss+xml" />
-    <description>María Dolores Ayllón</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <description>Maria Dolores Ayllón</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
-      <title>María Dolores Ayllón</title>
+      <title>Maria Dolores Ayllón</title>
       <link>/authors/maria-dolores-ayllon/</link>
     </image>
     
     <item>
-      <title>Utilidad del gender-equity model for liver allocation (GEMA) en un contexto de acortamiento de la lista de espera de trasplante hepático</title>
-      <link>/publication/rodriguezperalvarez-2023-aeeh/</link>
-      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/rodriguezperalvarez-2023-aeeh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modelling survival by machine learning methods in liver transplantation: application to the UNOS dataset</title>
-      <link>/publication/ideal-guijo-2019/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/ideal-guijo-2019/</guid>
+      <title>Statistical methods versus machine learning techniques for donor-recipient matching in liver transplantation</title>
+      <link>/publication/plos-guijo-2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/plos-guijo-2021/</guid>
       <description></description>
     </item>
     
