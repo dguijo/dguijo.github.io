@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emmanuel Tsochatzis | David Guijo-Rubio</title>
+    <link>//localhost:1313/authors/emmanuel-tsochatzis/</link>
+      <atom:link href="//localhost:1313/authors/emmanuel-tsochatzis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emmanuel Tsochatzis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <title>Emmanuel Tsochatzis</title>
+      <link>//localhost:1313/authors/emmanuel-tsochatzis/</link>
+    </image>
+    
+    <item>
+      <title>OS-024 The gender-equity model for liver allocation built on artificial intelligence (GEMA-AI) improves outcome predictions among liver transplant candidates</title>
+      <link>//localhost:1313/publication/rodriguez-2024024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/rodriguez-2024024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and validation of the gender-equity model for liver allocation (GEMA) to prioritize liver transplant candidates</title>
+      <link>//localhost:1313/publication/rodriguez-2022-development/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/rodriguez-2022-development/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -34,7 +34,7 @@
   
   <link rel="alternate" hreflang="en" href="https://dguijo.com/teaching/">
   
-  <link rel="alternate" hreflang="spanish" href="https://dguijo.es/teaching/">
+  <link rel="alternate" hreflang="spanish" href="/teaching/">
 
   
 
@@ -261,7 +261,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_32x32_fill_lanczos_center_3.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_192x192_fill_lanczos_center_3.png">
 
-  <link rel="canonical" href="https://dguijo.es/teaching/">
+  <link rel="canonical" href="/teaching/">
 
   
   
@@ -277,7 +277,7 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="David Guijo-Rubio">
-  <meta property="og:url" content="https://dguijo.es/teaching/">
+  <meta property="og:url" content="/teaching/">
   <meta property="og:title" content="Docencia | David Guijo-Rubio">
   <meta property="og:description" content="Investigador en Ciencia de Datos"><meta property="og:image" content="https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png">
   <meta property="twitter:image" content="https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="spanish">
@@ -615,26 +615,170 @@
     <div class="col-lg-12">
       
       <div class="article-style"><style>
-table th:first-of-type {
-    width: 16%;
+/* General table styling */
+table { 
+  opacity: 1 !important;
+  display: table;
+  border-collapse: collapse;
+  border-radius: 10px;
+  overflow: hidden;
+  font-family: Arial, sans-serif;
+  box-shadow: 0px 4px 10px #cacaca;
 }
-table th:nth-of-type(2) {
-    width: 47%;
+
+/* Disable alternating row colours in dark mode */
+.dark table > tbody > tr:nth-child(2n+1) > td, 
+.dark table > tbody > tr:nth-child(2n+1) > th {
+  background-color: transparent !important; /* Or use your preferred background colour */
 }
-table th:nth-of-type(3) {
-    width: 26%;
+
+/* Disable alternating row colours in light mode */
+table > tbody > tr:nth-child(2n+1) > td, 
+table > tbody > tr:nth-child(2n+1) > th {
+  background-color: transparent !important; /* Or use your preferred background colour */
 }
-table th:nth-of-type(4) {
-    width: 7%;
+
+/* Override dark mode hover colour for table rows */
+.dark table > tbody > tr:hover > td, 
+.dark table > tbody > tr:hover > th {
+  background-color: #fff7b4 !important; /* Replace with your desired colour */
+  color: black;
 }
-table th:nth-of-type(5) {
-    width: 7%;
+
+
+/* Header styling */
+th {
+  background-color: #f16497;
+  color: white;
+  padding: 12px;
+  text-align: left;
+}
+
+/* Row styling */
+tr:nth-child(even) {
+  background-color:rgb(122, 122, 122);
+}
+
+/* Row styling */
+tr:nth-child(odd) {
+  background-color:rgb(83, 83, 83);
+}
+
+/* Hover effect */
+tr:hover {
+  background-color:rgba(255, 248, 180, 0.67);
+}
+
+/* Padding for table cells */
+td {
+  padding: 10px;
+}
+
+
+/* Responsive table */
+@media screen and (max-width: 768px) {
+  table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
 }
 </style>
 <p>He impartido las siguientes asignaturas pertenecientes al 
 <a href="https://www.uco.es/dptos/dian" target="_blank" rel="noopener">Departamento de Informática y Análisis Numérico</a> de la 
 <a href="https://www.uco.es" target="_blank" rel="noopener">Universidad de Córdoba</a> (España):</p>
-<h2 id="curso-actual">Curso actual:</h2>
+<div class="legend">
+  <h3>Grados:</h3>
+  <ul>
+    <li><span class="icon">🧪</span> Física - Bachelor's Degree in Physics</li>
+    <li><span class="icon">💻</span> Ing. Informática - Bachelor's Degree in Computer Science</li>
+    <li><span class="icon">🔧</span> Ing. Electrónica - Bachelor's Degree in Electronic Engineering</li>
+  </ul>
+</div>
+<div class="legend">
+  <h3>Tipos de docencia:</h3>
+  <ul>
+    <li><span class="icon">🎓</span> Teoría - Clases docentes y conceptos teóricos</li>
+    <li><span class="icon">🔬</span> Prácticas - Prácticas y trabajo de laboratorio</li>
+  </ul>
+</div>
+<h2 id="current-courses-20242025">Current courses (2024/2025):</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Asignatura</th>
+<th style="text-align:left">Grado (Año, Cuat.)</th>
+<th style="text-align:center">Tipo</th>
+<th style="text-align:left">Horas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Programación Científica (PC)</td>
+<td style="text-align:left">🧪 Física (1st, 1st)</td>
+<td style="text-align:center">🎓</td>
+<td style="text-align:left">6</td>
+</tr>
+<tr>
+<td style="text-align:left">Programación Científica (PC)</td>
+<td style="text-align:left">🧪 Física (1st, 1st)</td>
+<td style="text-align:center">🔬</td>
+<td style="text-align:left">39</td>
+</tr>
+<tr>
+<td style="text-align:left">Bases de Datos (BBDD)</td>
+<td style="text-align:left">💻 Ing. Informática (2nd, 1st)</td>
+<td style="text-align:center">🔬</td>
+<td style="text-align:left">63</td>
+</tr>
+<tr>
+<td style="text-align:left">Introducción a los Modelos Computacionales (IMC)</td>
+<td style="text-align:left">💻 Ing. Informática (4th, 1st)</td>
+<td style="text-align:center">🔬</td>
+<td style="text-align:left">8</td>
+</tr>
+<tr>
+<td style="text-align:left">Introducción a los Modelos Computacionales (IMC)</td>
+<td style="text-align:left">💻 Ing. Informática (4th, 1st, English)</td>
+<td style="text-align:center">🔬</td>
+<td style="text-align:left">9</td>
+</tr>
+<tr>
+<td style="text-align:left">Ingeniería Web (IW)</td>
+<td style="text-align:left">💻 Ing. Informática (3rd, 2nd)</td>
+<td style="text-align:center">🎓</td>
+<td style="text-align:left">36</td>
+</tr>
+<tr>
+<td style="text-align:left">Programación y Administración de Sistemas (PAS)</td>
+<td style="text-align:left">💻 Ing. Informática (2nd, 2nd)</td>
+<td style="text-align:center">🎓</td>
+<td style="text-align:left">36</td>
+</tr>
+</tbody>
+</table>
+<br>
+<h2 id="next-year-courses-20252026">Next year courses (2025/2026):</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Asignatura</th>
+<th style="text-align:left">Grado (Año, Cuat.)</th>
+<th style="text-align:center">Tipo</th>
+<th style="text-align:left">Horas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">TBA</td>
+<td style="text-align:left">TBA</td>
+<td style="text-align:center">TBA</td>
+<td style="text-align:left">TBA</td>
+</tr>
+</tbody>
+</table>
+<br>
+<h2 id="past-courses-2017-2024">Past courses (2017-2024):</h2>
 <table>
 <thead>
 <tr>
@@ -647,171 +791,185 @@ table th:nth-of-type(5) {
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left">2023/2024</td>
+<td style="text-align:left"><strong>2023/2024</strong></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:center"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
 <td style="text-align:left">Programación Científica (PC)</td>
-<td style="text-align:left">Física (1er, 1er)</td>
-<td style="text-align:center">Teoría</td>
+<td style="text-align:left">🧪 Física (1st, 1st)</td>
+<td style="text-align:center">🎓</td>
 <td style="text-align:left">18</td>
 </tr>
 <tr>
-<td style="text-align:left">2023/2024</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">Programación Científica (PC)</td>
-<td style="text-align:left">Física (1er, 1er)</td>
-<td style="text-align:center">Prácticas</td>
+<td style="text-align:left">🧪 Física (1st, 1st)</td>
+<td style="text-align:center">🔬</td>
 <td style="text-align:left">48</td>
 </tr>
-</tbody>
-</table>
-<h2 id="próximo-curso">Próximo curso:</h2>
-<table>
-<thead>
 <tr>
-<th style="text-align:left">Curso académico</th>
-<th style="text-align:left">Asignatura</th>
-<th style="text-align:left">Grado (Año, Cuat.)</th>
-<th style="text-align:center">Tipo</th>
-<th style="text-align:left">Horas</th>
+<td style="text-align:left"><strong>2021/2022</strong></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:center"></td>
+<td style="text-align:left"></td>
 </tr>
-</thead>
-<tbody>
 <tr>
-<td style="text-align:left">2024/2025</td>
-<td style="text-align:left">No disponible</td>
-<td style="text-align:left">No disponible</td>
-<td style="text-align:center">No disponible</td>
-<td style="text-align:left">No disponible</td>
-</tr>
-</tbody>
-</table>
-<h2 id="cursos-anteriores">Cursos anteriores:</h2>
-<table>
-<thead>
-<tr>
-<th style="text-align:left">Curso académico</th>
-<th style="text-align:left">Asignatura</th>
-<th style="text-align:left">Grado (Año, Cuat.)</th>
-<th style="text-align:center">Tipo</th>
-<th style="text-align:left">Horas</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left">2021/2022</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">Fundamentos de Informática (FI)</td>
-<td style="text-align:left">Ing. Electrónica (1er, 1er)</td>
-<td style="text-align:center">Prácticas</td>
+<td style="text-align:left">🔧 Ing. Electrónica (1st, 1st)</td>
+<td style="text-align:center">🔬</td>
 <td style="text-align:left">14</td>
 </tr>
 <tr>
-<td style="text-align:left">2021/2022</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">Programación Científica (PC)</td>
-<td style="text-align:left">Física (1er, 1er)</td>
-<td style="text-align:center">Teoría</td>
+<td style="text-align:left">🧪 Física (1st, 1st)</td>
+<td style="text-align:center">🎓</td>
 <td style="text-align:left">12</td>
 </tr>
 <tr>
-<td style="text-align:left">2021/2022</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">Programación Científica (PC)</td>
-<td style="text-align:left">Física (1er, 1er)</td>
-<td style="text-align:center">Prácticas</td>
+<td style="text-align:left">🧪 Física (1st, 1st)</td>
+<td style="text-align:center">🔬</td>
 <td style="text-align:left">32</td>
 </tr>
 <tr>
-<td style="text-align:left">2021/2022</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">Introducción a la Programación (IP)</td>
-<td style="text-align:left">Ing. Informática (1er, 1er)</td>
-<td style="text-align:center">Prácticas</td>
+<td style="text-align:left">💻 Ing. Informática (1st, 1st)</td>
+<td style="text-align:center">🔬</td>
 <td style="text-align:left">74</td>
 </tr>
 <tr>
-<td style="text-align:left">2021/2022</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">Metodología de la Programación (MP)</td>
-<td style="text-align:left">Ing. Informática (1er, 2o)</td>
-<td style="text-align:center">Prácticas</td>
+<td style="text-align:left">💻 Ing. Informática (1st, 2nd)</td>
+<td style="text-align:center">🔬</td>
 <td style="text-align:left">24</td>
 </tr>
 <tr>
-<td style="text-align:left">2021/2022</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">Ingeniería Web (IW)</td>
-<td style="text-align:left">Ing. Informática (3er, 2o)</td>
-<td style="text-align:center">Teoría</td>
+<td style="text-align:left">💻 Ing. Informática (3rd, 2nd)</td>
+<td style="text-align:center">🎓</td>
 <td style="text-align:left">36</td>
 </tr>
 <tr>
-<td style="text-align:left">2021/2022</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">Ingeniería Web (IW)</td>
-<td style="text-align:left">Ing. Informática (3er, 2o)</td>
-<td style="text-align:center">Prácticas</td>
+<td style="text-align:left">💻 Ing. Informática (3rd, 2nd)</td>
+<td style="text-align:center">🔬</td>
 <td style="text-align:left">48</td>
 </tr>
 <tr>
-<td style="text-align:left">2020/2021</td>
-<td style="text-align:left">Introducción a los Modelos Computacionales  (IMC)</td>
-<td style="text-align:left">Ing. Informática (4th, 1er)</td>
-<td style="text-align:center">Prácticas</td>
+<td style="text-align:left"><strong>2020/2021</strong></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:center"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left">Introducción a los Modelos Computacionales (IMC)</td>
+<td style="text-align:left">💻 Ing. Informática (4th, 1st)</td>
+<td style="text-align:center">🔬</td>
 <td style="text-align:left">15</td>
 </tr>
 <tr>
-<td style="text-align:left">2020/2021</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">Metodología de la Programación (MP)</td>
-<td style="text-align:left">Ing. Informática (1er, 2o)</td>
-<td style="text-align:center">Prácticas</td>
+<td style="text-align:left">💻 Ing. Informática (1st, 2nd)</td>
+<td style="text-align:center">🔬</td>
 <td style="text-align:left">27</td>
 </tr>
 <tr>
-<td style="text-align:left">2020/2021</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">Estructura de Datos (ED)</td>
-<td style="text-align:left">Ing. Informática (2o, 2o)</td>
-<td style="text-align:center">Prácticas</td>
+<td style="text-align:left">💻 Ing. Informática (2nd, 2nd)</td>
+<td style="text-align:center">🔬</td>
 <td style="text-align:left">36</td>
 </tr>
 <tr>
-<td style="text-align:left">2020/2021</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">Ingeniería Web (IW)</td>
-<td style="text-align:left">Ing. Informática (3er, 2o)</td>
-<td style="text-align:center">Prácticas</td>
+<td style="text-align:left">💻 Ing. Informática (3rd, 2nd)</td>
+<td style="text-align:center">🔬</td>
 <td style="text-align:left">48</td>
 </tr>
 <tr>
-<td style="text-align:left">2019/2020</td>
+<td style="text-align:left"><strong>2019/2020</strong></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:center"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
 <td style="text-align:left">Sistemas Inteligentes (SIN)</td>
-<td style="text-align:left">Ing. Informática (2o, 2o)</td>
-<td style="text-align:center">Prácticas</td>
+<td style="text-align:left">💻 Ing. Informática (2nd, 2nd)</td>
+<td style="text-align:center">🔬</td>
 <td style="text-align:left">24</td>
 </tr>
 <tr>
-<td style="text-align:left">2019/2020</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">Programación y Administración de Sistemas (PAS)</td>
-<td style="text-align:left">Ing. Informática (2o, 2o)</td>
-<td style="text-align:center">Prácticas</td>
+<td style="text-align:left">💻 Ing. Informática (2nd, 2nd)</td>
+<td style="text-align:center">🔬</td>
 <td style="text-align:left">36</td>
 </tr>
 <tr>
-<td style="text-align:left">2018/2019</td>
+<td style="text-align:left"><strong>2018/2019</strong></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:center"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
 <td style="text-align:left">Ingeniería del Software (IS)</td>
-<td style="text-align:left">Ing. Informática (2rd, 1er)</td>
-<td style="text-align:center">Prácticas</td>
+<td style="text-align:left">💻 Ing. Informática (2rd, 1st)</td>
+<td style="text-align:center">🔬</td>
 <td style="text-align:left">60</td>
 </tr>
 <tr>
-<td style="text-align:left">2017/2018</td>
+<td style="text-align:left"><strong>2017/2018</strong></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:center"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
 <td style="text-align:left">Programación y Administración de Sistemas (PAS)</td>
-<td style="text-align:left">Ing. Informática (2o, 2o)</td>
-<td style="text-align:center">Prácticas</td>
+<td style="text-align:left">💻 Ing. Informática (2nd, 2nd)</td>
+<td style="text-align:center">🔬</td>
 <td style="text-align:left">12</td>
 </tr>
 <tr>
-<td style="text-align:left">2017/2018</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">Introducción al Aprendizaje Automático (IAA)</td>
-<td style="text-align:left">Ing. Informática (3er, 2o)</td>
-<td style="text-align:center">Prácticas</td>
+<td style="text-align:left">💻 Ing. Informática (3rd, 2nd)</td>
+<td style="text-align:center">🔬</td>
 <td style="text-align:left">48</td>
 </tr>
 <tr>
-<td style="text-align:left">2016/2017</td>
-<td style="text-align:left">Introducción a los Modelos Computacionales  (IMC)</td>
-<td style="text-align:left">Ing. Informática (4o, 1er)</td>
-<td style="text-align:center">Prácticas</td>
+<td style="text-align:left"><strong>2016/2017</strong></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:center"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left">Introducción a los Modelos Computacionales (IMC)</td>
+<td style="text-align:left">💻 Ing. Informática (4th, 1st)</td>
+<td style="text-align:center">🔬</td>
 <td style="text-align:left">15</td>
 </tr>
 </tbody>
@@ -890,7 +1048,7 @@ table th:nth-of-type(5) {
     
     
     
-    <script src="/js/academic.min.a21fcc4a4cdf5eeefae0603e61b3030c.js"></script>
+    <script src="/js/academic.min.3da86581634ab22d5bb3fc4505df30a5.js"></script>
 
     
 
@@ -907,7 +1065,7 @@ table th:nth-of-type(5) {
 
   <p class="powered-by">
     
-    © David Guijo-Rubio. 2024  
+    © David Guijo-Rubio. 2025  
     
     
     

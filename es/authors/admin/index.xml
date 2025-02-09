@@ -2,15 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David Guijo-Rubio</title>
-    <link>https://dguijo.es/authors/admin/</link>
-      <atom:link href="https://dguijo.es/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/admin/</link>
+      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>David Guijo-Rubio</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2024</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2025</copyright>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>David Guijo-Rubio</title>
-      <link>https://dguijo.es/authors/admin/</link>
+      <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Soy &lt;strong&gt;Investigador postdoctoral Juan de la Cierva&lt;/strong&gt; en el 
+&lt;a href=&#34;https://www.uah.es/es/conoce-la-uah/campus-centros-y-departamentos/departamentos/Teoria-de-la-Senal-y-Comunicaciones/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Departamento de Teoría de la Señal y Comunicaciones&lt;/a&gt; de la Universidad de Alcalá (España). Además, también he sido investigador postdoctoral en el 
+&lt;a href=&#34;https://research-portal.uea.ac.uk/en/organisations/school-of-computing-sciences&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;School of Computing Sciences&lt;/a&gt; de la Universidad de East Anglia (Reino Unido) y en el 
+&lt;a href=&#34;https://www.uco.es/grupos/ayrna/index.php/es&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;grupo de investigación AYRNA&lt;/a&gt; de la Universidad de Córdoba (España). Previamente fui Profesor Sustituto Interino en el Departamento de Informática y Análisis Numérico de la Universidad de Córdoba (España). Mis intereses actuales en investigación incluyen una gran variedad de temas, entre ellos, el aprendizaje automático y la minería de datos en series temporales. Más concretamente, en el área de preprocesamiento, clustering, predicción, regresión y clasificación ordinal y nominal. Por otro lado, he participado en numerosos proyectos científicos, que denotan la interdisciplinaridad del área al cual me dedico, entre otros, energías renovables, detección de eventos atmosféricos y problemas relacionados con el ámbito de la salud (COVID19, VIH-VHC y Transplante Hepático).&lt;/p&gt;
+&lt;p&gt;Soy &lt;strong&gt;Doctor en Computación Avanzada&lt;/strong&gt; por la Universidad de Córdoba en 2021 (consulta la 
+&lt;a href=&#34;/files/dissertation.pdf&#34;&gt;presentación&lt;/a&gt;), &lt;strong&gt;Máster en Investigación en Inteligencia Artificial&lt;/strong&gt; por la Universidad Internacional Menendez Pelayo en 2017 y &lt;strong&gt;Graduado en Ingeniería Informática&lt;/strong&gt; por la Universidad de Córdoba en 2016. Consulta mis 
+&lt;a href=&#34;/es/publication/&#34;&gt;principales publicaciones&lt;/a&gt; y a la 
+&lt;a href=&#34;/es/teaching/&#34;&gt;docencia impartida&lt;/a&gt; para saber más sobre ellas.&lt;/p&gt;
+&lt;p&gt;Gran parte de mi tiempo libre se lo dedico al voluntariado, principalmente a mi Grupo Scout (soy monitor de tiempo libre de adolescentes entre 14 y 17 años). También disfruto viajando, estando rodeado de naturaleza y haciendo deporte, lo que me transmite mucha energía.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Francisco Ramón Lara-Raya | David Guijo-Rubio</title>
-    <link>https://dguijo.es/authors/francisco-ramon-lara-raya/</link>
-      <atom:link href="https://dguijo.es/authors/francisco-ramon-lara-raya/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/francisco-ramon-lara-raya/</link>
+      <atom:link href="/authors/francisco-ramon-lara-raya/index.xml" rel="self" type="application/rss+xml" />
     <description>Francisco Ramón Lara-Raya</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2024</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Francisco Ramón Lara-Raya</title>
-      <link>https://dguijo.es/authors/francisco-ramon-lara-raya/</link>
+      <link>/authors/francisco-ramon-lara-raya/</link>
     </image>
     
     <item>
       <title>Validation of artificial neural networks to model the acoustic behaviour of induction motors</title>
-      <link>https://dguijo.es/publication/ap-acoustics-2020/</link>
+      <link>/publication/ap-acoustics-2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.es/publication/ap-acoustics-2020/</guid>
+      <guid>/publication/ap-acoustics-2020/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evolutionary Artificial Neural Networks | David Guijo-Rubio</title>
+    <link>//localhost:1313/tags/evolutionary-artificial-neural-networks/</link>
+      <atom:link href="//localhost:1313/tags/evolutionary-artificial-neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Evolutionary Artificial Neural Networks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <title>Evolutionary Artificial Neural Networks</title>
+      <link>//localhost:1313/tags/evolutionary-artificial-neural-networks/</link>
+    </image>
+    
+    <item>
+      <title>An Evolutionary Artificial Neural Network approach for spatio-temporal wave height time series reconstruction</title>
+      <link>//localhost:1313/publication/guijorubio-2023110647/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/guijorubio-2023110647/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19 contagion forecasting framework based on curve decomposition and evolutionary artificial neural networks: A case study in Andalusia, Spain</title>
+      <link>//localhost:1313/publication/diazlozano-2022117977/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/diazlozano-2022117977/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneous short-term significant wave height and energy flux prediction using zonal multi-task evolutionary artificial neural networks</title>
+      <link>//localhost:1313/publication/renewable-energy-antonio/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/renewable-energy-antonio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary artificial neural networks for accurate solar radiation prediction</title>
+      <link>//localhost:1313/publication/solar-energy-guijo-2920/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/solar-energy-guijo-2920/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

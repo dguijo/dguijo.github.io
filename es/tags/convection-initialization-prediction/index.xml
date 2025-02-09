@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Convection initialization prediction | David Guijo-Rubio</title>
-    <link>https://dguijo.es/tags/convection-initialization-prediction/</link>
-      <atom:link href="https://dguijo.es/tags/convection-initialization-prediction/index.xml" rel="self" type="application/rss+xml" />
-    <description>Convection initialization prediction</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2024</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <title>Convection Initialization Prediction | David Guijo-Rubio</title>
+    <link>/tags/convection-initialization-prediction/</link>
+      <atom:link href="/tags/convection-initialization-prediction/index.xml" rel="self" type="application/rss+xml" />
+    <description>Convection Initialization Prediction</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
-      <title>Convection initialization prediction</title>
-      <link>https://dguijo.es/tags/convection-initialization-prediction/</link>
+      <title>Convection Initialization Prediction</title>
+      <link>/tags/convection-initialization-prediction/</link>
     </image>
     
     <item>
       <title>Prediction of convective clouds formation using evolutionary neural computation techniques</title>
-      <link>https://dguijo.es/publication/ncaa-2020/</link>
+      <link>/publication/ncaa-2020/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.es/publication/ncaa-2020/</guid>
+      <guid>/publication/ncaa-2020/</guid>
       <description></description>
     </item>
     

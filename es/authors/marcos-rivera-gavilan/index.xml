@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marcos Rivera-Gavilán | David Guijo-Rubio</title>
-    <link>https://dguijo.es/authors/marcos-rivera-gavilan/</link>
-      <atom:link href="https://dguijo.es/authors/marcos-rivera-gavilan/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/marcos-rivera-gavilan/</link>
+      <atom:link href="/authors/marcos-rivera-gavilan/index.xml" rel="self" type="application/rss+xml" />
     <description>Marcos Rivera-Gavilán</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2024</copyright><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Marcos Rivera-Gavilán</title>
-      <link>https://dguijo.es/authors/marcos-rivera-gavilan/</link>
+      <link>/authors/marcos-rivera-gavilan/</link>
     </image>
     
     <item>
       <title>Ordinal Classification Approach for Donor-Recipient Matching in Liver Transplantation with Circulatory Death Donors</title>
-      <link>https://dguijo.es/publication/rivera-2023-ordinal/</link>
+      <link>/publication/rivera-2023-ordinal/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.es/publication/rivera-2023-ordinal/</guid>
+      <guid>/publication/rivera-2023-ordinal/</guid>
       <description></description>
     </item>
     

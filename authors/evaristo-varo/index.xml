@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evaristo Varo | David Guijo-Rubio</title>
+    <link>//localhost:1313/authors/evaristo-varo/</link>
+      <atom:link href="//localhost:1313/authors/evaristo-varo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Evaristo Varo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <title>Evaristo Varo</title>
+      <link>//localhost:1313/authors/evaristo-varo/</link>
+    </image>
+    
+    <item>
+      <title>Emparejamiento donante-receptor durante la donación en asistolia controlada con perfusión regional normotérmica: papel de los clasificadores de machine learning como modelos predictivos de la supervivencia del injerto</title>
+      <link>//localhost:1313/publication/calleja-2023-emparejamiento/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/calleja-2023-emparejamiento/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

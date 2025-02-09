@@ -1,0 +1,1120 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Several European countries have established criteria for prioritising initiation of treatment in patients infected with the hepatitis C virus (HCV) by grouping patients according to clinical characteristics. Based on neural network techniques, our objective was to identify those factors for HIV/HCV co-infected patients (to which clinicians have given careful consideration before treatment uptake) that have not being included among the prioritisation criteria. This study was based on the Spanish HERACLES cohort (NCT02511496) (April-September 2015, 2940 patients) and involved application of different neural network models with different basis functions (product-unit, sigmoid unit and radial basis function neural networks) for automatic classification of patients for treatment. An evolutionary algorithm was used to determine the architecture and estimate the coefficients of the model. This machine learning methodology found that radial basis neural networks provided a very simple model in terms of the number of patient characteristics to be considered by the classifier (in this case, six), returning a good overall classification accuracy of 0.767 and a minimum sensitivity (for the classification of the minority class, untreated patients) of 0.550. Finally, the area under the ROC curve was 0.802, which proved to be exceptional. The parsimony of the model makes it especially attractive, using just eight connections. The independent variable &#34;recent PWID&#34; is compulsory due to its importance. The simplicity of the model means that it is possible to analyse the relationship between patient characteristics and the probability of belonging to the treated group.">
+
+  
+  <link rel="alternate" hreflang="es" href="//localhost:1313/es/publication/vih-ann-2020/">
+  
+  <link rel="alternate" hreflang="en-us" href="//localhost:1313/publication/vih-ann-2020/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="hsl(339, 90%, 68%)">
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark">
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700%7CRoboto%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+  
+
+
+  
+  
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_32x32_fill_lanczos_center_3.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_192x192_fill_lanczos_center_3.png">
+
+  <link rel="canonical" href="//localhost:1313/publication/vih-ann-2020/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="David Guijo-Rubio">
+  <meta property="og:url" content="//localhost:1313/publication/vih-ann-2020/">
+  <meta property="og:title" content="Using machine learning methods to determine a typology of patients with HIV-HCV infection to be treated with antivirals | David Guijo-Rubio">
+  <meta property="og:description" content="Several European countries have established criteria for prioritising initiation of treatment in patients infected with the hepatitis C virus (HCV) by grouping patients according to clinical characteristics. Based on neural network techniques, our objective was to identify those factors for HIV/HCV co-infected patients (to which clinicians have given careful consideration before treatment uptake) that have not being included among the prioritisation criteria. This study was based on the Spanish HERACLES cohort (NCT02511496) (April-September 2015, 2940 patients) and involved application of different neural network models with different basis functions (product-unit, sigmoid unit and radial basis function neural networks) for automatic classification of patients for treatment. An evolutionary algorithm was used to determine the architecture and estimate the coefficients of the model. This machine learning methodology found that radial basis neural networks provided a very simple model in terms of the number of patient characteristics to be considered by the classifier (in this case, six), returning a good overall classification accuracy of 0.767 and a minimum sensitivity (for the classification of the minority class, untreated patients) of 0.550. Finally, the area under the ROC curve was 0.802, which proved to be exceptional. The parsimony of the model makes it especially attractive, using just eight connections. The independent variable &#34;recent PWID&#34; is compulsory due to its importance. The simplicity of the model means that it is possible to analyse the relationship between patient characteristics and the probability of belonging to the treated group."><meta property="og:image" content="//localhost:1313/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png">
+  <meta property="twitter:image" content="//localhost:1313/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2021-04-28T09:37:52&#43;00:00">
+    
+    <meta property="article:modified_time" content="2021-04-28T11:37:53&#43;02:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "//localhost:1313/publication/vih-ann-2020/"
+  },
+  "headline": "Using machine learning methods to determine a typology of patients with HIV-HCV infection to be treated with antivirals",
+  
+  "datePublished": "2021-04-28T09:37:52Z",
+  "dateModified": "2021-04-28T11:37:53+02:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Antonio Rivero-Juárez"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "David Guijo-Rubio",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "//localhost:1313/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Several European countries have established criteria for prioritising initiation of treatment in patients infected with the hepatitis C virus (HCV) by grouping patients according to clinical characteristics. Based on neural network techniques, our objective was to identify those factors for HIV/HCV co-infected patients (to which clinicians have given careful consideration before treatment uptake) that have not being included among the prioritisation criteria. This study was based on the Spanish HERACLES cohort (NCT02511496) (April-September 2015, 2940 patients) and involved application of different neural network models with different basis functions (product-unit, sigmoid unit and radial basis function neural networks) for automatic classification of patients for treatment. An evolutionary algorithm was used to determine the architecture and estimate the coefficients of the model. This machine learning methodology found that radial basis neural networks provided a very simple model in terms of the number of patient characteristics to be considered by the classifier (in this case, six), returning a good overall classification accuracy of 0.767 and a minimum sensitivity (for the classification of the minority class, untreated patients) of 0.550. Finally, the area under the ROC curve was 0.802, which proved to be exceptional. The parsimony of the model makes it especially attractive, using just eight connections. The independent variable \"recent PWID\" is compulsory due to its importance. The simplicity of the model means that it is possible to analyse the relationship between patient characteristics and the probability of belonging to the treated group."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Using machine learning methods to determine a typology of patients with HIV-HCV infection to be treated with antivirals | David Guijo-Rubio</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="dark">
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">David Guijo-Rubio</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">David Guijo-Rubio</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-center" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#experience"><span>Experience</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/press"><span>Press</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+
+      
+
+      
+      <li class="nav-item dropdown i18n-dropdown">
+        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">English</span>
+        </a>
+        <div class="dropdown-menu">
+          <div class="dropdown-item dropdown-item-active">
+            <span>English</span>
+          </div>
+          
+          <a class="dropdown-item" href="//localhost:1313/es/publication/vih-ann-2020/">
+            <span>Español</span>
+          </a>
+          
+        </div>
+      </li>
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Using machine learning methods to determine a typology of patients with HIV-HCV infection to be treated with antivirals</h1>
+  <div class="article-metadata">
+    <p style="font-size: 15px;">
+
+  
+  <span>Antonio Rivero-Juárez</span>, <span><b style="color:#ffffff">David Guijo-Rubio</b></span>, <span>Francisco Téllez</span>, <span>Rosario Palacios</span>, <span>Dolores Merino</span>, <span>Juan Macías</span>, <span>Juan Carlos Fernández</span>, <span>Pedro Antonio Gutiérrez</span>, <span>Antonio Rivero</span>, <span>César Hervás-Martínez</span></p>
+  </div>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    January 2020
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/vih-ann-2020/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1371/journal.pone.0227188" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Several European countries have established criteria for prioritising initiation of treatment in patients infected with the hepatitis C virus (HCV) by grouping patients according to clinical characteristics. Based on neural network techniques, our objective was to identify those factors for HIV/HCV co-infected patients (to which clinicians have given careful consideration before treatment uptake) that have not being included among the prioritisation criteria. This study was based on the Spanish HERACLES cohort (NCT02511496) (April-September 2015, 2940 patients) and involved application of different neural network models with different basis functions (product-unit, sigmoid unit and radial basis function neural networks) for automatic classification of patients for treatment. An evolutionary algorithm was used to determine the architecture and estimate the coefficients of the model. This machine learning methodology found that radial basis neural networks provided a very simple model in terms of the number of patient characteristics to be considered by the classifier (in this case, six), returning a good overall classification accuracy of 0.767 and a minimum sensitivity (for the classification of the minority class, untreated patients) of 0.550. Finally, the area under the ROC curve was 0.802, which proved to be exceptional. The parsimony of the model makes it especially attractive, using just eight connections. The independent variable &ldquo;recent PWID&rdquo; is compulsory due to its importance. The simplicity of the model means that it is possible to analyse the relationship between patient characteristics and the probability of belonging to the treated group.</p>
+
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#2">
+              Journal article
+
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9"><em>PLoS One</em></div>
+
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/hepatitis-c-virus/">Hepatitis C Virus</a>
+  
+  <a class="badge badge-light" href="/tags/artificial-neural-networks/">Artificial Neural Networks</a>
+  
+  <a class="badge badge-light" href="/tags/typology-of-patients/">Typology of Patients</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=//localhost:1313/publication/vih-ann-2020/&amp;text=Using%20machine%20learning%20methods%20to%20determine%20a%20typology%20of%20patients%20with%20HIV-HCV%20infection%20to%20be%20treated%20with%20antivirals" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=//localhost:1313/publication/vih-ann-2020/&amp;t=Using%20machine%20learning%20methods%20to%20determine%20a%20typology%20of%20patients%20with%20HIV-HCV%20infection%20to%20be%20treated%20with%20antivirals" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Using%20machine%20learning%20methods%20to%20determine%20a%20typology%20of%20patients%20with%20HIV-HCV%20infection%20to%20be%20treated%20with%20antivirals&amp;body=//localhost:1313/publication/vih-ann-2020/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=//localhost:1313/publication/vih-ann-2020/&amp;title=Using%20machine%20learning%20methods%20to%20determine%20a%20typology%20of%20patients%20with%20HIV-HCV%20infection%20to%20be%20treated%20with%20antivirals" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Using%20machine%20learning%20methods%20to%20determine%20a%20typology%20of%20patients%20with%20HIV-HCV%20infection%20to%20be%20treated%20with%20antivirals%20//localhost:1313/publication/vih-ann-2020/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=//localhost:1313/publication/vih-ann-2020/&amp;title=Using%20machine%20learning%20methods%20to%20determine%20a%20typology%20of%20patients%20with%20HIV-HCV%20infection%20to%20be%20treated%20with%20antivirals" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = true;</script>
+    
+
+    
+
+    
+    
+
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/js/academic.min.3da86581634ab22d5bb3fc4505df30a5.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+    © David Guijo-Rubio. 2025  
+    
+    
+    
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

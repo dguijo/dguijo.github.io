@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&#34;L2&#34; | David Guijo-Rubio</title>
-    <link>https://dguijo.es/tags/l2/</link>
-      <atom:link href="https://dguijo.es/tags/l2/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/l2/</link>
+      <atom:link href="/tags/l2/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;L2&#34;</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2024</copyright><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>&#34;L2&#34;</title>
-      <link>https://dguijo.es/tags/l2/</link>
+      <link>/tags/l2/</link>
     </image>
     
     <item>
       <title>Studying the effect of different Lp norms in the context of Time Series Ordinal Classification</title>
-      <link>https://dguijo.es/publication/guijo-caepia-2021/</link>
+      <link>/publication/guijo-caepia-2021/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.es/publication/guijo-caepia-2021/</guid>
+      <guid>/publication/guijo-caepia-2021/</guid>
       <description></description>
     </item>
     

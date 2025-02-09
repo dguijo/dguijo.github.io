@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Eventos de baja visibilidad | David Guijo-Rubio</title>
-    <link>https://dguijo.es/tags/eventos-de-baja-visibilidad/</link>
-      <atom:link href="https://dguijo.es/tags/eventos-de-baja-visibilidad/index.xml" rel="self" type="application/rss+xml" />
-    <description>Eventos de baja visibilidad</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2024</copyright><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <title>Eventos De Baja Visibilidad | David Guijo-Rubio</title>
+    <link>/tags/eventos-de-baja-visibilidad/</link>
+      <atom:link href="/tags/eventos-de-baja-visibilidad/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eventos De Baja Visibilidad</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
-      <title>Eventos de baja visibilidad</title>
-      <link>https://dguijo.es/tags/eventos-de-baja-visibilidad/</link>
+      <title>Eventos De Baja Visibilidad</title>
+      <link>/tags/eventos-de-baja-visibilidad/</link>
     </image>
     
     <item>
       <title>Algoritmos de aprendizaje automático para predicción de niveles de niebla usando ventanas estáticas y dinámicas</title>
-      <link>https://dguijo.es/publication/diaz-caepia-2018/</link>
+      <link>/publication/diaz-caepia-2018/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.es/publication/diaz-caepia-2018/</guid>
+      <guid>/publication/diaz-caepia-2018/</guid>
       <description></description>
     </item>
     

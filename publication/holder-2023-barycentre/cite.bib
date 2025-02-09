@@ -1,0 +1,12 @@
+@inproceedings{holder2023barycentre,
+ abstract = {Distance functions play a core role in many time series machine learning algorithms for tasks such as clustering, classification and regression. Time series often require bespoke distance functions because small offsets in time can lead to large distances between series that are conceptually similar. Elastic distances compensate for misalignment by creating a path through a cost matrix by warping and/or editing time series. Time series are most commonly clustered with partitional algorithms such as k-means and k-medoids using elastic distance measures such as Dynamic Time Warping (DTW). The distance is used to assign cases to the closest cluster representative. k-means requires the averaging of time series to find these representative centroids. If DTW is used to assign membership, but the arithmetic mean is used to find centroids, k-means performance degrades significantly. An averaging technique specific to DTW, called DTW Barycentre Averaging (DBA), overcomes the averaging problem. However, can only be used with DTW. As such alternative distance functions such as Move-Split-Merge (MSM) are forced to use the arithmetic mean to compute new centroids and suffer similar degraded performance as k-means-DTW without DBA. To address this we propose a averaging method for MSM distance, MSM Barycentre Averaging (MBA) and show that when used to find centroids it significantly improves MSM based k-means and is better than commonly used alternatives},
+ author = {Holder, Christopher and Guijo-Rubio, David and Bagnall, Anthony},
+ booktitle = {Proceedings of the 15th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management - KDIR},
+ doi = {10.5220/0012164900003598},
+ month = {November},
+ organization = {INSTICC},
+ pages = {51-62},
+ title = {Barycentre Averaging for the Move-Split-Merge Time Series Distance Measure},
+ year = {2023}
+}
+

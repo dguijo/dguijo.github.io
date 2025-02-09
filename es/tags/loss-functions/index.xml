@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Loss functions | David Guijo-Rubio</title>
-    <link>https://dguijo.es/tags/loss-functions/</link>
-      <atom:link href="https://dguijo.es/tags/loss-functions/index.xml" rel="self" type="application/rss+xml" />
-    <description>Loss functions</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2024</copyright><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <title>Loss Functions | David Guijo-Rubio</title>
+    <link>/tags/loss-functions/</link>
+      <atom:link href="/tags/loss-functions/index.xml" rel="self" type="application/rss+xml" />
+    <description>Loss Functions</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
-      <title>Loss functions</title>
-      <link>https://dguijo.es/tags/loss-functions/</link>
+      <title>Loss Functions</title>
+      <link>/tags/loss-functions/</link>
     </image>
     
     <item>
       <title>ORFEO: Ordinal classifier and Regressor Fusion for Estimating an Ordinal categorical target</title>
-      <link>https://dguijo.es/publication/orellana-orfeo-24/</link>
+      <link>/publication/orellana-orfeo-24/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.es/publication/orellana-orfeo-24/</guid>
+      <guid>/publication/orellana-orfeo-24/</guid>
       <description></description>
     </item>
     

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Distribution fitting | David Guijo-Rubio</title>
-    <link>https://dguijo.es/tags/distribution-fitting/</link>
-      <atom:link href="https://dguijo.es/tags/distribution-fitting/index.xml" rel="self" type="application/rss+xml" />
-    <description>Distribution fitting</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2024</copyright><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <title>Distribution Fitting | David Guijo-Rubio</title>
+    <link>/tags/distribution-fitting/</link>
+      <atom:link href="/tags/distribution-fitting/index.xml" rel="self" type="application/rss+xml" />
+    <description>Distribution Fitting</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
-      <title>Distribution fitting</title>
-      <link>https://dguijo.es/tags/distribution-fitting/</link>
+      <title>Distribution Fitting</title>
+      <link>/tags/distribution-fitting/</link>
     </image>
     
     <item>
       <title>Distribution-Based Discretisation and Ordinal Classification Applied to Wave Height Prediction</title>
-      <link>https://dguijo.es/publication/guijo-ideal-2018/</link>
+      <link>/publication/guijo-ideal-2018/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.es/publication/guijo-ideal-2018/</guid>
+      <guid>/publication/guijo-ideal-2018/</guid>
       <description></description>
     </item>
     

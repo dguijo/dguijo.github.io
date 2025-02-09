@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R. Tavenard | David Guijo-Rubio</title>
-    <link>https://dguijo.es/authors/r.-tavenard/</link>
-      <atom:link href="https://dguijo.es/authors/r.-tavenard/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/r.-tavenard/</link>
+      <atom:link href="/authors/r.-tavenard/index.xml" rel="self" type="application/rss+xml" />
     <description>R. Tavenard</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2024</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>R. Tavenard</title>
-      <link>https://dguijo.es/authors/r.-tavenard/</link>
+      <link>/authors/r.-tavenard/</link>
     </image>
     
     <item>
       <title>A hybrid approach to time series classification with shapelets</title>
-      <link>https://dguijo.es/publication/guijo-shapelets-2019-ideal/</link>
+      <link>/publication/guijo-shapelets-2019-ideal/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.es/publication/guijo-shapelets-2019-ideal/</guid>
+      <guid>/publication/guijo-shapelets-2019-ideal/</guid>
       <description></description>
     </item>
     

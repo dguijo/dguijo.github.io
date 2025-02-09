@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Soft labelling | David Guijo-Rubio</title>
-    <link>https://dguijo.es/tags/soft-labelling/</link>
-      <atom:link href="https://dguijo.es/tags/soft-labelling/index.xml" rel="self" type="application/rss+xml" />
-    <description>Soft labelling</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2024</copyright><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <title>Soft Labelling | David Guijo-Rubio</title>
+    <link>/tags/soft-labelling/</link>
+      <atom:link href="/tags/soft-labelling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Soft Labelling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
-      <title>Soft labelling</title>
-      <link>https://dguijo.es/tags/soft-labelling/</link>
+      <title>Soft Labelling</title>
+      <link>/tags/soft-labelling/</link>
     </image>
     
     <item>
       <title>Generalised triangular distributions for ordinal deep learning: Novel proposal and optimisation</title>
-      <link>https://dguijo.es/publication/vargas-2023119606/</link>
+      <link>/publication/vargas-2023119606/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.es/publication/vargas-2023119606/</guid>
+      <guid>/publication/vargas-2023119606/</guid>
       <description></description>
     </item>
     

@@ -1,38 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Time series | David Guijo-Rubio</title>
-    <link>https://dguijo.es/tags/time-series/</link>
-      <atom:link href="https://dguijo.es/tags/time-series/index.xml" rel="self" type="application/rss+xml" />
-    <description>Time series</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2024</copyright><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <title>Time Series | David Guijo-Rubio</title>
+    <link>/tags/time-series/</link>
+      <atom:link href="/tags/time-series/index.xml" rel="self" type="application/rss+xml" />
+    <description>Time Series</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
-      <title>Time series</title>
-      <link>https://dguijo.es/tags/time-series/</link>
+      <title>Time Series</title>
+      <link>/tags/time-series/</link>
     </image>
     
     <item>
       <title>Unsupervised feature based algorithms for time series extrinsic regression</title>
-      <link>https://dguijo.es/publication/tser-david-2024/</link>
+      <link>/publication/tser-david-2024/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.es/publication/tser-david-2024/</guid>
+      <guid>/publication/tser-david-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>COVID-19 contagion forecasting framework based on curve decomposition and evolutionary artificial neural networks: A case study in Andalusia, Spain</title>
-      <link>https://dguijo.es/publication/diazlozano-2022117977/</link>
+      <link>/publication/diazlozano-2022117977/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.es/publication/diazlozano-2022117977/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Studying the effect of different Lp norms in the context of Time Series Ordinal Classification</title>
-      <link>https://dguijo.es/publication/guijo-caepia-2021/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.es/publication/guijo-caepia-2021/</guid>
+      <guid>/publication/diazlozano-2022117977/</guid>
       <description></description>
     </item>
     

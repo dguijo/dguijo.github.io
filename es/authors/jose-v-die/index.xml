@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jose V Die | David Guijo-Rubio</title>
-    <link>https://dguijo.es/authors/jose-v-die/</link>
-      <atom:link href="https://dguijo.es/authors/jose-v-die/index.xml" rel="self" type="application/rss+xml" />
-    <description>Jose V Die</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2024</copyright><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <title>Jose v Die | David Guijo-Rubio</title>
+    <link>/authors/jose-v-die/</link>
+      <atom:link href="/authors/jose-v-die/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jose v Die</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
-      <title>Jose V Die</title>
-      <link>https://dguijo.es/authors/jose-v-die/</link>
+      <title>Jose v Die</title>
+      <link>/authors/jose-v-die/</link>
     </image>
     
     <item>
       <title>Hackathon en docencia: aprendizaje automático aplicado a Ciencias de la Vida</title>
-      <link>https://dguijo.es/publication/guijo-2022-hackathon/</link>
+      <link>/publication/guijo-2022-hackathon/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.es/publication/guijo-2022-hackathon/</guid>
+      <guid>/publication/guijo-2022-hackathon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hackathon in Teaching: Applying Machine Learning to Life Sciences Tasks</title>
-      <link>https://dguijo.es/publication/guijo-2022-hackathonb/</link>
+      <link>/publication/guijo-2022-hackathonb/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.es/publication/guijo-2022-hackathonb/</guid>
+      <guid>/publication/guijo-2022-hackathonb/</guid>
       <description></description>
     </item>
     
