@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antonio Rivero-Juárez | David Guijo-Rubio</title>
-    <link>/authors/antonio-rivero-juarez/</link>
-      <atom:link href="/authors/antonio-rivero-juarez/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/antonio-rivero-juarez/</link>
+      <atom:link href="//localhost:1313/authors/antonio-rivero-juarez/index.xml" rel="self" type="application/rss+xml" />
     <description>Antonio Rivero-Juárez</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1314/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Antonio Rivero-Juárez</title>
-      <link>/authors/antonio-rivero-juarez/</link>
+      <link>//localhost:1313/authors/antonio-rivero-juarez/</link>
     </image>
     
     <item>
       <title>Using machine learning methods to determine a typology of patients with HIV-HCV infection to be treated with antivirals</title>
-      <link>/publication/vih-ann-2020/</link>
+      <link>//localhost:1313/publication/vih-ann-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/vih-ann-2020/</guid>
+      <guid>//localhost:1313/publication/vih-ann-2020/</guid>
       <description></description>
     </item>
     

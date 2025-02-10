@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-us" >
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -32,9 +32,7 @@
   <meta name="description" content="Data Scientist">
 
   
-  <link rel="alternate" hreflang="es" href="//localhost:1313/es/authors/">
-  
-  <link rel="alternate" hreflang="en-us" href="//localhost:1313/authors/">
+  <link rel="alternate" hreflang="en-us" href="https://dguijo.com/authors/">
 
   
 
@@ -209,6 +207,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-271170290-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-271170290-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -223,7 +259,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_32x32_fill_lanczos_center_3.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_192x192_fill_lanczos_center_3.png">
 
-  <link rel="canonical" href="//localhost:1313/authors/">
+  <link rel="canonical" href="https://dguijo.com/authors/">
 
   
   
@@ -239,10 +275,10 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="David Guijo-Rubio">
-  <meta property="og:url" content="//localhost:1313/authors/">
+  <meta property="og:url" content="https://dguijo.com/authors/">
   <meta property="og:title" content="Authors | David Guijo-Rubio">
-  <meta property="og:description" content="Data Scientist"><meta property="og:image" content="//localhost:1313/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png">
-  <meta property="twitter:image" content="//localhost:1313/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Data Scientist"><meta property="og:image" content="https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png">
+  <meta property="twitter:image" content="https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2024-09-01T00:00:00&#43;00:00">
   
@@ -515,22 +551,6 @@
       
 
       
-      <li class="nav-item dropdown i18n-dropdown">
-        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
-          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">English</span>
-        </a>
-        <div class="dropdown-menu">
-          <div class="dropdown-item dropdown-item-active">
-            <span>English</span>
-          </div>
-          
-          <a class="dropdown-item" href="//localhost:1313/es/authors/">
-            <span>Español</span>
-          </a>
-          
-        </div>
-      </li>
-      
 
     </ul>
 
@@ -581,34 +601,34 @@
     
     
       
-      <li><a href="//localhost:1313/authors/manuel-luis-rodriguez-peralvarez/">Manuel Luis Rodríguez-Perálvarez</a></li>
+      <li><a href="https://dguijo.com/authors/manuel-luis-rodr%C3%ADguez-per%C3%A1lvarez/">Manuel Luis Rodríguez-Perálvarez</a></li>
     
       
-      <li><a href="//localhost:1313/authors/maria-luisa-ortiz/">María Luisa Ortiz</a></li>
+      <li><a href="https://dguijo.com/authors/mar%C3%ADa-luisa-ortiz/">María Luisa Ortiz</a></li>
     
       
-      <li><a href="//localhost:1313/authors/mariaa-victoria-aguilera/">Maríaa Victoria Aguilera</a></li>
+      <li><a href="https://dguijo.com/authors/mar%C3%ADaa-victoria-aguilera/">Maríaa Victoria Aguilera</a></li>
     
       
-      <li><a href="//localhost:1313/authors/rocio-gonzalez-grande/">Rocío González Grande</a></li>
+      <li><a href="https://dguijo.com/authors/roc%C3%ADo-gonz%C3%A1lez-grande/">Rocío González Grande</a></li>
     
       
-      <li><a href="//localhost:1313/authors/sheila-pereira/">Sheila Pereira</a></li>
+      <li><a href="https://dguijo.com/authors/sheila-pereira/">Sheila Pereira</a></li>
     
       
-      <li><a href="//localhost:1313/authors/teresa-pascual-vicente/">Teresa Pascual Vicente</a></li>
+      <li><a href="https://dguijo.com/authors/teresa-pascual-vicente/">Teresa Pascual Vicente</a></li>
     
       
-      <li><a href="//localhost:1313/authors/pedro-antonio-gutierrez/">Pedro Antonio Gutiérrez</a></li>
+      <li><a href="https://dguijo.com/authors/pedro-antonio-guti%C3%A9rrez/">Pedro Antonio Gutiérrez</a></li>
     
       
-      <li><a href="//localhost:1313/authors/victor-manuel-vargas/">Víctor Manuel Vargas</a></li>
+      <li><a href="https://dguijo.com/authors/v%C3%ADctor-manuel-vargas/">Víctor Manuel Vargas</a></li>
     
       
-      <li><a href="//localhost:1313/authors/avik-majumdar/">Avik Majumdar</a></li>
+      <li><a href="https://dguijo.com/authors/avik-majumdar/">Avik Majumdar</a></li>
     
       
-      <li><a href="//localhost:1313/authors/cesar-hervas/">César Hervás</a></li>
+      <li><a href="https://dguijo.com/authors/c%C3%A9sar-herv%C3%A1s/">César Hervás</a></li>
     
   </ul>
 

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unos Database | David Guijo-Rubio</title>
-    <link>https://dguijo.com/tags/unos-database/</link>
-      <atom:link href="https://dguijo.com/tags/unos-database/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1314/tags/unos-database/</link>
+      <atom:link href="http://localhost:1314/tags/unos-database/index.xml" rel="self" type="application/rss+xml" />
     <description>Unos Database</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1314/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Unos Database</title>
-      <link>https://dguijo.com/tags/unos-database/</link>
+      <link>http://localhost:1314/tags/unos-database/</link>
     </image>
     
     <item>
       <title>Machine learning methods in organ transplantation</title>
-      <link>https://dguijo.com/publication/coot-guijo-2020/</link>
+      <link>http://localhost:1314/publication/coot-guijo-2020/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.com/publication/coot-guijo-2020/</guid>
+      <guid>http://localhost:1314/publication/coot-guijo-2020/</guid>
       <description></description>
     </item>
     

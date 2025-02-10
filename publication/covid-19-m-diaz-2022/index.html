@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-us" >
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -32,9 +32,7 @@
   <meta name="description" content="In this paper, an approach based on a time series clustering technique is presented by extracting relevant features from the original temporal data. A curve characterization is applied to the daily contagion rates of the 34 sanitary districts of Andalusia, Spain. By determining the maximum incidence instant and two inflection points for each wave, an outbreak curve can be described by six intensity features, defining its initial and final phases. These features are used to derive different groups using state-of-the-art clustering techniques. The experimentation carried out indicates that $$k=3$$k=3is the optimum number of descriptive groups of intensities. According to the resulting clusters for each wave, the pandemic behavior in Andalusia can be visualised over time, showing the most affected districts in the pandemic period considered. Additionally, in order to perform a pandemic overview of the whole period, the approach is also applied to joint information of all the considered periods">
 
   
-  <link rel="alternate" hreflang="es" href="//localhost:1313/es/publication/covid-19-m-diaz-2022/">
-  
-  <link rel="alternate" hreflang="en-us" href="//localhost:1313/publication/covid-19-m-diaz-2022/">
+  <link rel="alternate" hreflang="en-us" href="https://dguijo.com/publication/covid-19-m-diaz-2022/">
 
   
 
@@ -209,6 +207,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-271170290-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-271170290-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -221,7 +257,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_32x32_fill_lanczos_center_3.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_192x192_fill_lanczos_center_3.png">
 
-  <link rel="canonical" href="//localhost:1313/publication/covid-19-m-diaz-2022/">
+  <link rel="canonical" href="https://dguijo.com/publication/covid-19-m-diaz-2022/">
 
   
   
@@ -237,10 +273,10 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="David Guijo-Rubio">
-  <meta property="og:url" content="//localhost:1313/publication/covid-19-m-diaz-2022/">
+  <meta property="og:url" content="https://dguijo.com/publication/covid-19-m-diaz-2022/">
   <meta property="og:title" content="Clustering of COVID-19 Time Series Incidence Intensity in Andalusia, Spain | David Guijo-Rubio">
-  <meta property="og:description" content="In this paper, an approach based on a time series clustering technique is presented by extracting relevant features from the original temporal data. A curve characterization is applied to the daily contagion rates of the 34 sanitary districts of Andalusia, Spain. By determining the maximum incidence instant and two inflection points for each wave, an outbreak curve can be described by six intensity features, defining its initial and final phases. These features are used to derive different groups using state-of-the-art clustering techniques. The experimentation carried out indicates that $$k=3$$k=3is the optimum number of descriptive groups of intensities. According to the resulting clusters for each wave, the pandemic behavior in Andalusia can be visualised over time, showing the most affected districts in the pandemic period considered. Additionally, in order to perform a pandemic overview of the whole period, the approach is also applied to joint information of all the considered periods"><meta property="og:image" content="//localhost:1313/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png">
-  <meta property="twitter:image" content="//localhost:1313/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="In this paper, an approach based on a time series clustering technique is presented by extracting relevant features from the original temporal data. A curve characterization is applied to the daily contagion rates of the 34 sanitary districts of Andalusia, Spain. By determining the maximum incidence instant and two inflection points for each wave, an outbreak curve can be described by six intensity features, defining its initial and final phases. These features are used to derive different groups using state-of-the-art clustering techniques. The experimentation carried out indicates that $$k=3$$k=3is the optimum number of descriptive groups of intensities. According to the resulting clusters for each wave, the pandemic behavior in Andalusia can be visualised over time, showing the most affected districts in the pandemic period considered. Additionally, in order to perform a pandemic overview of the whole period, the approach is also applied to joint information of all the considered periods"><meta property="og:image" content="https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png">
+  <meta property="twitter:image" content="https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2022-06-13T17:51:48&#43;00:00">
@@ -267,7 +303,7 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "//localhost:1313/publication/covid-19-m-diaz-2022/"
+    "@id": "https://dguijo.com/publication/covid-19-m-diaz-2022/"
   },
   "headline": "Clustering of COVID-19 Time Series Incidence Intensity in Andalusia, Spain",
   
@@ -276,7 +312,7 @@
   
   "author": {
     "@type": "Person",
-    "name": "Miguel Diaz-Lozano"
+    "name": "Miguel Díaz-Lozano"
   },
   
   "publisher": {
@@ -284,7 +320,7 @@
     "name": "David Guijo-Rubio",
     "logo": {
       "@type": "ImageObject",
-      "url": "//localhost:1313/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_192x192_fill_lanczos_center_3.png"
+      "url": "https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_192x192_fill_lanczos_center_3.png"
     }
   },
   "description": "In this paper, an approach based on a time series clustering technique is presented by extracting relevant features from the original temporal data. A curve characterization is applied to the daily contagion rates of the 34 sanitary districts of Andalusia, Spain. By determining the maximum incidence instant and two inflection points for each wave, an outbreak curve can be described by six intensity features, defining its initial and final phases. These features are used to derive different groups using state-of-the-art clustering techniques. The experimentation carried out indicates that $$k=3$$k=3is the optimum number of descriptive groups of intensities. According to the resulting clusters for each wave, the pandemic behavior in Andalusia can be visualised over time, showing the most affected districts in the pandemic period considered. Additionally, in order to perform a pandemic overview of the whole period, the approach is also applied to joint information of all the considered periods"
@@ -559,22 +595,6 @@
       
 
       
-      <li class="nav-item dropdown i18n-dropdown">
-        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
-          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">English</span>
-        </a>
-        <div class="dropdown-menu">
-          <div class="dropdown-item dropdown-item-active">
-            <span>English</span>
-          </div>
-          
-          <a class="dropdown-item" href="//localhost:1313/es/publication/covid-19-m-diaz-2022/">
-            <span>Español</span>
-          </a>
-          
-        </div>
-      </li>
-      
 
     </ul>
 
@@ -782,7 +802,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=//localhost:1313/publication/covid-19-m-diaz-2022/&amp;text=Clustering%20of%20COVID-19%20Time%20Series%20Incidence%20Intensity%20in%20Andalusia,%20Spain" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://dguijo.com/publication/covid-19-m-diaz-2022/&amp;text=Clustering%20of%20COVID-19%20Time%20Series%20Incidence%20Intensity%20in%20Andalusia,%20Spain" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -795,7 +815,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=//localhost:1313/publication/covid-19-m-diaz-2022/&amp;t=Clustering%20of%20COVID-19%20Time%20Series%20Incidence%20Intensity%20in%20Andalusia,%20Spain" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://dguijo.com/publication/covid-19-m-diaz-2022/&amp;t=Clustering%20of%20COVID-19%20Time%20Series%20Incidence%20Intensity%20in%20Andalusia,%20Spain" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -808,7 +828,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Clustering%20of%20COVID-19%20Time%20Series%20Incidence%20Intensity%20in%20Andalusia,%20Spain&amp;body=//localhost:1313/publication/covid-19-m-diaz-2022/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Clustering%20of%20COVID-19%20Time%20Series%20Incidence%20Intensity%20in%20Andalusia,%20Spain&amp;body=https://dguijo.com/publication/covid-19-m-diaz-2022/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -821,7 +841,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=//localhost:1313/publication/covid-19-m-diaz-2022/&amp;title=Clustering%20of%20COVID-19%20Time%20Series%20Incidence%20Intensity%20in%20Andalusia,%20Spain" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://dguijo.com/publication/covid-19-m-diaz-2022/&amp;title=Clustering%20of%20COVID-19%20Time%20Series%20Incidence%20Intensity%20in%20Andalusia,%20Spain" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -834,7 +854,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Clustering%20of%20COVID-19%20Time%20Series%20Incidence%20Intensity%20in%20Andalusia,%20Spain%20//localhost:1313/publication/covid-19-m-diaz-2022/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Clustering%20of%20COVID-19%20Time%20Series%20Incidence%20Intensity%20in%20Andalusia,%20Spain%20https://dguijo.com/publication/covid-19-m-diaz-2022/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -847,7 +867,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=//localhost:1313/publication/covid-19-m-diaz-2022/&amp;title=Clustering%20of%20COVID-19%20Time%20Series%20Incidence%20Intensity%20in%20Andalusia,%20Spain" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://dguijo.com/publication/covid-19-m-diaz-2022/&amp;title=Clustering%20of%20COVID-19%20Time%20Series%20Incidence%20Intensity%20in%20Andalusia,%20Spain" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -873,8 +893,6 @@
 
 
 
-
-  
 
 
   

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Víctor M Vargas | David Guijo-Rubio</title>
+    <link>https://dguijo.com/authors/v%C3%ADctor-m-vargas/</link>
+      <atom:link href="https://dguijo.com/authors/v%C3%ADctor-m-vargas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Víctor M Vargas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <title>Víctor M Vargas</title>
+      <link>https://dguijo.com/authors/v%C3%ADctor-m-vargas/</link>
+    </image>
+    
+    <item>
+      <title>EBANO: A novel Ensemble BAsed on uNimodal Ordinal classifiers for the prediction of significant wave height</title>
+      <link>https://dguijo.com/publication/vargas-2024-ebano/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/vargas-2024-ebano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medium-and Long-Term Wind Speed Prediction Using the Multi-task Learning Paradigm</title>
+      <link>https://dguijo.com/publication/gomez-2024-medium/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/gomez-2024-medium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hackathon in Teaching: Applying Machine Learning to Life Sciences Tasks</title>
+      <link>https://dguijo.com/publication/guijo-2022-hackathonb/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/guijo-2022-hackathonb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sheila Pereira | David Guijo-Rubio</title>
-    <link>//localhost:1313/authors/sheila-pereira/</link>
-      <atom:link href="//localhost:1313/authors/sheila-pereira/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dguijo.com/authors/sheila-pereira/</link>
+      <atom:link href="https://dguijo.com/authors/sheila-pereira/index.xml" rel="self" type="application/rss+xml" />
     <description>Sheila Pereira</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Sheila Pereira</title>
-      <link>//localhost:1313/authors/sheila-pereira/</link>
+      <link>https://dguijo.com/authors/sheila-pereira/</link>
     </image>
     
     <item>
       <title>GEMA-Na and MELD 3.0 severity scores to address sex disparities for accessing liver transplantation: a nationwide retrospective cohort study</title>
-      <link>//localhost:1313/publication/rodriguez-2024-gema/</link>
+      <link>https://dguijo.com/publication/rodriguez-2024-gema/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/rodriguez-2024-gema/</guid>
+      <guid>https://dguijo.com/publication/rodriguez-2024-gema/</guid>
       <description></description>
     </item>
     

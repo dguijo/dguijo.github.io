@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>César Hervás-Martı́nez | David Guijo-Rubio</title>
-    <link>/authors/cesar-hervas-mart%C4%B1nez/</link>
-      <atom:link href="/authors/cesar-hervas-mart%C4%B1nez/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/cesar-hervas-mart%C4%B1nez/</link>
+      <atom:link href="//localhost:1313/authors/cesar-hervas-mart%C4%B1nez/index.xml" rel="self" type="application/rss+xml" />
     <description>César Hervás-Martı́nez</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1314/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>César Hervás-Martı́nez</title>
-      <link>/authors/cesar-hervas-mart%C4%B1nez/</link>
+      <link>//localhost:1313/authors/cesar-hervas-mart%C4%B1nez/</link>
     </image>
     
     <item>
       <title>O-Hydra: A Hybrid Convolutional and Dictionary-Based Approach to Time Series Ordinal Classification</title>
-      <link>/publication/ayllon-2024-ohydra/</link>
+      <link>//localhost:1313/publication/ayllon-2024-ohydra/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/ayllon-2024-ohydra/</guid>
+      <guid>//localhost:1313/publication/ayllon-2024-ohydra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One month in advance prediction of air temperature from Reanalysis data with eXplainable Artificial Intelligence techniques</title>
-      <link>/publication/gomez-2023-one/</link>
+      <link>//localhost:1313/publication/gomez-2023-one/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/gomez-2023-one/</guid>
+      <guid>//localhost:1313/publication/gomez-2023-one/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessing the Efficient Market Hypothesis for Cryptocurrencies with High-Frequency Data Using Time Series Classification</title>
-      <link>/publication/ayllon-2022-assessing/</link>
+      <link>//localhost:1313/publication/ayllon-2022-assessing/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/ayllon-2022-assessing/</guid>
+      <guid>//localhost:1313/publication/ayllon-2022-assessing/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manuel Dorado-Moreno | David Guijo-Rubio</title>
-    <link>//localhost:1313/authors/manuel-dorado-moreno/</link>
-      <atom:link href="//localhost:1313/authors/manuel-dorado-moreno/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dguijo.com/authors/manuel-dorado-moreno/</link>
+      <atom:link href="https://dguijo.com/authors/manuel-dorado-moreno/index.xml" rel="self" type="application/rss+xml" />
     <description>Manuel Dorado-Moreno</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Manuel Dorado-Moreno</title>
-      <link>//localhost:1313/authors/manuel-dorado-moreno/</link>
+      <link>https://dguijo.com/authors/manuel-dorado-moreno/</link>
     </image>
     
     <item>
       <title>Multiclass Prediction of Wind Power Ramp Events Combining Reservoir Computing and Support Vector Machines</title>
-      <link>//localhost:1313/publication/manolo-2016-caepia/</link>
+      <link>https://dguijo.com/publication/manolo-2016-caepia/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/manolo-2016-caepia/</guid>
+      <guid>https://dguijo.com/publication/manolo-2016-caepia/</guid>
       <description></description>
     </item>
     

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rhiannon Taylor | David Guijo-Rubio</title>
-    <link>//localhost:1313/authors/rhiannon-taylor/</link>
-      <atom:link href="//localhost:1313/authors/rhiannon-taylor/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dguijo.com/authors/rhiannon-taylor/</link>
+      <atom:link href="https://dguijo.com/authors/rhiannon-taylor/index.xml" rel="self" type="application/rss+xml" />
     <description>Rhiannon Taylor</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Rhiannon Taylor</title>
-      <link>//localhost:1313/authors/rhiannon-taylor/</link>
+      <link>https://dguijo.com/authors/rhiannon-taylor/</link>
     </image>
     
     <item>
       <title>OS-024 The gender-equity model for liver allocation built on artificial intelligence (GEMA-AI) improves outcome predictions among liver transplant candidates</title>
-      <link>//localhost:1313/publication/rodriguez-2024024/</link>
+      <link>https://dguijo.com/publication/rodriguez-2024024/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/rodriguez-2024024/</guid>
+      <guid>https://dguijo.com/publication/rodriguez-2024024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Performance of the gender-equity model for liver allocation (GEMA-Na) within the first 30 and 60 days of listing</title>
-      <link>//localhost:1313/publication/rodriguezperalvarez-2023-ilts/</link>
+      <link>https://dguijo.com/publication/rodriguezperalvarez-2023-ilts/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/rodriguezperalvarez-2023-ilts/</guid>
+      <guid>https://dguijo.com/publication/rodriguezperalvarez-2023-ilts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development and validation of the Gender-Equity Model for Liver Allocation (GEMA) to prioritise candidates for liver transplantation: a cohort study</title>
-      <link>//localhost:1313/publication/rodriguezperalvarez-2022/</link>
+      <link>https://dguijo.com/publication/rodriguezperalvarez-2022/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/rodriguezperalvarez-2022/</guid>
+      <guid>https://dguijo.com/publication/rodriguezperalvarez-2022/</guid>
       <description></description>
     </item>
     

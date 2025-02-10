@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-us" >
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -32,9 +32,7 @@
   <meta name="description" content="The prediction of low-visibility events is very important in many human activities, and crucial in transportation facilities such as airports, where they can cause severe impact in flight scheduling and safety. The design of accurate predictors for low-visibility events can be approached by modelling future visibility conditions based on past values of different input variables, recorded at the airport. The use of autoregressive time series forecasters involves adjusting the order of the model (number of past series values or size of the sliding window), which usually depends on the dynamical nature of the time series. Moreover, the same window size is normally used for all the data, thought it would be reasonable to use different sliding windows. In this paper, we propose a hybrid prediction model for daily low-visibility events, which combines fixed-size and dynamic windows, and adapts its size according to the dynamics of the time series. Moreover, visibility is labelled using three ordered categories (FOG, MIST and CLEAR), and the prediction is then carried out by means of ordinal classifiers, in order to take advantage of the ordinal nature of low-visibility events. We evaluate the model using a dataset from Valladolid airport (Spain), where radiation fog is very common in autumn and winter months. The considered data set includes five different meteorological input variables (wind speed and direction, temperature, relative humidity and QNH - pressure adjusted at mean sea level) and the Runway Visual Range (RVR), which is used to characterize the low-visibility events at the airport. The results show that the proposed hybrid window model with ordinal classification leads to very robust performance prediction in daily time-horizon, improving the results obtained by the persistence model and alternative prediction schemes tested.">
 
   
-  <link rel="alternate" hreflang="es" href="//localhost:1313/es/publication/guijo-2018-fog-ordinal/">
-  
-  <link rel="alternate" hreflang="en-us" href="//localhost:1313/publication/guijo-2018-fog-ordinal/">
+  <link rel="alternate" hreflang="en-us" href="https://dguijo.com/publication/guijo-2018-fog-ordinal/">
 
   
 
@@ -209,6 +207,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-271170290-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-271170290-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -221,7 +257,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_32x32_fill_lanczos_center_3.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_192x192_fill_lanczos_center_3.png">
 
-  <link rel="canonical" href="//localhost:1313/publication/guijo-2018-fog-ordinal/">
+  <link rel="canonical" href="https://dguijo.com/publication/guijo-2018-fog-ordinal/">
 
   
   
@@ -237,10 +273,10 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="David Guijo-Rubio">
-  <meta property="og:url" content="//localhost:1313/publication/guijo-2018-fog-ordinal/">
+  <meta property="og:url" content="https://dguijo.com/publication/guijo-2018-fog-ordinal/">
   <meta property="og:title" content="Prediction of low-visibility events due to fog using ordinal classification | David Guijo-Rubio">
-  <meta property="og:description" content="The prediction of low-visibility events is very important in many human activities, and crucial in transportation facilities such as airports, where they can cause severe impact in flight scheduling and safety. The design of accurate predictors for low-visibility events can be approached by modelling future visibility conditions based on past values of different input variables, recorded at the airport. The use of autoregressive time series forecasters involves adjusting the order of the model (number of past series values or size of the sliding window), which usually depends on the dynamical nature of the time series. Moreover, the same window size is normally used for all the data, thought it would be reasonable to use different sliding windows. In this paper, we propose a hybrid prediction model for daily low-visibility events, which combines fixed-size and dynamic windows, and adapts its size according to the dynamics of the time series. Moreover, visibility is labelled using three ordered categories (FOG, MIST and CLEAR), and the prediction is then carried out by means of ordinal classifiers, in order to take advantage of the ordinal nature of low-visibility events. We evaluate the model using a dataset from Valladolid airport (Spain), where radiation fog is very common in autumn and winter months. The considered data set includes five different meteorological input variables (wind speed and direction, temperature, relative humidity and QNH - pressure adjusted at mean sea level) and the Runway Visual Range (RVR), which is used to characterize the low-visibility events at the airport. The results show that the proposed hybrid window model with ordinal classification leads to very robust performance prediction in daily time-horizon, improving the results obtained by the persistence model and alternative prediction schemes tested."><meta property="og:image" content="//localhost:1313/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png">
-  <meta property="twitter:image" content="//localhost:1313/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="The prediction of low-visibility events is very important in many human activities, and crucial in transportation facilities such as airports, where they can cause severe impact in flight scheduling and safety. The design of accurate predictors for low-visibility events can be approached by modelling future visibility conditions based on past values of different input variables, recorded at the airport. The use of autoregressive time series forecasters involves adjusting the order of the model (number of past series values or size of the sliding window), which usually depends on the dynamical nature of the time series. Moreover, the same window size is normally used for all the data, thought it would be reasonable to use different sliding windows. In this paper, we propose a hybrid prediction model for daily low-visibility events, which combines fixed-size and dynamic windows, and adapts its size according to the dynamics of the time series. Moreover, visibility is labelled using three ordered categories (FOG, MIST and CLEAR), and the prediction is then carried out by means of ordinal classifiers, in order to take advantage of the ordinal nature of low-visibility events. We evaluate the model using a dataset from Valladolid airport (Spain), where radiation fog is very common in autumn and winter months. The considered data set includes five different meteorological input variables (wind speed and direction, temperature, relative humidity and QNH - pressure adjusted at mean sea level) and the Runway Visual Range (RVR), which is used to characterize the low-visibility events at the airport. The results show that the proposed hybrid window model with ordinal classification leads to very robust performance prediction in daily time-horizon, improving the results obtained by the persistence model and alternative prediction schemes tested."><meta property="og:image" content="https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png">
+  <meta property="twitter:image" content="https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2021-04-28T09:37:54&#43;00:00">
@@ -267,7 +303,7 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "//localhost:1313/publication/guijo-2018-fog-ordinal/"
+    "@id": "https://dguijo.com/publication/guijo-2018-fog-ordinal/"
   },
   "headline": "Prediction of low-visibility events due to fog using ordinal classification",
   
@@ -284,7 +320,7 @@
     "name": "David Guijo-Rubio",
     "logo": {
       "@type": "ImageObject",
-      "url": "//localhost:1313/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_192x192_fill_lanczos_center_3.png"
+      "url": "https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_192x192_fill_lanczos_center_3.png"
     }
   },
   "description": "The prediction of low-visibility events is very important in many human activities, and crucial in transportation facilities such as airports, where they can cause severe impact in flight scheduling and safety. The design of accurate predictors for low-visibility events can be approached by modelling future visibility conditions based on past values of different input variables, recorded at the airport. The use of autoregressive time series forecasters involves adjusting the order of the model (number of past series values or size of the sliding window), which usually depends on the dynamical nature of the time series. Moreover, the same window size is normally used for all the data, thought it would be reasonable to use different sliding windows. In this paper, we propose a hybrid prediction model for daily low-visibility events, which combines fixed-size and dynamic windows, and adapts its size according to the dynamics of the time series. Moreover, visibility is labelled using three ordered categories (FOG, MIST and CLEAR), and the prediction is then carried out by means of ordinal classifiers, in order to take advantage of the ordinal nature of low-visibility events. We evaluate the model using a dataset from Valladolid airport (Spain), where radiation fog is very common in autumn and winter months. The considered data set includes five different meteorological input variables (wind speed and direction, temperature, relative humidity and QNH - pressure adjusted at mean sea level) and the Runway Visual Range (RVR), which is used to characterize the low-visibility events at the airport. The results show that the proposed hybrid window model with ordinal classification leads to very robust performance prediction in daily time-horizon, improving the results obtained by the persistence model and alternative prediction schemes tested."
@@ -559,22 +595,6 @@
       
 
       
-      <li class="nav-item dropdown i18n-dropdown">
-        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
-          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">English</span>
-        </a>
-        <div class="dropdown-menu">
-          <div class="dropdown-item dropdown-item-active">
-            <span>English</span>
-          </div>
-          
-          <a class="dropdown-item" href="//localhost:1313/es/publication/guijo-2018-fog-ordinal/">
-            <span>Español</span>
-          </a>
-          
-        </div>
-      </li>
-      
 
     </ul>
 
@@ -772,7 +792,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=//localhost:1313/publication/guijo-2018-fog-ordinal/&amp;text=Prediction%20of%20low-visibility%20events%20due%20to%20fog%20using%20ordinal%20classification" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://dguijo.com/publication/guijo-2018-fog-ordinal/&amp;text=Prediction%20of%20low-visibility%20events%20due%20to%20fog%20using%20ordinal%20classification" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -785,7 +805,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=//localhost:1313/publication/guijo-2018-fog-ordinal/&amp;t=Prediction%20of%20low-visibility%20events%20due%20to%20fog%20using%20ordinal%20classification" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://dguijo.com/publication/guijo-2018-fog-ordinal/&amp;t=Prediction%20of%20low-visibility%20events%20due%20to%20fog%20using%20ordinal%20classification" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -798,7 +818,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Prediction%20of%20low-visibility%20events%20due%20to%20fog%20using%20ordinal%20classification&amp;body=//localhost:1313/publication/guijo-2018-fog-ordinal/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Prediction%20of%20low-visibility%20events%20due%20to%20fog%20using%20ordinal%20classification&amp;body=https://dguijo.com/publication/guijo-2018-fog-ordinal/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -811,7 +831,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=//localhost:1313/publication/guijo-2018-fog-ordinal/&amp;title=Prediction%20of%20low-visibility%20events%20due%20to%20fog%20using%20ordinal%20classification" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://dguijo.com/publication/guijo-2018-fog-ordinal/&amp;title=Prediction%20of%20low-visibility%20events%20due%20to%20fog%20using%20ordinal%20classification" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -824,7 +844,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Prediction%20of%20low-visibility%20events%20due%20to%20fog%20using%20ordinal%20classification%20//localhost:1313/publication/guijo-2018-fog-ordinal/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Prediction%20of%20low-visibility%20events%20due%20to%20fog%20using%20ordinal%20classification%20https://dguijo.com/publication/guijo-2018-fog-ordinal/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -837,7 +857,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=//localhost:1313/publication/guijo-2018-fog-ordinal/&amp;title=Prediction%20of%20low-visibility%20events%20due%20to%20fog%20using%20ordinal%20classification" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://dguijo.com/publication/guijo-2018-fog-ordinal/&amp;title=Prediction%20of%20low-visibility%20events%20due%20to%20fog%20using%20ordinal%20classification" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>

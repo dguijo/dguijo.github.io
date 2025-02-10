@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>César Hervás-Mart\ńez | David Guijo-Rubio</title>
-    <link>https://dguijo.com/authors/cesar-hervas-mart%5Cnez/</link>
-      <atom:link href="https://dguijo.com/authors/cesar-hervas-mart%5Cnez/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1314/authors/cesar-hervas-mart%5Cnez/</link>
+      <atom:link href="http://localhost:1314/authors/cesar-hervas-mart%5Cnez/index.xml" rel="self" type="application/rss+xml" />
     <description>César Hervás-Mart\ńez</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1314/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>César Hervás-Mart\ńez</title>
-      <link>https://dguijo.com/authors/cesar-hervas-mart%5Cnez/</link>
+      <link>http://localhost:1314/authors/cesar-hervas-mart%5Cnez/</link>
     </image>
     
     <item>
       <title>Age Estimation Using Soft Labelling Ordinal Classification Approaches</title>
-      <link>https://dguijo.com/publication/vargas-2024-age/</link>
+      <link>http://localhost:1314/publication/vargas-2024-age/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.com/publication/vargas-2024-age/</guid>
+      <guid>http://localhost:1314/publication/vargas-2024-age/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Energy Flux Prediction Using an Ordinal Soft Labelling Strategy</title>
-      <link>https://dguijo.com/publication/gomez-2024-energy/</link>
+      <link>http://localhost:1314/publication/gomez-2024-energy/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.com/publication/gomez-2024-energy/</guid>
+      <guid>http://localhost:1314/publication/gomez-2024-energy/</guid>
       <description></description>
     </item>
     

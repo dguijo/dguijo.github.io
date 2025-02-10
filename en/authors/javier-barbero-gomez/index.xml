@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Javier Barbero-Gómez | David Guijo-Rubio</title>
-    <link>https://dguijo.com/authors/javier-barbero-gomez/</link>
-      <atom:link href="https://dguijo.com/authors/javier-barbero-gomez/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1314/authors/javier-barbero-gomez/</link>
+      <atom:link href="http://localhost:1314/authors/javier-barbero-gomez/index.xml" rel="self" type="application/rss+xml" />
     <description>Javier Barbero-Gómez</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1314/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Javier Barbero-Gómez</title>
-      <link>https://dguijo.com/authors/javier-barbero-gomez/</link>
+      <link>http://localhost:1314/authors/javier-barbero-gomez/</link>
     </image>
     
     <item>
       <title>Hackathon en docencia: aprendizaje automático aplicado a Ciencias de la Vida</title>
-      <link>https://dguijo.com/publication/guijo-2022-hackathon/</link>
+      <link>http://localhost:1314/publication/guijo-2022-hackathon/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.com/publication/guijo-2022-hackathon/</guid>
+      <guid>http://localhost:1314/publication/guijo-2022-hackathon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hackathon in Teaching: Applying Machine Learning to Life Sciences Tasks</title>
-      <link>https://dguijo.com/publication/guijo-2022-hackathonb/</link>
+      <link>http://localhost:1314/publication/guijo-2022-hackathonb/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.com/publication/guijo-2022-hackathonb/</guid>
+      <guid>http://localhost:1314/publication/guijo-2022-hackathonb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Potenciando el perfil profesional Científico de Datos mediante dinámicas de competición</title>
-      <link>https://dguijo.com/publication/guijo-docencia-2021/</link>
+      <link>http://localhost:1314/publication/guijo-docencia-2021/</link>
       <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.com/publication/guijo-docencia-2021/</guid>
+      <guid>http://localhost:1314/publication/guijo-docencia-2021/</guid>
       <description></description>
     </item>
     

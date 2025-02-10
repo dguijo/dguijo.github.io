@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Time Series | David Guijo-Rubio</title>
-    <link>/tags/time-series/</link>
-      <atom:link href="/tags/time-series/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/tags/time-series/</link>
+      <atom:link href="//localhost:1313/tags/time-series/index.xml" rel="self" type="application/rss+xml" />
     <description>Time Series</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1314/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Time Series</title>
-      <link>/tags/time-series/</link>
+      <link>//localhost:1313/tags/time-series/</link>
     </image>
     
     <item>
       <title>Unsupervised feature based algorithms for time series extrinsic regression</title>
-      <link>/publication/tser-david-2024/</link>
+      <link>//localhost:1313/publication/tser-david-2024/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/tser-david-2024/</guid>
+      <guid>//localhost:1313/publication/tser-david-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>COVID-19 contagion forecasting framework based on curve decomposition and evolutionary artificial neural networks: A case study in Andalusia, Spain</title>
-      <link>/publication/diazlozano-2022117977/</link>
+      <link>//localhost:1313/publication/diazlozano-2022117977/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/diazlozano-2022117977/</guid>
+      <guid>//localhost:1313/publication/diazlozano-2022117977/</guid>
       <description></description>
     </item>
     

@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-us" >
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -32,9 +32,7 @@
   <meta name="description" content="Classification and regression techniques are two of the main tasks considered by the Machine Learning area. They mainly depend on the target variable to predict. In this context, ordinal classification represents an intermediate task, which is focused on the prediction of nominal variables where the categories follow a specific intrinsic order given by the problem. Nevertheless, the integration of different algorithms able to solve ordinal classification problems is often unavailable in most of existing Machine Learning software, which hinders the use of new approaches. Therefore, this paper focuses on the incorporation of an ordinal classification algorithm (NSLVOrd) in one of the most complete ordinal regression frameworks, ``Ordinal Regression and Classification Algorithms framework (ORCA)&#39;&#39; by using both fuzzy rules and the JFML library. The use of NSLVOrd in the ORCA tool as well as a case study with a real database are shown where the obtained results are promising.">
 
   
-  <link rel="alternate" hreflang="es" href="//localhost:1313/es/publication/fuzzy-orca-2021/">
-  
-  <link rel="alternate" hreflang="en-us" href="//localhost:1313/publication/fuzzy-orca-2021/">
+  <link rel="alternate" hreflang="en-us" href="https://dguijo.com/publication/fuzzy-orca-2021/">
 
   
 
@@ -209,6 +207,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-271170290-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-271170290-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -221,7 +257,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_32x32_fill_lanczos_center_3.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_192x192_fill_lanczos_center_3.png">
 
-  <link rel="canonical" href="//localhost:1313/publication/fuzzy-orca-2021/">
+  <link rel="canonical" href="https://dguijo.com/publication/fuzzy-orca-2021/">
 
   
   
@@ -237,10 +273,10 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="David Guijo-Rubio">
-  <meta property="og:url" content="//localhost:1313/publication/fuzzy-orca-2021/">
+  <meta property="og:url" content="https://dguijo.com/publication/fuzzy-orca-2021/">
   <meta property="og:title" content="Enhancing the ORCA framework with a new Fuzzy Rule Base System implementation compatible with the JFML library | David Guijo-Rubio">
-  <meta property="og:description" content="Classification and regression techniques are two of the main tasks considered by the Machine Learning area. They mainly depend on the target variable to predict. In this context, ordinal classification represents an intermediate task, which is focused on the prediction of nominal variables where the categories follow a specific intrinsic order given by the problem. Nevertheless, the integration of different algorithms able to solve ordinal classification problems is often unavailable in most of existing Machine Learning software, which hinders the use of new approaches. Therefore, this paper focuses on the incorporation of an ordinal classification algorithm (NSLVOrd) in one of the most complete ordinal regression frameworks, ``Ordinal Regression and Classification Algorithms framework (ORCA)&#39;&#39; by using both fuzzy rules and the JFML library. The use of NSLVOrd in the ORCA tool as well as a case study with a real database are shown where the obtained results are promising."><meta property="og:image" content="//localhost:1313/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png">
-  <meta property="twitter:image" content="//localhost:1313/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Classification and regression techniques are two of the main tasks considered by the Machine Learning area. They mainly depend on the target variable to predict. In this context, ordinal classification represents an intermediate task, which is focused on the prediction of nominal variables where the categories follow a specific intrinsic order given by the problem. Nevertheless, the integration of different algorithms able to solve ordinal classification problems is often unavailable in most of existing Machine Learning software, which hinders the use of new approaches. Therefore, this paper focuses on the incorporation of an ordinal classification algorithm (NSLVOrd) in one of the most complete ordinal regression frameworks, ``Ordinal Regression and Classification Algorithms framework (ORCA)&#39;&#39; by using both fuzzy rules and the JFML library. The use of NSLVOrd in the ORCA tool as well as a case study with a real database are shown where the obtained results are promising."><meta property="og:image" content="https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png">
+  <meta property="twitter:image" content="https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2021-05-24T08:18:14&#43;00:00">
@@ -267,7 +303,7 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "//localhost:1313/publication/fuzzy-orca-2021/"
+    "@id": "https://dguijo.com/publication/fuzzy-orca-2021/"
   },
   "headline": "Enhancing the ORCA framework with a new Fuzzy Rule Base System implementation compatible with the JFML library",
   
@@ -284,7 +320,7 @@
     "name": "David Guijo-Rubio",
     "logo": {
       "@type": "ImageObject",
-      "url": "//localhost:1313/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_192x192_fill_lanczos_center_3.png"
+      "url": "https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_192x192_fill_lanczos_center_3.png"
     }
   },
   "description": "Classification and regression techniques are two of the main tasks considered by the Machine Learning area. They mainly depend on the target variable to predict. In this context, ordinal classification represents an intermediate task, which is focused on the prediction of nominal variables where the categories follow a specific intrinsic order given by the problem. Nevertheless, the integration of different algorithms able to solve ordinal classification problems is often unavailable in most of existing Machine Learning software, which hinders the use of new approaches. Therefore, this paper focuses on the incorporation of an ordinal classification algorithm (NSLVOrd) in one of the most complete ordinal regression frameworks, ``Ordinal Regression and Classification Algorithms framework (ORCA)'' by using both fuzzy rules and the JFML library. The use of NSLVOrd in the ORCA tool as well as a case study with a real database are shown where the obtained results are promising."
@@ -559,22 +595,6 @@
       
 
       
-      <li class="nav-item dropdown i18n-dropdown">
-        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
-          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">English</span>
-        </a>
-        <div class="dropdown-menu">
-          <div class="dropdown-item dropdown-item-active">
-            <span>English</span>
-          </div>
-          
-          <a class="dropdown-item" href="//localhost:1313/es/publication/fuzzy-orca-2021/">
-            <span>Español</span>
-          </a>
-          
-        </div>
-      </li>
-      
 
     </ul>
 
@@ -786,7 +806,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=//localhost:1313/publication/fuzzy-orca-2021/&amp;text=Enhancing%20the%20ORCA%20framework%20with%20a%20new%20Fuzzy%20Rule%20Base%20System%20implementation%20compatible%20with%20the%20JFML%20library" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://dguijo.com/publication/fuzzy-orca-2021/&amp;text=Enhancing%20the%20ORCA%20framework%20with%20a%20new%20Fuzzy%20Rule%20Base%20System%20implementation%20compatible%20with%20the%20JFML%20library" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -799,7 +819,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=//localhost:1313/publication/fuzzy-orca-2021/&amp;t=Enhancing%20the%20ORCA%20framework%20with%20a%20new%20Fuzzy%20Rule%20Base%20System%20implementation%20compatible%20with%20the%20JFML%20library" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://dguijo.com/publication/fuzzy-orca-2021/&amp;t=Enhancing%20the%20ORCA%20framework%20with%20a%20new%20Fuzzy%20Rule%20Base%20System%20implementation%20compatible%20with%20the%20JFML%20library" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -812,7 +832,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Enhancing%20the%20ORCA%20framework%20with%20a%20new%20Fuzzy%20Rule%20Base%20System%20implementation%20compatible%20with%20the%20JFML%20library&amp;body=//localhost:1313/publication/fuzzy-orca-2021/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Enhancing%20the%20ORCA%20framework%20with%20a%20new%20Fuzzy%20Rule%20Base%20System%20implementation%20compatible%20with%20the%20JFML%20library&amp;body=https://dguijo.com/publication/fuzzy-orca-2021/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -825,7 +845,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=//localhost:1313/publication/fuzzy-orca-2021/&amp;title=Enhancing%20the%20ORCA%20framework%20with%20a%20new%20Fuzzy%20Rule%20Base%20System%20implementation%20compatible%20with%20the%20JFML%20library" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://dguijo.com/publication/fuzzy-orca-2021/&amp;title=Enhancing%20the%20ORCA%20framework%20with%20a%20new%20Fuzzy%20Rule%20Base%20System%20implementation%20compatible%20with%20the%20JFML%20library" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -838,7 +858,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Enhancing%20the%20ORCA%20framework%20with%20a%20new%20Fuzzy%20Rule%20Base%20System%20implementation%20compatible%20with%20the%20JFML%20library%20//localhost:1313/publication/fuzzy-orca-2021/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Enhancing%20the%20ORCA%20framework%20with%20a%20new%20Fuzzy%20Rule%20Base%20System%20implementation%20compatible%20with%20the%20JFML%20library%20https://dguijo.com/publication/fuzzy-orca-2021/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -851,7 +871,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=//localhost:1313/publication/fuzzy-orca-2021/&amp;title=Enhancing%20the%20ORCA%20framework%20with%20a%20new%20Fuzzy%20Rule%20Base%20System%20implementation%20compatible%20with%20the%20JFML%20library" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://dguijo.com/publication/fuzzy-orca-2021/&amp;title=Enhancing%20the%20ORCA%20framework%20with%20a%20new%20Fuzzy%20Rule%20Base%20System%20implementation%20compatible%20with%20the%20JFML%20library" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>

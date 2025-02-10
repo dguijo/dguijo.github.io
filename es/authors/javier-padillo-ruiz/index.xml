@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Javier Padillo-Ruiz | David Guijo-Rubio</title>
-    <link>/authors/javier-padillo-ruiz/</link>
-      <atom:link href="/authors/javier-padillo-ruiz/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/javier-padillo-ruiz/</link>
+      <atom:link href="//localhost:1313/authors/javier-padillo-ruiz/index.xml" rel="self" type="application/rss+xml" />
     <description>Javier Padillo-Ruiz</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1314/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Javier Padillo-Ruiz</title>
-      <link>/authors/javier-padillo-ruiz/</link>
+      <link>//localhost:1313/authors/javier-padillo-ruiz/</link>
     </image>
     
     <item>
       <title>COVID-19 contagion forecasting framework based on curve decomposition and evolutionary artificial neural networks: A case study in Andalusia, Spain</title>
-      <link>/publication/diazlozano-2022117977/</link>
+      <link>//localhost:1313/publication/diazlozano-2022117977/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/diazlozano-2022117977/</guid>
+      <guid>//localhost:1313/publication/diazlozano-2022117977/</guid>
       <description></description>
     </item>
     

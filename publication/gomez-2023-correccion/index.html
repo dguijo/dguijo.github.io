@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-us" >
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -32,9 +32,7 @@
   <meta name="description" content="El acceso al trasplante hepático está basado en el principio de urgencia, el cual concede mayor prioridad a los pacientes más graves. Concretamente, el modelo MELD-Na [1] se utiliza a nivel mundial para priorizar las listas de espera [2], y comprende cuatro parámetros analíticos: creatinina, bilirrubina, INR y sodio.Debido a la influencia de la creatinina por la masa muscular [3], este parámetro infraestima la gravedad de la enfermedad hepática en las mujeres, recibiendo éstas menor puntuación MELD-Na y por ende menor prioridad. Esta disparidad de género en el acceso al trasplante ha motivado un 30% más de mortalidad en las mujeres que esperan un trasplante hepático en comparación con los hombres [4].Para tratar de corregir dicha disparidad se desarrolló el modelo GEMA-Na GenderEquity Model for Liver Allocation [5], el cual sustituye la creatinina por una medida más precisa de la función renal, la cual no está influenciada por la masa muscular.Los resultados obtenidos en casi 10.000 pacientes procedentes de dos países diferentes indican que el modelo GEMA-Na corrige las disparidades de género yreduce la mortalidad en lista de espera de trasplante hepático.">
 
   
-  <link rel="alternate" hreflang="es" href="//localhost:1313/es/publication/gomez-2023-correccion/">
-  
-  <link rel="alternate" hreflang="en-us" href="//localhost:1313/publication/gomez-2023-correccion/">
+  <link rel="alternate" hreflang="en-us" href="https://dguijo.com/publication/gomez-2023-correccion/">
 
   
 
@@ -209,6 +207,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-271170290-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-271170290-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -221,7 +257,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_32x32_fill_lanczos_center_3.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_192x192_fill_lanczos_center_3.png">
 
-  <link rel="canonical" href="//localhost:1313/publication/gomez-2023-correccion/">
+  <link rel="canonical" href="https://dguijo.com/publication/gomez-2023-correccion/">
 
   
   
@@ -237,10 +273,10 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="David Guijo-Rubio">
-  <meta property="og:url" content="//localhost:1313/publication/gomez-2023-correccion/">
+  <meta property="og:url" content="https://dguijo.com/publication/gomez-2023-correccion/">
   <meta property="og:title" content="Corrección de la disparidad de género en el acceso al trasplante hepático | David Guijo-Rubio">
-  <meta property="og:description" content="El acceso al trasplante hepático está basado en el principio de urgencia, el cual concede mayor prioridad a los pacientes más graves. Concretamente, el modelo MELD-Na [1] se utiliza a nivel mundial para priorizar las listas de espera [2], y comprende cuatro parámetros analíticos: creatinina, bilirrubina, INR y sodio.Debido a la influencia de la creatinina por la masa muscular [3], este parámetro infraestima la gravedad de la enfermedad hepática en las mujeres, recibiendo éstas menor puntuación MELD-Na y por ende menor prioridad. Esta disparidad de género en el acceso al trasplante ha motivado un 30% más de mortalidad en las mujeres que esperan un trasplante hepático en comparación con los hombres [4].Para tratar de corregir dicha disparidad se desarrolló el modelo GEMA-Na GenderEquity Model for Liver Allocation [5], el cual sustituye la creatinina por una medida más precisa de la función renal, la cual no está influenciada por la masa muscular.Los resultados obtenidos en casi 10.000 pacientes procedentes de dos países diferentes indican que el modelo GEMA-Na corrige las disparidades de género yreduce la mortalidad en lista de espera de trasplante hepático."><meta property="og:image" content="//localhost:1313/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png">
-  <meta property="twitter:image" content="//localhost:1313/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="El acceso al trasplante hepático está basado en el principio de urgencia, el cual concede mayor prioridad a los pacientes más graves. Concretamente, el modelo MELD-Na [1] se utiliza a nivel mundial para priorizar las listas de espera [2], y comprende cuatro parámetros analíticos: creatinina, bilirrubina, INR y sodio.Debido a la influencia de la creatinina por la masa muscular [3], este parámetro infraestima la gravedad de la enfermedad hepática en las mujeres, recibiendo éstas menor puntuación MELD-Na y por ende menor prioridad. Esta disparidad de género en el acceso al trasplante ha motivado un 30% más de mortalidad en las mujeres que esperan un trasplante hepático en comparación con los hombres [4].Para tratar de corregir dicha disparidad se desarrolló el modelo GEMA-Na GenderEquity Model for Liver Allocation [5], el cual sustituye la creatinina por una medida más precisa de la función renal, la cual no está influenciada por la masa muscular.Los resultados obtenidos en casi 10.000 pacientes procedentes de dos países diferentes indican que el modelo GEMA-Na corrige las disparidades de género yreduce la mortalidad en lista de espera de trasplante hepático."><meta property="og:image" content="https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png">
+  <meta property="twitter:image" content="https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2023-12-30T07:54:57&#43;00:00">
@@ -267,7 +303,7 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "//localhost:1313/publication/gomez-2023-correccion/"
+    "@id": "https://dguijo.com/publication/gomez-2023-correccion/"
   },
   "headline": "Corrección de la disparidad de género en el acceso al trasplante hepático",
   
@@ -284,7 +320,7 @@
     "name": "David Guijo-Rubio",
     "logo": {
       "@type": "ImageObject",
-      "url": "//localhost:1313/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_192x192_fill_lanczos_center_3.png"
+      "url": "https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_192x192_fill_lanczos_center_3.png"
     }
   },
   "description": "El acceso al trasplante hepático está basado en el principio de urgencia, el cual concede mayor prioridad a los pacientes más graves. Concretamente, el modelo MELD-Na [1] se utiliza a nivel mundial para priorizar las listas de espera [2], y comprende cuatro parámetros analíticos: creatinina, bilirrubina, INR y sodio.Debido a la influencia de la creatinina por la masa muscular [3], este parámetro infraestima la gravedad de la enfermedad hepática en las mujeres, recibiendo éstas menor puntuación MELD-Na y por ende menor prioridad. Esta disparidad de género en el acceso al trasplante ha motivado un 30% más de mortalidad en las mujeres que esperan un trasplante hepático en comparación con los hombres [4].Para tratar de corregir dicha disparidad se desarrolló el modelo GEMA-Na GenderEquity Model for Liver Allocation [5], el cual sustituye la creatinina por una medida más precisa de la función renal, la cual no está influenciada por la masa muscular.Los resultados obtenidos en casi 10.000 pacientes procedentes de dos países diferentes indican que el modelo GEMA-Na corrige las disparidades de género yreduce la mortalidad en lista de espera de trasplante hepático."
@@ -559,22 +595,6 @@
       
 
       
-      <li class="nav-item dropdown i18n-dropdown">
-        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
-          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">English</span>
-        </a>
-        <div class="dropdown-menu">
-          <div class="dropdown-item dropdown-item-active">
-            <span>English</span>
-          </div>
-          
-          <a class="dropdown-item" href="//localhost:1313/es/publication/gomez-2023-correccion/">
-            <span>Español</span>
-          </a>
-          
-        </div>
-      </li>
-      
 
     </ul>
 
@@ -768,7 +788,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=//localhost:1313/publication/gomez-2023-correccion/&amp;text=Correcci%c3%b3n%20de%20la%20disparidad%20de%20g%c3%a9nero%20en%20el%20acceso%20al%20trasplante%20hep%c3%a1tico" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://dguijo.com/publication/gomez-2023-correccion/&amp;text=Correcci%c3%b3n%20de%20la%20disparidad%20de%20g%c3%a9nero%20en%20el%20acceso%20al%20trasplante%20hep%c3%a1tico" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -781,7 +801,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=//localhost:1313/publication/gomez-2023-correccion/&amp;t=Correcci%c3%b3n%20de%20la%20disparidad%20de%20g%c3%a9nero%20en%20el%20acceso%20al%20trasplante%20hep%c3%a1tico" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://dguijo.com/publication/gomez-2023-correccion/&amp;t=Correcci%c3%b3n%20de%20la%20disparidad%20de%20g%c3%a9nero%20en%20el%20acceso%20al%20trasplante%20hep%c3%a1tico" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -794,7 +814,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Correcci%c3%b3n%20de%20la%20disparidad%20de%20g%c3%a9nero%20en%20el%20acceso%20al%20trasplante%20hep%c3%a1tico&amp;body=//localhost:1313/publication/gomez-2023-correccion/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Correcci%c3%b3n%20de%20la%20disparidad%20de%20g%c3%a9nero%20en%20el%20acceso%20al%20trasplante%20hep%c3%a1tico&amp;body=https://dguijo.com/publication/gomez-2023-correccion/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -807,7 +827,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=//localhost:1313/publication/gomez-2023-correccion/&amp;title=Correcci%c3%b3n%20de%20la%20disparidad%20de%20g%c3%a9nero%20en%20el%20acceso%20al%20trasplante%20hep%c3%a1tico" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://dguijo.com/publication/gomez-2023-correccion/&amp;title=Correcci%c3%b3n%20de%20la%20disparidad%20de%20g%c3%a9nero%20en%20el%20acceso%20al%20trasplante%20hep%c3%a1tico" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -820,7 +840,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Correcci%c3%b3n%20de%20la%20disparidad%20de%20g%c3%a9nero%20en%20el%20acceso%20al%20trasplante%20hep%c3%a1tico%20//localhost:1313/publication/gomez-2023-correccion/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Correcci%c3%b3n%20de%20la%20disparidad%20de%20g%c3%a9nero%20en%20el%20acceso%20al%20trasplante%20hep%c3%a1tico%20https://dguijo.com/publication/gomez-2023-correccion/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -833,7 +853,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=//localhost:1313/publication/gomez-2023-correccion/&amp;title=Correcci%c3%b3n%20de%20la%20disparidad%20de%20g%c3%a9nero%20en%20el%20acceso%20al%20trasplante%20hep%c3%a1tico" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://dguijo.com/publication/gomez-2023-correccion/&amp;title=Correcci%c3%b3n%20de%20la%20disparidad%20de%20g%c3%a9nero%20en%20el%20acceso%20al%20trasplante%20hep%c3%a1tico" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>

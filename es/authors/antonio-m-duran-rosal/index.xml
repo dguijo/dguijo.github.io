@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antonio M Durán-Rosal | David Guijo-Rubio</title>
-    <link>/authors/antonio-m-duran-rosal/</link>
-      <atom:link href="/authors/antonio-m-duran-rosal/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/antonio-m-duran-rosal/</link>
+      <atom:link href="//localhost:1313/authors/antonio-m-duran-rosal/index.xml" rel="self" type="application/rss+xml" />
     <description>Antonio M Durán-Rosal</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1314/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Antonio M Durán-Rosal</title>
-      <link>/authors/antonio-m-duran-rosal/</link>
+      <link>//localhost:1313/authors/antonio-m-duran-rosal/</link>
     </image>
     
     <item>
       <title>Gamifying the Classroom for the Acquisition of Skills Associated with Machine Learning: A Two-Year Case Study</title>
-      <link>/publication/duran-2022-gamifying/</link>
+      <link>//localhost:1313/publication/duran-2022-gamifying/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/duran-2022-gamifying/</guid>
+      <guid>//localhost:1313/publication/duran-2022-gamifying/</guid>
       <description></description>
     </item>
     

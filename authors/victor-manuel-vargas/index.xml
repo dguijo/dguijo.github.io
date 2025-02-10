@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Víctor Manuel Vargas | David Guijo-Rubio</title>
-    <link>//localhost:1313/authors/victor-manuel-vargas/</link>
-      <atom:link href="//localhost:1313/authors/victor-manuel-vargas/index.xml" rel="self" type="application/rss+xml" />
-    <description>Víctor Manuel Vargas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <title>Victor Manuel Vargas | David Guijo-Rubio</title>
+    <link>https://dguijo.com/authors/victor-manuel-vargas/</link>
+      <atom:link href="https://dguijo.com/authors/victor-manuel-vargas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Victor Manuel Vargas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
-      <title>Víctor Manuel Vargas</title>
-      <link>//localhost:1313/authors/victor-manuel-vargas/</link>
+      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <title>Victor Manuel Vargas</title>
+      <link>https://dguijo.com/authors/victor-manuel-vargas/</link>
     </image>
     
     <item>
-      <title>ORFEO: Ordinal classifier and Regressor Fusion for Estimating an Ordinal categorical target</title>
-      <link>//localhost:1313/publication/orellana-orfeo-24/</link>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/orellana-orfeo-24/</guid>
+      <title>Hackathon en docencia: aprendizaje automático aplicado a Ciencias de la Vida</title>
+      <link>https://dguijo.com/publication/guijo-2022-hackathon/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/guijo-2022-hackathon/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Generalised triangular distributions for ordinal deep learning: Novel proposal and optimisation</title>
-      <link>//localhost:1313/publication/vargas-2023119606/</link>
-      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/vargas-2023119606/</guid>
+      <title>Potenciando el perfil profesional Científico de Datos mediante dinámicas de competición</title>
+      <link>https://dguijo.com/publication/guijo-docencia-2021/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/guijo-docencia-2021/</guid>
       <description></description>
     </item>
     

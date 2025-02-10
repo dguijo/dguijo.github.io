@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wave Height Prediction | David Guijo-Rubio</title>
-    <link>//localhost:1313/tags/wave-height-prediction/</link>
-      <atom:link href="//localhost:1313/tags/wave-height-prediction/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dguijo.com/tags/wave-height-prediction/</link>
+      <atom:link href="https://dguijo.com/tags/wave-height-prediction/index.xml" rel="self" type="application/rss+xml" />
     <description>Wave Height Prediction</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Wave Height Prediction</title>
-      <link>//localhost:1313/tags/wave-height-prediction/</link>
+      <link>https://dguijo.com/tags/wave-height-prediction/</link>
     </image>
     
     <item>
       <title>Simultaneous short-term significant wave height and energy flux prediction using zonal multi-task evolutionary artificial neural networks</title>
-      <link>//localhost:1313/publication/renewable-energy-antonio/</link>
+      <link>https://dguijo.com/publication/renewable-energy-antonio/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/renewable-energy-antonio/</guid>
+      <guid>https://dguijo.com/publication/renewable-energy-antonio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distribution-Based Discretisation and Ordinal Classification Applied to Wave Height Prediction</title>
-      <link>//localhost:1313/publication/guijo-ideal-2018/</link>
+      <link>https://dguijo.com/publication/guijo-ideal-2018/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/guijo-ideal-2018/</guid>
+      <guid>https://dguijo.com/publication/guijo-ideal-2018/</guid>
       <description></description>
     </item>
     

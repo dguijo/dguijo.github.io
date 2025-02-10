@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rocío González Grande | David Guijo-Rubio</title>
-    <link>/authors/rocio-gonzalez-grande/</link>
-      <atom:link href="/authors/rocio-gonzalez-grande/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/rocio-gonzalez-grande/</link>
+      <atom:link href="//localhost:1313/authors/rocio-gonzalez-grande/index.xml" rel="self" type="application/rss+xml" />
     <description>Rocío González Grande</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1314/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Rocío González Grande</title>
-      <link>/authors/rocio-gonzalez-grande/</link>
+      <link>//localhost:1313/authors/rocio-gonzalez-grande/</link>
     </image>
     
     <item>
       <title>GEMA-Na and MELD 3.0 severity scores to address sex disparities for accessing liver transplantation: a nationwide retrospective cohort study</title>
-      <link>/publication/rodriguez-2024-gema/</link>
+      <link>//localhost:1313/publication/rodriguez-2024-gema/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/rodriguez-2024-gema/</guid>
+      <guid>//localhost:1313/publication/rodriguez-2024-gema/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David Guijo-Rubio</title>
-    <link>https://dguijo.com/authors/admin/</link>
-      <atom:link href="https://dguijo.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1314/authors/admin/</link>
+      <atom:link href="http://localhost:1314/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>David Guijo-Rubio</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright>
     <image>
-      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1314/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>David Guijo-Rubio</title>
-      <link>https://dguijo.com/authors/admin/</link>
+      <link>http://localhost:1314/authors/admin/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://dguijo.com/authors/admin/</link>
+      <link>http://localhost:1314/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.com/authors/admin/</guid>
+      <guid>http://localhost:1314/authors/admin/</guid>
       <description>&lt;p&gt;I am a &lt;strong&gt;Juan de la Cierva postdoctoral researcher&lt;/strong&gt; at the 
 &lt;a href=&#34;https://www.uah.es/en/conoce-la-uah/campus-centros-y-departamentos/departamentos/Teoria-de-la-Senal-y-Comunicaciones/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Signal Theory and Communications Department&lt;/a&gt; of the University of Alcalá (Spain). Besides, I have also been a postdoctoral researcher at the 
 &lt;a href=&#34;https://research-portal.uea.ac.uk/en/organisations/school-of-computing-sciences&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;School of Computer Sciences&lt;/a&gt; of the University of East Anglia (United Kingdom) and at the 
 &lt;a href=&#34;https://www.uco.es/grupos/ayrna/index.php/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AYRNA research group&lt;/a&gt; of the University of Córdoba (Spain). Previously, I was an Associate Professor at the University of Córdoba. My current research interests include a wide variety of topics, among them, machine learning and time series data mining. More specifically, preprocessing, clustering, prediction, regression, and ordinal and nominal classification. On the other hand, I have been involved in numerous scientific projects, which denote the interdisciplinarity of the area to which I am dedicated, among others, renewable energies, detection of atmospheric events and health-based problems (COVID19, HIV-HCV and Liver Transplantation).&lt;/p&gt;
 &lt;p&gt;I am &lt;strong&gt;PhD in Artificial Intelligence&lt;/strong&gt; by the University of Cordoba in 2021 (see 
-&lt;a href=&#34;https://dguijo.com/files/dissertation.pdf&#34;&gt;dissertation&lt;/a&gt;), &lt;strong&gt;MEng in Artificial Intelligence Research&lt;/strong&gt; by the Menendez Pelayo International University in 2017 and &lt;strong&gt;BSc in Computer Engineering&lt;/strong&gt; by the University of Cordoba in 2016. Check my 
-&lt;a href=&#34;https://dguijo.com/publication/&#34;&gt;main publications&lt;/a&gt; and 
-&lt;a href=&#34;https://dguijo.com/teaching/&#34;&gt;teaching&lt;/a&gt; to learn more about them.&lt;/p&gt;
+&lt;a href=&#34;http://localhost:1314/files/dissertation.pdf&#34;&gt;dissertation&lt;/a&gt;), &lt;strong&gt;MEng in Artificial Intelligence Research&lt;/strong&gt; by the Menendez Pelayo International University in 2017 and &lt;strong&gt;BSc in Computer Engineering&lt;/strong&gt; by the University of Cordoba in 2016. Check my 
+&lt;a href=&#34;http://localhost:1314/publication/&#34;&gt;main publications&lt;/a&gt; and 
+&lt;a href=&#34;http://localhost:1314/teaching/&#34;&gt;teaching&lt;/a&gt; to learn more about them.&lt;/p&gt;
 &lt;p&gt;Most of my spare time is dedicated to volunteering, mainly to my Scout Group (I am a leisure time monitor for teenagers between 14 and 17 years old). I also enjoy travelling, being surrounded by nature and doing sport, which keeps me feeling energetic and alive.&lt;/p&gt;
 </description>
     </item>

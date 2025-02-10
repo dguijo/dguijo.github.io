@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dguijo.com | David Guijo-Rubio</title>
+    <link>//localhost:1313/https/dguijo.com/</link>
+      <atom:link href="//localhost:1313/https/dguijo.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dguijo.com</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright>
+    <image>
+      <url>//localhost:1313/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <title>Dguijo.com</title>
+      <link>//localhost:1313/https/dguijo.com/</link>
+    </image>
+    
+  </channel>
+</rss>

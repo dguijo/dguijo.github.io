@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diego Furtado Silva | David Guijo-Rubio</title>
-    <link>/authors/diego-furtado-silva/</link>
-      <atom:link href="/authors/diego-furtado-silva/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/diego-furtado-silva/</link>
+      <atom:link href="//localhost:1313/authors/diego-furtado-silva/index.xml" rel="self" type="application/rss+xml" />
     <description>Diego Furtado Silva</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1314/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Diego Furtado Silva</title>
-      <link>/authors/diego-furtado-silva/</link>
+      <link>//localhost:1313/authors/diego-furtado-silva/</link>
     </image>
     
     <item>
       <title>Unsupervised feature based algorithms for time series extrinsic regression</title>
-      <link>/publication/tser-david-2024/</link>
+      <link>//localhost:1313/publication/tser-david-2024/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/tser-david-2024/</guid>
+      <guid>//localhost:1313/publication/tser-david-2024/</guid>
       <description></description>
     </item>
     

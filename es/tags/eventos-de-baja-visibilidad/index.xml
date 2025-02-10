@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eventos De Baja Visibilidad | David Guijo-Rubio</title>
-    <link>/tags/eventos-de-baja-visibilidad/</link>
-      <atom:link href="/tags/eventos-de-baja-visibilidad/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/tags/eventos-de-baja-visibilidad/</link>
+      <atom:link href="//localhost:1313/tags/eventos-de-baja-visibilidad/index.xml" rel="self" type="application/rss+xml" />
     <description>Eventos De Baja Visibilidad</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1314/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Eventos De Baja Visibilidad</title>
-      <link>/tags/eventos-de-baja-visibilidad/</link>
+      <link>//localhost:1313/tags/eventos-de-baja-visibilidad/</link>
     </image>
     
     <item>
       <title>Algoritmos de aprendizaje automático para predicción de niveles de niebla usando ventanas estáticas y dinámicas</title>
-      <link>/publication/diaz-caepia-2018/</link>
+      <link>//localhost:1313/publication/diaz-caepia-2018/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/diaz-caepia-2018/</guid>
+      <guid>//localhost:1313/publication/diaz-caepia-2018/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Isaac Túñez | David Guijo-Rubio</title>
-    <link>//localhost:1313/authors/isaac-tunez/</link>
-      <atom:link href="//localhost:1313/authors/isaac-tunez/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/isaac-tunez/</link>
+      <atom:link href="http://localhost:1313/authors/isaac-tunez/index.xml" rel="self" type="application/rss+xml" />
     <description>Isaac Túñez</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Isaac Túñez</title>
-      <link>//localhost:1313/authors/isaac-tunez/</link>
+      <link>http://localhost:1313/authors/isaac-tunez/</link>
     </image>
     
     <item>
       <title>COVID-19 contagion forecasting framework based on curve decomposition and evolutionary artificial neural networks: A case study in Andalusia, Spain</title>
-      <link>//localhost:1313/publication/diazlozano-2022117977/</link>
+      <link>http://localhost:1313/publication/diazlozano-2022117977/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/diazlozano-2022117977/</guid>
+      <guid>http://localhost:1313/publication/diazlozano-2022117977/</guid>
       <description></description>
     </item>
     

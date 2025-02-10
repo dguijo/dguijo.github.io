@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antonio M Gómez-Orellana | David Guijo-Rubio</title>
-    <link>https://dguijo.com/authors/antonio-m-gomez-orellana/</link>
-      <atom:link href="https://dguijo.com/authors/antonio-m-gomez-orellana/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1314/authors/antonio-m-gomez-orellana/</link>
+      <atom:link href="http://localhost:1314/authors/antonio-m-gomez-orellana/index.xml" rel="self" type="application/rss+xml" />
     <description>Antonio M Gómez-Orellana</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1314/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Antonio M Gómez-Orellana</title>
-      <link>https://dguijo.com/authors/antonio-m-gomez-orellana/</link>
+      <link>http://localhost:1314/authors/antonio-m-gomez-orellana/</link>
     </image>
     
     <item>
       <title>EBANO: A novel Ensemble BAsed on uNimodal Ordinal classifiers for the prediction of significant wave height</title>
-      <link>https://dguijo.com/publication/vargas-2024-ebano/</link>
+      <link>http://localhost:1314/publication/vargas-2024-ebano/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.com/publication/vargas-2024-ebano/</guid>
+      <guid>http://localhost:1314/publication/vargas-2024-ebano/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Age Estimation Using Soft Labelling Ordinal Classification Approaches</title>
-      <link>https://dguijo.com/publication/vargas-2024-age/</link>
+      <link>http://localhost:1314/publication/vargas-2024-age/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.com/publication/vargas-2024-age/</guid>
+      <guid>http://localhost:1314/publication/vargas-2024-age/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Energy Flux Prediction Using an Ordinal Soft Labelling Strategy</title>
-      <link>https://dguijo.com/publication/gomez-2024-energy/</link>
+      <link>http://localhost:1314/publication/gomez-2024-energy/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.com/publication/gomez-2024-energy/</guid>
+      <guid>http://localhost:1314/publication/gomez-2024-energy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OS-024 The gender-equity model for liver allocation built on artificial intelligence (GEMA-AI) improves outcome predictions among liver transplant candidates</title>
-      <link>https://dguijo.com/publication/rodriguez-2024024/</link>
+      <link>http://localhost:1314/publication/rodriguez-2024024/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.com/publication/rodriguez-2024024/</guid>
+      <guid>http://localhost:1314/publication/rodriguez-2024024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Medium-and Long-Term Wind Speed Prediction Using the Multi-task Learning Paradigm</title>
-      <link>https://dguijo.com/publication/gomez-2024-medium/</link>
+      <link>http://localhost:1314/publication/gomez-2024-medium/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.com/publication/gomez-2024-medium/</guid>
+      <guid>http://localhost:1314/publication/gomez-2024-medium/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Corrección de la disparidad de género en el acceso al trasplante hepático</title>
-      <link>https://dguijo.com/publication/gomez-2023-correccion/</link>
+      <link>http://localhost:1314/publication/gomez-2023-correccion/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.com/publication/gomez-2023-correccion/</guid>
+      <guid>http://localhost:1314/publication/gomez-2023-correccion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development and validation of the gender-equity model for liver allocation (GEMA) to prioritize liver transplant candidates</title>
-      <link>https://dguijo.com/publication/rodriguez-2022-development/</link>
+      <link>http://localhost:1314/publication/rodriguez-2022-development/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.com/publication/rodriguez-2022-development/</guid>
+      <guid>http://localhost:1314/publication/rodriguez-2022-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gamifying the Classroom for the Acquisition of Skills Associated with Machine Learning: A Two-Year Case Study</title>
-      <link>https://dguijo.com/publication/duran-2022-gamifying/</link>
+      <link>http://localhost:1314/publication/duran-2022-gamifying/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.com/publication/duran-2022-gamifying/</guid>
+      <guid>http://localhost:1314/publication/duran-2022-gamifying/</guid>
       <description></description>
     </item>
     

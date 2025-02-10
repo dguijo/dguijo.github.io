@@ -2,485 +2,485 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David Guijo-Rubio</title>
-    <link>/authors/david-guijo-rubio/</link>
-      <atom:link href="/authors/david-guijo-rubio/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/david-guijo-rubio/</link>
+      <atom:link href="//localhost:1313/authors/david-guijo-rubio/index.xml" rel="self" type="application/rss+xml" />
     <description>David Guijo-Rubio</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1314/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>David Guijo-Rubio</title>
-      <link>/authors/david-guijo-rubio/</link>
+      <link>//localhost:1313/authors/david-guijo-rubio/</link>
     </image>
     
     <item>
       <title>EBANO: A novel Ensemble BAsed on uNimodal Ordinal classifiers for the prediction of significant wave height</title>
-      <link>/publication/vargas-2024-ebano/</link>
+      <link>//localhost:1313/publication/vargas-2024-ebano/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/vargas-2024-ebano/</guid>
+      <guid>//localhost:1313/publication/vargas-2024-ebano/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ORFEO: Ordinal classifier and Regressor Fusion for Estimating an Ordinal categorical target</title>
-      <link>/publication/orellana-orfeo-24/</link>
+      <link>//localhost:1313/publication/orellana-orfeo-24/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/orellana-orfeo-24/</guid>
+      <guid>//localhost:1313/publication/orellana-orfeo-24/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Age Estimation Using Soft Labelling Ordinal Classification Approaches</title>
-      <link>/publication/vargas-2024-age/</link>
+      <link>//localhost:1313/publication/vargas-2024-age/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/vargas-2024-age/</guid>
+      <guid>//localhost:1313/publication/vargas-2024-age/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Energy Flux Prediction Using an Ordinal Soft Labelling Strategy</title>
-      <link>/publication/gomez-2024-energy/</link>
+      <link>//localhost:1313/publication/gomez-2024-energy/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/gomez-2024-energy/</guid>
+      <guid>//localhost:1313/publication/gomez-2024-energy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>O-Hydra: A Hybrid Convolutional and Dictionary-Based Approach to Time Series Ordinal Classification</title>
-      <link>/publication/ayllon-2024-ohydra/</link>
+      <link>//localhost:1313/publication/ayllon-2024-ohydra/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/ayllon-2024-ohydra/</guid>
+      <guid>//localhost:1313/publication/ayllon-2024-ohydra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OS-024 The gender-equity model for liver allocation built on artificial intelligence (GEMA-AI) improves outcome predictions among liver transplant candidates</title>
-      <link>/publication/rodriguez-2024024/</link>
+      <link>//localhost:1313/publication/rodriguez-2024024/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/rodriguez-2024024/</guid>
+      <guid>//localhost:1313/publication/rodriguez-2024024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unsupervised feature based algorithms for time series extrinsic regression</title>
-      <link>/publication/tser-david-2024/</link>
+      <link>//localhost:1313/publication/tser-david-2024/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/tser-david-2024/</guid>
+      <guid>//localhost:1313/publication/tser-david-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Augmentation Techniques for Extreme Wind Prediction Improvement</title>
-      <link>/publication/vega-2024-data/</link>
+      <link>//localhost:1313/publication/vega-2024-data/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/vega-2024-data/</guid>
+      <guid>//localhost:1313/publication/vega-2024-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Medium-and Long-Term Wind Speed Prediction Using the Multi-task Learning Paradigm</title>
-      <link>/publication/gomez-2024-medium/</link>
+      <link>//localhost:1313/publication/gomez-2024-medium/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/gomez-2024-medium/</guid>
+      <guid>//localhost:1313/publication/gomez-2024-medium/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Barycentre Averaging for the Move-Split-Merge Time Series Distance Measure</title>
-      <link>/publication/holder-2023-barycentre/</link>
+      <link>//localhost:1313/publication/holder-2023-barycentre/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/holder-2023-barycentre/</guid>
+      <guid>//localhost:1313/publication/holder-2023-barycentre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emparejamiento donante-receptor durante la donación en asistolia controlada con perfusión regional normotérmica: papel de los clasificadores de machine learning como modelos predictivos de la supervivencia del injerto</title>
-      <link>/publication/calleja-2023-emparejamiento/</link>
+      <link>//localhost:1313/publication/calleja-2023-emparejamiento/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/calleja-2023-emparejamiento/</guid>
+      <guid>//localhost:1313/publication/calleja-2023-emparejamiento/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generalised triangular distributions for ordinal deep learning: Novel proposal and optimisation</title>
-      <link>/publication/vargas-2023119606/</link>
+      <link>//localhost:1313/publication/vargas-2023119606/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/vargas-2023119606/</guid>
+      <guid>//localhost:1313/publication/vargas-2023119606/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Evolutionary Artificial Neural Network approach for spatio-temporal wave height time series reconstruction</title>
-      <link>/publication/guijorubio-2023110647/</link>
+      <link>//localhost:1313/publication/guijorubio-2023110647/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/guijorubio-2023110647/</guid>
+      <guid>//localhost:1313/publication/guijorubio-2023110647/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cluster analysis and forecasting of viruses incidence growth curves: Application to SARS-CoV-2</title>
-      <link>/publication/diaz-2023-cluster/</link>
+      <link>//localhost:1313/publication/diaz-2023-cluster/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/diaz-2023-cluster/</guid>
+      <guid>//localhost:1313/publication/diaz-2023-cluster/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Clustering Time Series with k-Medoids Based Algorithms</title>
-      <link>/publication/holder-2023-clustering/</link>
+      <link>//localhost:1313/publication/holder-2023-clustering/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/holder-2023-clustering/</guid>
+      <guid>//localhost:1313/publication/holder-2023-clustering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Dictionary-based approach to Time Series Ordinal Classification</title>
-      <link>/publication/ayllon-2023-dictionary/</link>
+      <link>//localhost:1313/publication/ayllon-2023-dictionary/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/ayllon-2023-dictionary/</guid>
+      <guid>//localhost:1313/publication/ayllon-2023-dictionary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gramian Angular and Markov Transition Fields Applied to Time Series Ordinal Classification</title>
-      <link>/publication/vargas-2023-gramian/</link>
+      <link>//localhost:1313/publication/vargas-2023-gramian/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/vargas-2023-gramian/</guid>
+      <guid>//localhost:1313/publication/vargas-2023-gramian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ordinal Classification Approach for Donor-Recipient Matching in Liver Transplantation with Circulatory Death Donors</title>
-      <link>/publication/rivera-2023-ordinal/</link>
+      <link>//localhost:1313/publication/rivera-2023-ordinal/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/rivera-2023-ordinal/</guid>
+      <guid>//localhost:1313/publication/rivera-2023-ordinal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Performance of the gender-equity model for liver allocation (GEMA-Na) within the first 30 and 60 days of listing</title>
-      <link>/publication/rodriguezperalvarez-2023-ilts/</link>
+      <link>//localhost:1313/publication/rodriguezperalvarez-2023-ilts/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/rodriguezperalvarez-2023-ilts/</guid>
+      <guid>//localhost:1313/publication/rodriguezperalvarez-2023-ilts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development and validation of the Gender-Equity Model for Liver Allocation (GEMA) to prioritise candidates for liver transplantation: a cohort study</title>
-      <link>/publication/rodriguezperalvarez-2022/</link>
+      <link>//localhost:1313/publication/rodriguezperalvarez-2022/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/rodriguezperalvarez-2022/</guid>
+      <guid>//localhost:1313/publication/rodriguezperalvarez-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One month in advance prediction of air temperature from Reanalysis data with eXplainable Artificial Intelligence techniques</title>
-      <link>/publication/gomez-2023-one/</link>
+      <link>//localhost:1313/publication/gomez-2023-one/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/gomez-2023-one/</guid>
+      <guid>//localhost:1313/publication/gomez-2023-one/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Utilidad del gender-equity model for liver allocation (GEMA) en un contexto de acortamiento de la lista de espera de trasplante hepático</title>
-      <link>/publication/rodriguezperalvarez-2023-aeeh/</link>
+      <link>//localhost:1313/publication/rodriguezperalvarez-2023-aeeh/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/rodriguezperalvarez-2023-aeeh/</guid>
+      <guid>//localhost:1313/publication/rodriguezperalvarez-2023-aeeh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning Applications in Real-World Time Series Problems</title>
-      <link>/publication/duran-2023-machine/</link>
+      <link>//localhost:1313/publication/duran-2023-machine/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/duran-2023-machine/</guid>
+      <guid>//localhost:1313/publication/duran-2023-machine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Corrección de la disparidad de género en el acceso al trasplante hepático</title>
-      <link>/publication/gomez-2023-correccion/</link>
+      <link>//localhost:1313/publication/gomez-2023-correccion/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/gomez-2023-correccion/</guid>
+      <guid>//localhost:1313/publication/gomez-2023-correccion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>COVID-19 contagion forecasting framework based on curve decomposition and evolutionary artificial neural networks: A case study in Andalusia, Spain</title>
-      <link>/publication/diazlozano-2022117977/</link>
+      <link>//localhost:1313/publication/diazlozano-2022117977/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/diazlozano-2022117977/</guid>
+      <guid>//localhost:1313/publication/diazlozano-2022117977/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hackathon en docencia: aprendizaje automático aplicado a Ciencias de la Vida</title>
-      <link>/publication/guijo-2022-hackathon/</link>
+      <link>//localhost:1313/publication/guijo-2022-hackathon/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-2022-hackathon/</guid>
+      <guid>//localhost:1313/publication/guijo-2022-hackathon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hackathon in Teaching: Applying Machine Learning to Life Sciences Tasks</title>
-      <link>/publication/guijo-2022-hackathonb/</link>
+      <link>//localhost:1313/publication/guijo-2022-hackathonb/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-2022-hackathonb/</guid>
+      <guid>//localhost:1313/publication/guijo-2022-hackathonb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development and validation of the gender-equity model for liver allocation (GEMA) to prioritize liver transplant candidates</title>
-      <link>/publication/rodriguez-2022-development/</link>
+      <link>//localhost:1313/publication/rodriguez-2022-development/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/rodriguez-2022-development/</guid>
+      <guid>//localhost:1313/publication/rodriguez-2022-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Clustering of COVID-19 Time Series Incidence Intensity in Andalusia, Spain</title>
-      <link>/publication/covid-19-m-diaz-2022/</link>
+      <link>//localhost:1313/publication/covid-19-m-diaz-2022/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/covid-19-m-diaz-2022/</guid>
+      <guid>//localhost:1313/publication/covid-19-m-diaz-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessing the Efficient Market Hypothesis for Cryptocurrencies with High-Frequency Data Using Time Series Classification</title>
-      <link>/publication/ayllon-2022-assessing/</link>
+      <link>//localhost:1313/publication/ayllon-2022-assessing/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/ayllon-2022-assessing/</guid>
+      <guid>//localhost:1313/publication/ayllon-2022-assessing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gamifying the Classroom for the Acquisition of Skills Associated with Machine Learning: A Two-Year Case Study</title>
-      <link>/publication/duran-2022-gamifying/</link>
+      <link>//localhost:1313/publication/duran-2022-gamifying/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/duran-2022-gamifying/</guid>
+      <guid>//localhost:1313/publication/duran-2022-gamifying/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simultaneous short-term significant wave height and energy flux prediction using zonal multi-task evolutionary artificial neural networks</title>
-      <link>/publication/renewable-energy-antonio/</link>
+      <link>//localhost:1313/publication/renewable-energy-antonio/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/renewable-energy-antonio/</guid>
+      <guid>//localhost:1313/publication/renewable-energy-antonio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time series clustering based on the characterisation of segment typologies</title>
-      <link>/publication/clustering-guijo-19/</link>
+      <link>//localhost:1313/publication/clustering-guijo-19/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/clustering-guijo-19/</guid>
+      <guid>//localhost:1313/publication/clustering-guijo-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Potenciando el perfil profesional Científico de Datos mediante dinámicas de competición</title>
-      <link>/publication/guijo-docencia-2021/</link>
+      <link>//localhost:1313/publication/guijo-docencia-2021/</link>
       <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-docencia-2021/</guid>
+      <guid>//localhost:1313/publication/guijo-docencia-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ReLU-based activations: analysis and experimental study for deep learning</title>
-      <link>/publication/relu-victor-caepia-2021/</link>
+      <link>//localhost:1313/publication/relu-victor-caepia-2021/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/relu-victor-caepia-2021/</guid>
+      <guid>//localhost:1313/publication/relu-victor-caepia-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Studying the effect of different Lp norms in the context of Time Series Ordinal Classification</title>
-      <link>/publication/guijo-caepia-2021/</link>
+      <link>//localhost:1313/publication/guijo-caepia-2021/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-caepia-2021/</guid>
+      <guid>//localhost:1313/publication/guijo-caepia-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enhancing the ORCA framework with a new Fuzzy Rule Base System implementation compatible with the JFML library</title>
-      <link>/publication/fuzzy-orca-2021/</link>
+      <link>//localhost:1313/publication/fuzzy-orca-2021/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/fuzzy-orca-2021/</guid>
+      <guid>//localhost:1313/publication/fuzzy-orca-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical methods versus machine learning techniques for donor-recipient matching in liver transplantation</title>
-      <link>/publication/plos-guijo-2021/</link>
+      <link>//localhost:1313/publication/plos-guijo-2021/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/plos-guijo-2021/</guid>
+      <guid>//localhost:1313/publication/plos-guijo-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolutionary artificial neural networks for accurate solar radiation prediction</title>
-      <link>/publication/solar-energy-guijo-2920/</link>
+      <link>//localhost:1313/publication/solar-energy-guijo-2920/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/solar-energy-guijo-2920/</guid>
+      <guid>//localhost:1313/publication/solar-energy-guijo-2920/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ordinal versus nominal time series classification</title>
-      <link>/publication/guijo-aaltd-2020/</link>
+      <link>//localhost:1313/publication/guijo-aaltd-2020/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-aaltd-2020/</guid>
+      <guid>//localhost:1313/publication/guijo-aaltd-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine learning methods in organ transplantation</title>
-      <link>/publication/coot-guijo-2020/</link>
+      <link>//localhost:1313/publication/coot-guijo-2020/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/coot-guijo-2020/</guid>
+      <guid>//localhost:1313/publication/coot-guijo-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time series ordinal classification via shapelets</title>
-      <link>/publication/ijcnn-guijo-2020/</link>
+      <link>//localhost:1313/publication/ijcnn-guijo-2020/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/ijcnn-guijo-2020/</guid>
+      <guid>//localhost:1313/publication/ijcnn-guijo-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ordinal regression algorithms for the analysis of convective situations over Madrid-Barajas airport</title>
-      <link>/publication/tormentas-barajas-2019-atmos/</link>
+      <link>//localhost:1313/publication/tormentas-barajas-2019-atmos/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/tormentas-barajas-2019-atmos/</guid>
+      <guid>//localhost:1313/publication/tormentas-barajas-2019-atmos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Validation of artificial neural networks to model the acoustic behaviour of induction motors</title>
-      <link>/publication/ap-acoustics-2020/</link>
+      <link>//localhost:1313/publication/ap-acoustics-2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/ap-acoustics-2020/</guid>
+      <guid>//localhost:1313/publication/ap-acoustics-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prediction of convective clouds formation using evolutionary neural computation techniques</title>
-      <link>/publication/ncaa-2020/</link>
+      <link>//localhost:1313/publication/ncaa-2020/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/ncaa-2020/</guid>
+      <guid>//localhost:1313/publication/ncaa-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Short- and long-term energy flux prediction using Multi-Task Evolutionary Artificial Neural Networks</title>
-      <link>/publication/ocean-engineering-guijo-2020/</link>
+      <link>//localhost:1313/publication/ocean-engineering-guijo-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/ocean-engineering-guijo-2020/</guid>
+      <guid>//localhost:1313/publication/ocean-engineering-guijo-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using machine learning methods to determine a typology of patients with HIV-HCV infection to be treated with antivirals</title>
-      <link>/publication/vih-ann-2020/</link>
+      <link>//localhost:1313/publication/vih-ann-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/vih-ann-2020/</guid>
+      <guid>//localhost:1313/publication/vih-ann-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A hybrid approach to time series classification with shapelets</title>
-      <link>/publication/guijo-shapelets-2019-ideal/</link>
+      <link>//localhost:1313/publication/guijo-shapelets-2019-ideal/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-shapelets-2019-ideal/</guid>
+      <guid>//localhost:1313/publication/guijo-shapelets-2019-ideal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelling survival by machine learning methods in liver transplantation: application to the UNOS dataset</title>
-      <link>/publication/ideal-guijo-2019/</link>
+      <link>//localhost:1313/publication/ideal-guijo-2019/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/ideal-guijo-2019/</guid>
+      <guid>//localhost:1313/publication/ideal-guijo-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicción de altura de ola mediante discretización basada en distribuciones utilizando clasificación ordinal</title>
-      <link>/publication/guijo-uco-2019/</link>
+      <link>//localhost:1313/publication/guijo-uco-2019/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-uco-2019/</guid>
+      <guid>//localhost:1313/publication/guijo-uco-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Validation of multitask artificial neural networks to model desiccant wheels activated at low temperature</title>
-      <link>/publication/comino-2019-validation/</link>
+      <link>//localhost:1313/publication/comino-2019-validation/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/comino-2019-validation/</guid>
+      <guid>//localhost:1313/publication/comino-2019-validation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prediction of low-visibility events due to fog using ordinal classification</title>
-      <link>/publication/guijo-2018-fog-ordinal/</link>
+      <link>//localhost:1313/publication/guijo-2018-fog-ordinal/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-2018-fog-ordinal/</guid>
+      <guid>//localhost:1313/publication/guijo-2018-fog-ordinal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distribution-Based Discretisation and Ordinal Classification Applied to Wave Height Prediction</title>
-      <link>/publication/guijo-ideal-2018/</link>
+      <link>//localhost:1313/publication/guijo-ideal-2018/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-ideal-2018/</guid>
+      <guid>//localhost:1313/publication/guijo-ideal-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time series clustering based on the characterisation of segment typologies</title>
-      <link>/publication/guijo-2018-time/</link>
+      <link>//localhost:1313/publication/guijo-2018-time/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-2018-time/</guid>
+      <guid>//localhost:1313/publication/guijo-2018-time/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Algoritmos de aprendizaje automático para predicción de niveles de niebla usando ventanas estáticas y dinámicas</title>
-      <link>/publication/diaz-caepia-2018/</link>
+      <link>//localhost:1313/publication/diaz-caepia-2018/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/diaz-caepia-2018/</guid>
+      <guid>//localhost:1313/publication/diaz-caepia-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hybrid Weighted Barebones Exploiting Particle Swarm Optimization Algorithm for Time Series Representation</title>
-      <link>/publication/duran-2018-bioma/</link>
+      <link>//localhost:1313/publication/duran-2018-bioma/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/duran-2018-bioma/</guid>
+      <guid>//localhost:1313/publication/duran-2018-bioma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A coral reef optimization algorithm for wave height time series segmentation problems </title>
-      <link>/publication/duran-rosal-2017/</link>
+      <link>//localhost:1313/publication/duran-rosal-2017/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/duran-rosal-2017/</guid>
+      <guid>//localhost:1313/publication/duran-rosal-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Clustering de Series Temporales basado en la Extracción de Tipologías de Segmentos</title>
-      <link>/publication/guijo-jovenes-uco-16/</link>
+      <link>//localhost:1313/publication/guijo-jovenes-uco-16/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/guijo-jovenes-uco-16/</guid>
+      <guid>//localhost:1313/publication/guijo-jovenes-uco-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiclass Prediction of Wind Power Ramp Events Combining Reservoir Computing and Support Vector Machines</title>
-      <link>/publication/manolo-2016-caepia/</link>
+      <link>//localhost:1313/publication/manolo-2016-caepia/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/manolo-2016-caepia/</guid>
+      <guid>//localhost:1313/publication/manolo-2016-caepia/</guid>
       <description></description>
     </item>
     

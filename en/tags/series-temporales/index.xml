@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series Temporales | David Guijo-Rubio</title>
-    <link>https://dguijo.com/tags/series-temporales/</link>
-      <atom:link href="https://dguijo.com/tags/series-temporales/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1314/tags/series-temporales/</link>
+      <atom:link href="http://localhost:1314/tags/series-temporales/index.xml" rel="self" type="application/rss+xml" />
     <description>Series Temporales</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1314/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Series Temporales</title>
-      <link>https://dguijo.com/tags/series-temporales/</link>
+      <link>http://localhost:1314/tags/series-temporales/</link>
     </image>
     
     <item>
       <title>Algoritmos de aprendizaje automático para predicción de niveles de niebla usando ventanas estáticas y dinámicas</title>
-      <link>https://dguijo.com/publication/diaz-caepia-2018/</link>
+      <link>http://localhost:1314/publication/diaz-caepia-2018/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.com/publication/diaz-caepia-2018/</guid>
+      <guid>http://localhost:1314/publication/diaz-caepia-2018/</guid>
       <description></description>
     </item>
     

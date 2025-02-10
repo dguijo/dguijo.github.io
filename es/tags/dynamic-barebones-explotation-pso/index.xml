@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dynamic Barebones Explotation PSO | David Guijo-Rubio</title>
-    <link>/tags/dynamic-barebones-explotation-pso/</link>
-      <atom:link href="/tags/dynamic-barebones-explotation-pso/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/tags/dynamic-barebones-explotation-pso/</link>
+      <atom:link href="//localhost:1313/tags/dynamic-barebones-explotation-pso/index.xml" rel="self" type="application/rss+xml" />
     <description>Dynamic Barebones Explotation PSO</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>spanish</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1314/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Dynamic Barebones Explotation PSO</title>
-      <link>/tags/dynamic-barebones-explotation-pso/</link>
+      <link>//localhost:1313/tags/dynamic-barebones-explotation-pso/</link>
     </image>
     
     <item>
       <title>Generalised triangular distributions for ordinal deep learning: Novel proposal and optimisation</title>
-      <link>/publication/vargas-2023119606/</link>
+      <link>//localhost:1313/publication/vargas-2023119606/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/vargas-2023119606/</guid>
+      <guid>//localhost:1313/publication/vargas-2023119606/</guid>
       <description></description>
     </item>
     

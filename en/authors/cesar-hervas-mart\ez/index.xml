@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>César Hervás-Mart\&#39;éz | David Guijo-Rubio</title>
-    <link>https://dguijo.com/authors/cesar-hervas-mart%5Cez/</link>
-      <atom:link href="https://dguijo.com/authors/cesar-hervas-mart%5Cez/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1314/authors/cesar-hervas-mart%5Cez/</link>
+      <atom:link href="http://localhost:1314/authors/cesar-hervas-mart%5Cez/index.xml" rel="self" type="application/rss+xml" />
     <description>César Hervás-Mart\&#39;éz</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1314/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>César Hervás-Mart\&#39;éz</title>
-      <link>https://dguijo.com/authors/cesar-hervas-mart%5Cez/</link>
+      <link>http://localhost:1314/authors/cesar-hervas-mart%5Cez/</link>
     </image>
     
     <item>
       <title>Corrección de la disparidad de género en el acceso al trasplante hepático</title>
-      <link>https://dguijo.com/publication/gomez-2023-correccion/</link>
+      <link>http://localhost:1314/publication/gomez-2023-correccion/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.com/publication/gomez-2023-correccion/</guid>
+      <guid>http://localhost:1314/publication/gomez-2023-correccion/</guid>
       <description></description>
     </item>
     

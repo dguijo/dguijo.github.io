@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Significant Wave Height | David Guijo-Rubio</title>
-    <link>https://dguijo.com/tags/significant-wave-height/</link>
-      <atom:link href="https://dguijo.com/tags/significant-wave-height/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1314/tags/significant-wave-height/</link>
+      <atom:link href="http://localhost:1314/tags/significant-wave-height/index.xml" rel="self" type="application/rss+xml" />
     <description>Significant Wave Height</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1314/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Significant Wave Height</title>
-      <link>https://dguijo.com/tags/significant-wave-height/</link>
+      <link>http://localhost:1314/tags/significant-wave-height/</link>
     </image>
     
     <item>
       <title>ORFEO: Ordinal classifier and Regressor Fusion for Estimating an Ordinal categorical target</title>
-      <link>https://dguijo.com/publication/orellana-orfeo-24/</link>
+      <link>http://localhost:1314/publication/orellana-orfeo-24/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.com/publication/orellana-orfeo-24/</guid>
+      <guid>http://localhost:1314/publication/orellana-orfeo-24/</guid>
       <description></description>
     </item>
     
