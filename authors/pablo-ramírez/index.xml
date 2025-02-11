@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pablo Ramírez | David Guijo-Rubio</title>
+    <link>https://dguijo.com/authors/pablo-ram%C3%ADrez/</link>
+      <atom:link href="https://dguijo.com/authors/pablo-ram%C3%ADrez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pablo Ramírez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <title>Pablo Ramírez</title>
+      <link>https://dguijo.com/authors/pablo-ram%C3%ADrez/</link>
+    </image>
+    
+    <item>
+      <title>Machine Learning Algorithms in Controlled Donation After Circulatory Death Under Normothermic Regional Perfusion: A Graft Survival Prediction Model</title>
+      <link>https://dguijo.com/publication/callejamachine/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/callejamachine/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

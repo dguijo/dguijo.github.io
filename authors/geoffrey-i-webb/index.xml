@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geoffrey I Webb | David Guijo-Rubio</title>
+    <link>https://dguijo.com/authors/geoffrey-i-webb/</link>
+      <atom:link href="https://dguijo.com/authors/geoffrey-i-webb/index.xml" rel="self" type="application/rss+xml" />
+    <description>Geoffrey I Webb</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
+      <title>Geoffrey I Webb</title>
+      <link>https://dguijo.com/authors/geoffrey-i-webb/</link>
+    </image>
+    
+    <item>
+      <title>A hands-on introduction to time series classification and regression</title>
+      <link>https://dguijo.com/publication/bagnall-2024-hands/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/bagnall-2024-hands/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,21 @@
     <link>https://dguijo.com/authors/michael-bailey/</link>
       <atom:link href="https://dguijo.com/authors/michael-bailey/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael Bailey</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Michael Bailey</title>
       <link>https://dguijo.com/authors/michael-bailey/</link>
     </image>
+    
+    <item>
+      <title>Explainable artificial neural networks improve the performance of the Gender-Equity Model for liver Allocation (GEMA) to prioritize candidates for liver transplantation</title>
+      <link>https://dguijo.com/publication/rodriguezperalvarez-2024-ilts/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/rodriguezperalvarez-2024-ilts/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Performance of the gender-equity model for liver allocation (GEMA-Na) within the first 30 and 60 days of listing</title>

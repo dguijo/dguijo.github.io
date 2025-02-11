@@ -5,12 +5,21 @@
     <link>https://dguijo.com/authors/c%C3%A9sar-herv%C3%A1s-mart%C4%B1%CC%81nez/</link>
       <atom:link href="https://dguijo.com/authors/c%C3%A9sar-herv%C3%A1s-mart%C4%B1%CC%81nez/index.xml" rel="self" type="application/rss+xml" />
     <description>César Hervás-Martı́nez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>César Hervás-Martı́nez</title>
       <link>https://dguijo.com/authors/c%C3%A9sar-herv%C3%A1s-mart%C4%B1%CC%81nez/</link>
     </image>
+    
+    <item>
+      <title>Convolutional-and Deep Learning-Based Techniques for Time Series Ordinal Classification</title>
+      <link>https://dguijo.com/publication/ayllon-2024-convolutional/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/ayllon-2024-convolutional/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>O-Hydra: A Hybrid Convolutional and Dictionary-Based Approach to Time Series Ordinal Classification</title>

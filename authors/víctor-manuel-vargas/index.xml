@@ -5,12 +5,21 @@
     <link>https://dguijo.com/authors/v%C3%ADctor-manuel-vargas/</link>
       <atom:link href="https://dguijo.com/authors/v%C3%ADctor-manuel-vargas/index.xml" rel="self" type="application/rss+xml" />
     <description>Víctor Manuel Vargas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Víctor Manuel Vargas</title>
       <link>https://dguijo.com/authors/v%C3%ADctor-manuel-vargas/</link>
     </image>
+    
+    <item>
+      <title>Fuzzy-based ensemble methodology for accurate long-term prediction and interpretation of extreme significant wave height events</title>
+      <link>https://dguijo.com/publication/pelaez-2024-fuzzy/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/pelaez-2024-fuzzy/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>ORFEO: Ordinal classifier and Regressor Fusion for Estimating an Ordinal categorical target</title>

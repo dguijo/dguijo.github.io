@@ -5,12 +5,21 @@
     <link>https://dguijo.com/publication_types/1/</link>
       <atom:link href="https://dguijo.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://dguijo.com/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>A hands-on introduction to time series classification and regression</title>
+      <link>https://dguijo.com/publication/bagnall-2024-hands/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/bagnall-2024-hands/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Age Estimation Using Soft Labelling Ordinal Classification Approaches</title>
@@ -42,6 +51,15 @@
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://dguijo.com/publication/rodriguez-2024024/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Explainable artificial neural networks improve the performance of the Gender-Equity Model for liver Allocation (GEMA) to prioritize candidates for liver transplantation</title>
+      <link>https://dguijo.com/publication/rodriguezperalvarez-2024-ilts/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/rodriguezperalvarez-2024-ilts/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>

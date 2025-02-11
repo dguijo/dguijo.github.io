@@ -5,7 +5,7 @@
     <link>https://dguijo.com/authors/david-guijo-rubio/</link>
       <atom:link href="https://dguijo.com/authors/david-guijo-rubio/index.xml" rel="self" type="application/rss+xml" />
     <description>David Guijo-Rubio</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>David Guijo-Rubio</title>
@@ -13,11 +13,47 @@
     </image>
     
     <item>
+      <title>Machine Learning Algorithms in Controlled Donation After Circulatory Death Under Normothermic Regional Perfusion: A Graft Survival Prediction Model</title>
+      <link>https://dguijo.com/publication/callejamachine/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/callejamachine/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>dlordinal: A Python package for deep ordinal classification</title>
       <link>https://dguijo.com/publication/berchez-2025-dlordinal/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://dguijo.com/publication/berchez-2025-dlordinal/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Gender-Equity Model for Liver Allocation using Artificial Intelligence (GEMA-AI) for waiting list liver transplant prioritization</title>
+      <link>https://dguijo.com/publication/gomez-2025-gender/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/gomez-2025-gender/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Convolutional-and Deep Learning-Based Techniques for Time Series Ordinal Classification</title>
+      <link>https://dguijo.com/publication/ayllon-2024-convolutional/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/ayllon-2024-convolutional/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fuzzy-based ensemble methodology for accurate long-term prediction and interpretation of extreme significant wave height events</title>
+      <link>https://dguijo.com/publication/pelaez-2024-fuzzy/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/pelaez-2024-fuzzy/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -35,6 +71,15 @@
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://dguijo.com/publication/vargas-2024-ebano/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>A hands-on introduction to time series classification and regression</title>
+      <link>https://dguijo.com/publication/bagnall-2024-hands/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/bagnall-2024-hands/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -74,6 +119,23 @@
       <link>https://dguijo.com/publication/rodriguez-2024024/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://dguijo.com/publication/rodriguez-2024024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explainable artificial neural networks improve the performance of the Gender-Equity Model for liver Allocation (GEMA) to prioritize candidates for liver transplantation</title>
+      <link>https://dguijo.com/publication/rodriguezperalvarez-2024-ilts/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/rodriguezperalvarez-2024-ilts/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predicción a corto plazo de la energía undimotriz mediante un enfoque ordinal de etiquetado suave</title>
+      <link>https://dguijo.com/publication/gomez-uco-2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/gomez-uco-2024/</guid>
       <description></description>
     </item>
     

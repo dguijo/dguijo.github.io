@@ -5,12 +5,30 @@
     <link>https://dguijo.com/authors/anthony-bagnall/</link>
       <atom:link href="https://dguijo.com/authors/anthony-bagnall/index.xml" rel="self" type="application/rss+xml" />
     <description>Anthony Bagnall</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Anthony Bagnall</title>
       <link>https://dguijo.com/authors/anthony-bagnall/</link>
     </image>
+    
+    <item>
+      <title>Convolutional-and Deep Learning-Based Techniques for Time Series Ordinal Classification</title>
+      <link>https://dguijo.com/publication/ayllon-2024-convolutional/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/ayllon-2024-convolutional/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A hands-on introduction to time series classification and regression</title>
+      <link>https://dguijo.com/publication/bagnall-2024-hands/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/bagnall-2024-hands/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Unsupervised feature based algorithms for time series extrinsic regression</title>
