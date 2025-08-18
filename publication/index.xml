@@ -5,12 +5,44 @@
     <link>https://dguijo.com/publication/</link>
       <atom:link href="https://dguijo.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://dguijo.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Splitting criteria for ordinal decision trees: an experimental study</title>
+      <link>https://dguijo.com/publication/ayllon-2025-splitting/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/ayllon-2025-splitting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Resilience to Wind Extremes: An AI-Driven Approach</title>
+      <link>https://dguijo.com/publication/cornejo-wind-2025/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/cornejo-wind-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneous multi-step wind speed prediction on multiple farms using multi-task deep learning</title>
+      <link>https://dguijo.com/publication/ayllon-2025-simultaneous/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/ayllon-2025-simultaneous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wind speed prediction using ordinal classification: an analysis of extreme values</title>
+      <link>https://dguijo.com/publication/guijo-wind-2025/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/guijo-wind-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Machine Learning Algorithms in Controlled Donation After Circulatory Death Under Normothermic Regional Perfusion: A Graft Survival Prediction Model</title>
@@ -321,14 +353,6 @@
       <link>https://dguijo.com/publication/covid-19-m-diaz-2022/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <guid>https://dguijo.com/publication/covid-19-m-diaz-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Assessing the Efficient Market Hypothesis for Cryptocurrencies with High-Frequency Data Using Time Series Classification</title>
-      <link>https://dguijo.com/publication/ayllon-2022-assessing/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://dguijo.com/publication/ayllon-2022-assessing/</guid>
       <description></description>
     </item>
     
