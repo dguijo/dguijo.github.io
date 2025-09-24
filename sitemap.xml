@@ -11,11 +11,11 @@
     <loc>https://dguijo.com/authors/c%C3%A9sar-herv%C3%A1s-mart%C3%ADnez/</loc>
     <lastmod>2025-08-18T14:02:11+02:00</lastmod>
   </url><url>
-    <loc>https://dguijo.com/authors/david-guijo-rubio/</loc>
-    <lastmod>2025-08-18T14:02:11+02:00</lastmod>
-  </url><url>
     <loc>https://dguijo.com/</loc>
     <lastmod>2025-08-28T10:36:30+02:00</lastmod>
+  </url><url>
+    <loc>https://dguijo.com/authors/david-guijo-rubio/</loc>
+    <lastmod>2025-08-18T14:02:11+02:00</lastmod>
   </url><url>
     <loc>https://dguijo.com/authors/francisco-jos%C3%A9-mart%C3%ADnez-estudillo/</loc>
     <lastmod>2025-08-18T13:35:33+02:00</lastmod>
@@ -74,10 +74,10 @@
     <loc>https://dguijo.com/authors/antonio-manuel-g%C3%B3mez-orellana/</loc>
     <lastmod>2025-08-18T13:44:09+02:00</lastmod>
   </url><url>
-    <loc>https://dguijo.com/authors/cosmin-marina/</loc>
+    <loc>https://dguijo.com/authors/c%C3%A9sar-pel%C3%A1ez-rodr%C3%ADguez/</loc>
     <lastmod>2025-08-18T13:55:36+02:00</lastmod>
   </url><url>
-    <loc>https://dguijo.com/authors/c%C3%A9sar-pel%C3%A1ez-rodr%C3%ADguez/</loc>
+    <loc>https://dguijo.com/authors/cosmin-marina/</loc>
     <lastmod>2025-08-18T13:55:36+02:00</lastmod>
   </url><url>
     <loc>https://dguijo.com/authors/francisco-moreno-cano/</loc>
@@ -110,7 +110,7 @@
     <loc>https://dguijo.com/publication/guijo-wind-2025/</loc>
     <lastmod>2025-08-18T14:02:11+02:00</lastmod>
   </url><url>
-    <loc>https://dguijo.com/authors/others/</loc>
+    <loc>https://dguijo.com/authors/-others/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dguijo.com/authors/alejandra-otero/</loc>
@@ -176,10 +176,10 @@
     <loc>https://dguijo.com/authors/anthony-bagnall/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dguijo.com/publication/ayllon-2024-convolutional/</loc>
+    <loc>https://dguijo.com/authors/c%C3%A9sar-herv%C3%A1s-mart%C4%B1%CC%81nez/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dguijo.com/authors/c%C3%A9sar-herv%C3%A1s-mart%C4%B1%CC%81nez/</loc>
+    <loc>https://dguijo.com/publication/ayllon-2024-convolutional/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dguijo.com/publication/pelaez-2024-fuzzy/</loc>
@@ -269,9 +269,6 @@
     <loc>https://dguijo.com/authors/teresa-pascual-vicente/</loc>
     <lastmod>2024-07-22T19:14:07+02:00</lastmod>
   </url><url>
-    <loc>https://dguijo.com/tags/ordinal-classification/</loc>
-    <lastmod>2024-05-20T10:55:09+02:00</lastmod>
-  </url><url>
     <loc>https://dguijo.com/tags/cumulative-link-models/</loc>
     <lastmod>2024-05-20T10:55:09+02:00</lastmod>
   </url><url>
@@ -282,6 +279,9 @@
     <lastmod>2024-05-20T10:55:09+02:00</lastmod>
   </url><url>
     <loc>https://dguijo.com/tags/neural-networks/</loc>
+    <lastmod>2024-05-20T10:55:09+02:00</lastmod>
+  </url><url>
+    <loc>https://dguijo.com/tags/ordinal-classification/</loc>
     <lastmod>2024-05-20T10:55:09+02:00</lastmod>
   </url><url>
     <loc>https://dguijo.com/publication/orellana-orfeo-24/</loc>
@@ -380,11 +380,8 @@
     <loc>https://dguijo.com/authors/v%C3%ADctor-manuel-vargas-yun/</loc>
     <lastmod>2024-07-22T19:06:13+02:00</lastmod>
   </url><url>
-    <loc>https://dguijo.com/authors/l%C3%A1nder-atutxa/</loc>
+    <loc>https://dguijo.com/authors/-l%C3%A1nder-atutxa/</loc>
     <lastmod>2023-12-30T09:22:30+01:00</lastmod>
-  </url><url>
-    <loc>https://dguijo.com/tags/deep-learning/</loc>
-    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
   </url><url>
     <loc>https://dguijo.com/authors/amelia-j.-hessheimer/</loc>
     <lastmod>2023-12-30T09:22:30+01:00</lastmod>
@@ -392,13 +389,13 @@
     <loc>https://dguijo.com/authors/antonio-manuel-dur%C3%A1n-rosal/</loc>
     <lastmod>2023-10-07T16:43:02+02:00</lastmod>
   </url><url>
+    <loc>https://dguijo.com/authors/b%C3%A1rbara-vidal/</loc>
+    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+  </url><url>
     <loc>https://dguijo.com/publication/holder-2023-barycentre/</loc>
     <lastmod>2023-12-30T09:05:52+01:00</lastmod>
   </url><url>
     <loc>https://dguijo.com/authors/beatriz-dom%C3%ADnguez-gil/</loc>
-    <lastmod>2023-12-30T09:22:30+01:00</lastmod>
-  </url><url>
-    <loc>https://dguijo.com/authors/b%C3%A1rbara-vidal/</loc>
     <lastmod>2023-12-30T09:22:30+01:00</lastmod>
   </url><url>
     <loc>https://dguijo.com/authors/carlos-jim%C3%A9nez-romero/</loc>
@@ -412,6 +409,9 @@
   </url><url>
     <loc>https://dguijo.com/authors/david-pacheco-s%C3%A1nchez/</loc>
     <lastmod>2023-12-30T09:22:30+01:00</lastmod>
+  </url><url>
+    <loc>https://dguijo.com/tags/deep-learning/</loc>
+    <lastmod>2023-09-10T12:20:21+02:00</lastmod>
   </url><url>
     <loc>https://dguijo.com/tags/dynamic-barebones-explotation-pso/</loc>
     <lastmod>2023-09-10T12:20:21+02:00</lastmod>
@@ -449,10 +449,10 @@
     <loc>https://dguijo.com/authors/jes%C3%BAs-mar%C3%ADa-villar-del-moral/</loc>
     <lastmod>2023-12-30T09:22:30+01:00</lastmod>
   </url><url>
-    <loc>https://dguijo.com/authors/jos%C3%A9-rold%C3%A1n/</loc>
+    <loc>https://dguijo.com/authors/jos%C3%A9-%C3%A1ngel-l%C3%B3pez-baena/</loc>
     <lastmod>2023-12-30T09:22:30+01:00</lastmod>
   </url><url>
-    <loc>https://dguijo.com/authors/jos%C3%A9-%C3%A1ngel-l%C3%B3pez-baena/</loc>
+    <loc>https://dguijo.com/authors/jos%C3%A9-rold%C3%A1n/</loc>
     <lastmod>2023-12-30T09:22:30+01:00</lastmod>
   </url><url>
     <loc>https://dguijo.com/authors/juan-carlos-rodr%C3%ADguez-san-juan/</loc>
@@ -557,10 +557,10 @@
     <loc>https://dguijo.com/publication/duran-2023-machine/</loc>
     <lastmod>2023-10-07T16:32:57+02:00</lastmod>
   </url><url>
-    <loc>https://dguijo.com/publication/gomez-2023-correccion/</loc>
+    <loc>https://dguijo.com/authors/c%C3%A9sar-herv%C3%A1s-mart%5C%C3%A9z/</loc>
     <lastmod>2023-12-30T08:54:57+01:00</lastmod>
   </url><url>
-    <loc>https://dguijo.com/authors/c%C3%A9sar-herv%C3%A1s-mart%5C%C3%A9z/</loc>
+    <loc>https://dguijo.com/publication/gomez-2023-correccion/</loc>
     <lastmod>2023-12-30T08:54:57+01:00</lastmod>
   </url><url>
     <loc>https://dguijo.com/authors/manuel-lu%5C%C5%9B-rodr%C3%ADguez-per%C3%A1lvarez/</loc>
@@ -677,6 +677,9 @@
     <loc>https://dguijo.com/tags/analysis-activations/</loc>
     <lastmod>2021-05-24T10:15:44+02:00</lastmod>
   </url><url>
+    <loc>https://dguijo.com/tags/deep-learning/</loc>
+    <lastmod>2021-05-24T10:15:44+02:00</lastmod>
+  </url><url>
     <loc>https://dguijo.com/tags/l1/</loc>
     <lastmod>2021-05-24T10:30:21+02:00</lastmod>
   </url><url>
@@ -686,11 +689,17 @@
     <loc>https://dguijo.com/tags/lp-norms/</loc>
     <lastmod>2021-05-24T10:30:21+02:00</lastmod>
   </url><url>
+    <loc>https://dguijo.com/tags/ordinal-classification/</loc>
+    <lastmod>2021-05-24T10:30:21+02:00</lastmod>
+  </url><url>
     <loc>https://dguijo.com/tags/relu-activations/</loc>
     <lastmod>2021-05-24T10:15:44+02:00</lastmod>
   </url><url>
     <loc>https://dguijo.com/tags/relu/</loc>
     <lastmod>2021-05-24T10:15:44+02:00</lastmod>
+  </url><url>
+    <loc>https://dguijo.com/tags/time-series/</loc>
+    <lastmod>2021-05-24T10:30:21+02:00</lastmod>
   </url><url>
     <loc>https://dguijo.com/tags/tsoc/</loc>
     <lastmod>2021-05-24T10:30:21+02:00</lastmod>
@@ -731,10 +740,16 @@
     <loc>https://dguijo.com/tags/donor-recipient-matching/</loc>
     <lastmod>2021-05-24T10:17:15+02:00</lastmod>
   </url><url>
+    <loc>https://dguijo.com/tags/liver-transplant/</loc>
+    <lastmod>2021-05-24T10:17:15+02:00</lastmod>
+  </url><url>
     <loc>https://dguijo.com/tags/liver-transplantation/</loc>
     <lastmod>2021-05-24T10:17:15+02:00</lastmod>
   </url><url>
     <loc>https://dguijo.com/tags/liver/</loc>
+    <lastmod>2021-05-24T10:17:15+02:00</lastmod>
+  </url><url>
+    <loc>https://dguijo.com/tags/machine-learning/</loc>
     <lastmod>2021-05-24T10:17:15+02:00</lastmod>
   </url><url>
     <loc>https://dguijo.com/tags/statistical-techniques/</loc>
@@ -743,13 +758,10 @@
     <loc>https://dguijo.com/tags/transplantation/</loc>
     <lastmod>2021-05-24T10:17:15+02:00</lastmod>
   </url><url>
+    <loc>https://dguijo.com/tags/unos-database/</loc>
+    <lastmod>2021-05-24T10:17:15+02:00</lastmod>
+  </url><url>
     <loc>https://dguijo.com/tags/unos/</loc>
-    <lastmod>2021-05-24T10:17:15+02:00</lastmod>
-  </url><url>
-    <loc>https://dguijo.com/tags/liver-transplant/</loc>
-    <lastmod>2021-05-24T10:17:15+02:00</lastmod>
-  </url><url>
-    <loc>https://dguijo.com/tags/machine-learning/</loc>
     <lastmod>2021-05-24T10:17:15+02:00</lastmod>
   </url><url>
     <loc>https://dguijo.com/authors/maria-dolores-ayll%C3%B3n/</loc>
@@ -759,9 +771,6 @@
     <lastmod>2021-05-24T10:17:15+02:00</lastmod>
   </url><url>
     <loc>https://dguijo.com/publication/plos-guijo-2021/</loc>
-    <lastmod>2021-05-24T10:17:15+02:00</lastmod>
-  </url><url>
-    <loc>https://dguijo.com/tags/unos-database/</loc>
     <lastmod>2021-05-24T10:17:15+02:00</lastmod>
   </url><url>
     <loc>https://dguijo.com/authors/carlos-casanova-mateo/</loc>
@@ -785,10 +794,19 @@
     <loc>https://dguijo.com/publication/guijo-aaltd-2020/</loc>
     <lastmod>2021-04-28T14:24:56+02:00</lastmod>
   </url><url>
+    <loc>https://dguijo.com/tags/liver-transplant/</loc>
+    <lastmod>2021-04-28T11:37:52+02:00</lastmod>
+  </url><url>
+    <loc>https://dguijo.com/tags/machine-learning/</loc>
+    <lastmod>2021-04-28T11:37:52+02:00</lastmod>
+  </url><url>
     <loc>https://dguijo.com/publication/coot-guijo-2020/</loc>
     <lastmod>2021-04-28T11:37:52+02:00</lastmod>
   </url><url>
     <loc>https://dguijo.com/tags/organ-transplantation/</loc>
+    <lastmod>2021-04-28T11:37:52+02:00</lastmod>
+  </url><url>
+    <loc>https://dguijo.com/tags/unos-database/</loc>
     <lastmod>2021-04-28T11:37:52+02:00</lastmod>
   </url><url>
     <loc>https://dguijo.com/publication/ijcnn-guijo-2020/</loc>
@@ -978,6 +996,8 @@
     <lastmod>2021-04-28T14:24:58+02:00</lastmod>
   </url><url>
     <loc>https://dguijo.com/authors/admin/</loc>
+  </url><url>
+    <loc>https://dguijo.com/publication/ayllon-2022-assessing/</loc>
   </url><url>
     <loc>https://dguijo.com/categories/</loc>
   </url><url>

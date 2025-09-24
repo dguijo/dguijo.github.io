@@ -596,5 +596,1083 @@
       <description></description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://dguijo.com/publication/ayllon-2022-assessing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/ayllon-2022-assessing/</guid>
+      <description>&lt;!DOCTYPE html&gt;&lt;html lang=&#34;en-us&#34; &gt;
+
+&lt;head&gt;
+
+  &lt;meta charset=&#34;utf-8&#34;&gt;
+  &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&gt;
+  &lt;meta http-equiv=&#34;X-UA-Compatible&#34; content=&#34;IE=edge&#34;&gt;
+  &lt;meta name=&#34;generator&#34; content=&#34;Source Themes Academic 4.8.0&#34;&gt;
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  &lt;meta name=&#34;description&#34; content=&#34;This work analyzes the performance of several state-of-the-art Time Series Classification (TSC) techniques in the cryptocurrency returns modeling field. The data used in this study comprehends the close price of 6 of the principal cryptocurrencies, collected with a frequency of 5 minutes from January 1st to September 21th of 2021. The aim of this work is twofold: 1) to study the weak form of the Efficient Market Hypothesis (EMH) and 2) to examine the veracity behind the theory of the Random Walk Model (RWM). For this, two datasets are built. The first uses autoregressive values, whereas the second dataset is constructed by introducing randomized past values from the time series. Then, a comparison of the performances achieved by the different TSC techniques is carried out. Results obtained show a pronounced difference in terms of performance obtained by all the TSC models when applied to the original dataset against the randomized one. The results achieved by the models applied to the original dataset are significantly better in terms of Area Under ROC Curve (AUC) and Recall. Therefore, the EMH is refused in its weak form, and indisputable evidence against the RWM in a high-frequency scope is provided.&#34;&gt;
+
+  
+  &lt;link rel=&#34;alternate&#34; hreflang=&#34;en-us&#34; href=&#34;https://dguijo.com/publication/ayllon-2022-assessing/&#34;&gt;
+
+  
+
+
+  
+  
+  
+  &lt;meta name=&#34;theme-color&#34; content=&#34;hsl(339, 90%, 68%)&#34;&gt;
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css&#34; integrity=&#34;sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=&#34; crossorigin=&#34;anonymous&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css&#34; integrity=&#34;sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=&#34; crossorigin=&#34;anonymous&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css&#34; integrity=&#34;sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=&#34; crossorigin=&#34;anonymous&#34;&gt;
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css&#34; crossorigin=&#34;anonymous&#34; title=&#34;hl-light&#34; disabled&gt;
+          &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css&#34; crossorigin=&#34;anonymous&#34; title=&#34;hl-dark&#34;&gt;
+        
+      
+    
+
+    
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css&#34; integrity=&#34;sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=&#34; crossorigin=&#34;anonymous&#34;&gt;
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js&#34; integrity=&#34;sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=&#34; crossorigin=&#34;anonymous&#34; async&gt;&lt;/script&gt;
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  &lt;link rel=&#34;stylesheet&#34; href=&#34;https://fonts.googleapis.com/css?family=Lato:400,700%7CRoboto%7CRoboto+Mono&amp;display=swap&#34;&gt;
+  
+
+  
+  
+  
+  
+  &lt;link rel=&#34;stylesheet&#34; href=&#34;https://dguijo.com/css/academic.css&#34;&gt;
+
+  
+
+
+
+
+
+&lt;script async src=&#34;https://www.googletagmanager.com/gtag/js?id=UA-271170290-1&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag(&#39;event&#39;, &#39;click&#39;, {
+         &#39;event_category&#39;: &#39;outbound&#39;,
+         &#39;event_label&#39;: url,
+         &#39;transport_type&#39;: &#39;beacon&#39;,
+         &#39;event_callback&#39;: function () {
+           if (target !== &#39;_blank&#39;) {
+             document.location = url;
+           }
+         }
+    });
+    console.debug(&#34;Outbound link clicked: &#34; + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== &#39;A&#39;) || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute(&#39;target&#39;));  
+  }
+
+  gtag(&#39;js&#39;, new Date());
+  gtag(&#39;config&#39;, &#39;UA-271170290-1&#39;, {});
+
+  
+  document.addEventListener(&#39;click&#39;, onClickCallback, false);
+&lt;/script&gt;
+
+
+  
+
+
+  
+  
+
+  
+
+  &lt;link rel=&#34;manifest&#34; href=&#34;https://dguijo.com/index.webmanifest&#34;&gt;
+  &lt;link rel=&#34;icon&#34; type=&#34;image/png&#34; href=&#34;https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_32x32_fill_lanczos_center_3.png&#34;&gt;
+  &lt;link rel=&#34;apple-touch-icon&#34; type=&#34;image/png&#34; href=&#34;https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_192x192_fill_lanczos_center_3.png&#34;&gt;
+
+  &lt;link rel=&#34;canonical&#34; href=&#34;https://dguijo.com/publication/ayllon-2022-assessing/&#34;&gt;
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  &lt;meta property=&#34;twitter:card&#34; content=&#34;summary&#34;&gt;
+  
+  &lt;meta property=&#34;og:site_name&#34; content=&#34;David Guijo-Rubio&#34;&gt;
+  &lt;meta property=&#34;og:url&#34; content=&#34;https://dguijo.com/publication/ayllon-2022-assessing/&#34;&gt;
+  &lt;meta property=&#34;og:title&#34; content=&#34;Assessing the Efficient Market Hypothesis for Cryptocurrencies with High-Frequency Data Using Time Series Classification | David Guijo-Rubio&#34;&gt;
+  &lt;meta property=&#34;og:description&#34; content=&#34;This work analyzes the performance of several state-of-the-art Time Series Classification (TSC) techniques in the cryptocurrency returns modeling field. The data used in this study comprehends the close price of 6 of the principal cryptocurrencies, collected with a frequency of 5 minutes from January 1st to September 21th of 2021. The aim of this work is twofold: 1) to study the weak form of the Efficient Market Hypothesis (EMH) and 2) to examine the veracity behind the theory of the Random Walk Model (RWM). For this, two datasets are built. The first uses autoregressive values, whereas the second dataset is constructed by introducing randomized past values from the time series. Then, a comparison of the performances achieved by the different TSC techniques is carried out. Results obtained show a pronounced difference in terms of performance obtained by all the TSC models when applied to the original dataset against the randomized one. The results achieved by the models applied to the original dataset are significantly better in terms of Area Under ROC Curve (AUC) and Recall. Therefore, the EMH is refused in its weak form, and indisputable evidence against the RWM in a high-frequency scope is provided.&#34;&gt;&lt;meta property=&#34;og:image&#34; content=&#34;https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png&#34;&gt;
+  &lt;meta property=&#34;twitter:image&#34; content=&#34;https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png&#34;&gt;&lt;meta property=&#34;og:locale&#34; content=&#34;en-us&#34;&gt;
+  
+    
+      &lt;meta property=&#34;article:published_time&#34; content=&#34;2023-07-01T06:26:00&amp;#43;00:00&#34;&gt;
+    
+    &lt;meta property=&#34;article:modified_time&#34; content=&#34;2023-07-01T07:26:00&amp;#43;01:00&#34;&gt;
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+&lt;script type=&#34;application/ld+json&#34;&gt;
+{
+  &#34;@context&#34;: &#34;https://schema.org&#34;,
+  &#34;@type&#34;: &#34;Article&#34;,
+  &#34;mainEntityOfPage&#34;: {
+    &#34;@type&#34;: &#34;WebPage&#34;,
+    &#34;@id&#34;: &#34;https://dguijo.com/publication/ayllon-2022-assessing/&#34;
+  },
+  &#34;headline&#34;: &#34;Assessing the Efficient Market Hypothesis for Cryptocurrencies with High-Frequency Data Using Time Series Classification&#34;,
+  
+  &#34;datePublished&#34;: &#34;2023-07-01T06:26:00Z&#34;,
+  &#34;dateModified&#34;: &#34;2023-07-01T07:26:00+01:00&#34;,
+  
+  &#34;author&#34;: {
+    &#34;@type&#34;: &#34;Person&#34;,
+    &#34;name&#34;: &#34;Rafael Ayllón-Gavilán&#34;
+  },
+  
+  &#34;publisher&#34;: {
+    &#34;@type&#34;: &#34;Organization&#34;,
+    &#34;name&#34;: &#34;David Guijo-Rubio&#34;,
+    &#34;logo&#34;: {
+      &#34;@type&#34;: &#34;ImageObject&#34;,
+      &#34;url&#34;: &#34;https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_192x192_fill_lanczos_center_3.png&#34;
+    }
+  },
+  &#34;description&#34;: &#34;This work analyzes the performance of several state-of-the-art Time Series Classification (TSC) techniques in the cryptocurrency returns modeling field. The data used in this study comprehends the close price of 6 of the principal cryptocurrencies, collected with a frequency of 5 minutes from January 1st to September 21th of 2021. The aim of this work is twofold: 1) to study the weak form of the Efficient Market Hypothesis (EMH) and 2) to examine the veracity behind the theory of the Random Walk Model (RWM). For this, two datasets are built. The first uses autoregressive values, whereas the second dataset is constructed by introducing randomized past values from the time series. Then, a comparison of the performances achieved by the different TSC techniques is carried out. Results obtained show a pronounced difference in terms of performance obtained by all the TSC models when applied to the original dataset against the randomized one. The results achieved by the models applied to the original dataset are significantly better in terms of Area Under ROC Curve (AUC) and Recall. Therefore, the EMH is refused in its weak form, and indisputable evidence against the RWM in a high-frequency scope is provided.&#34;
+}
+&lt;/script&gt;
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  &lt;title&gt;Assessing the Efficient Market Hypothesis for Cryptocurrencies with High-Frequency Data Using Time Series Classification | David Guijo-Rubio&lt;/title&gt;
+
+&lt;/head&gt;
+
+&lt;body id=&#34;top&#34; data-spy=&#34;scroll&#34; data-offset=&#34;70&#34; data-target=&#34;#TableOfContents&#34; class=&#34;dark&#34;&gt;
+
+  &lt;aside class=&#34;search-results&#34; id=&#34;search&#34;&gt;
+  &lt;div class=&#34;container&#34;&gt;
+    &lt;section class=&#34;search-header&#34;&gt;
+
+      &lt;div class=&#34;row no-gutters justify-content-between mb-3&#34;&gt;
+        &lt;div class=&#34;col-6&#34;&gt;
+          &lt;h1&gt;Search&lt;/h1&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-6 col-search-close&#34;&gt;
+          &lt;a class=&#34;js-search&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fas fa-times-circle text-muted&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      &lt;div id=&#34;search-box&#34;&gt;
+        
+        
+        
+      &lt;/div&gt;
+
+    &lt;/section&gt;
+    &lt;section class=&#34;section-search-results&#34;&gt;
+
+      &lt;div id=&#34;search-hits&#34;&gt;
+        
+      &lt;/div&gt;
+
+    &lt;/section&gt;
+  &lt;/div&gt;
+&lt;/aside&gt;
+
+
+  
+
+
+
+
+
+
+
+&lt;nav class=&#34;navbar navbar-expand-lg navbar-light compensate-for-scrollbar&#34; id=&#34;navbar-main&#34;&gt;
+  &lt;div class=&#34;container&#34;&gt;
+
+    
+    &lt;div class=&#34;d-none d-lg-inline-flex&#34;&gt;
+      &lt;a class=&#34;navbar-brand&#34; href=&#34;https://dguijo.com/&#34;&gt;David Guijo-Rubio&lt;/a&gt;
+    &lt;/div&gt;
+    
+
+    
+    &lt;button type=&#34;button&#34; class=&#34;navbar-toggler&#34; data-toggle=&#34;collapse&#34;
+            data-target=&#34;#navbar-content&#34; aria-controls=&#34;navbar&#34; aria-expanded=&#34;false&#34; aria-label=&#34;Toggle navigation&#34;&gt;
+    &lt;span&gt;&lt;i class=&#34;fas fa-bars&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+    &lt;/button&gt;
+    
+
+    
+    &lt;div class=&#34;navbar-brand-mobile-wrapper d-inline-flex d-lg-none&#34;&gt;
+      &lt;a class=&#34;navbar-brand&#34; href=&#34;https://dguijo.com/&#34;&gt;David Guijo-Rubio&lt;/a&gt;
+    &lt;/div&gt;
+    
+
+    
+    
+    &lt;div class=&#34;navbar-collapse main-menu-item collapse justify-content-center&#34; id=&#34;navbar-content&#34;&gt;
+
+      
+      &lt;ul class=&#34;navbar-nav d-md-inline-flex&#34;&gt;
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        &lt;li class=&#34;nav-item&#34;&gt;
+          &lt;a class=&#34;nav-link &#34; href=&#34;https://dguijo.com/#about&#34;&gt;&lt;span&gt;Home&lt;/span&gt;&lt;/a&gt;
+        &lt;/li&gt;
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        &lt;li class=&#34;nav-item&#34;&gt;
+          &lt;a class=&#34;nav-link &#34; href=&#34;https://dguijo.com/#experience&#34;&gt;&lt;span&gt;Experience&lt;/span&gt;&lt;/a&gt;
+        &lt;/li&gt;
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        &lt;li class=&#34;nav-item&#34;&gt;
+          &lt;a class=&#34;nav-link &#34; href=&#34;https://dguijo.com/#publications&#34;&gt;&lt;span&gt;Publications&lt;/span&gt;&lt;/a&gt;
+        &lt;/li&gt;
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        &lt;li class=&#34;nav-item&#34;&gt;
+          &lt;a class=&#34;nav-link &#34; href=&#34;https://dguijo.com/#teaching&#34;&gt;&lt;span&gt;Teaching&lt;/span&gt;&lt;/a&gt;
+        &lt;/li&gt;
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        &lt;li class=&#34;nav-item&#34;&gt;
+          &lt;a class=&#34;nav-link &#34; href=&#34;https://dguijo.com/press&#34;&gt;&lt;span&gt;Press&lt;/span&gt;&lt;/a&gt;
+        &lt;/li&gt;
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        &lt;li class=&#34;nav-item&#34;&gt;
+          &lt;a class=&#34;nav-link &#34; href=&#34;https://dguijo.com/#contact&#34;&gt;&lt;span&gt;Contact&lt;/span&gt;&lt;/a&gt;
+        &lt;/li&gt;
+
+        
+        
+
+      
+
+        
+      &lt;/ul&gt;
+    &lt;/div&gt;
+
+    &lt;ul class=&#34;nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2&#34;&gt;
+      
+
+      
+
+      
+
+    &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/nav&gt;
+
+
+  &lt;div class=&#34;pub&#34;&gt;
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+&lt;div class=&#34;article-container pt-3&#34;&gt;
+  &lt;h1&gt;Assessing the Efficient Market Hypothesis for Cryptocurrencies with High-Frequency Data Using Time Series Classification&lt;/h1&gt;
+  &lt;div class=&#34;article-metadata&#34;&gt;
+    &lt;p style=&#34;font-size: 15px;&#34;&gt;
+
+  
+  &lt;span&gt;Rafael Ayllón-Gavilán&lt;/span&gt;, &lt;span&gt;&lt;b style=&#34;color:#ffffff&#34;&gt;David Guijo-Rubio&lt;/b&gt;&lt;/span&gt;, &lt;span&gt;Pedro a Gutiérrez&lt;/span&gt;, &lt;span&gt;César Hervás-Martı́nez&lt;/span&gt;&lt;/p&gt;
+  &lt;/div&gt;
+
+  
+
+  
+    
+
+
+&lt;div class=&#34;article-metadata&#34;&gt;
+
+  
+  &lt;span class=&#34;article-date&#34;&gt;
+    
+    
+      
+    
+    January 2022
+  &lt;/span&gt;
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+&lt;/div&gt;
+
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+&lt;div class=&#34;btn-links mb-3&#34;&gt;
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 js-cite-modal&#34;
+        data-filename=&#34;/publication/ayllon-2022-assessing/cite.bib&#34;&gt;
+  Cite
+&lt;/button&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1&#34; href=&#34;https://doi.org/10.1007/978-3-031-18050-7_14&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+
+&lt;/div&gt;
+
+
+  
+&lt;/div&gt;
+
+
+
+  &lt;div class=&#34;article-container&#34;&gt;
+
+    
+    &lt;h3&gt;Abstract&lt;/h3&gt;
+    &lt;p class=&#34;pub-abstract&#34;&gt;This work analyzes the performance of several state-of-the-art Time Series Classification (TSC) techniques in the cryptocurrency returns modeling field. The data used in this study comprehends the close price of 6 of the principal cryptocurrencies, collected with a frequency of 5 minutes from January 1st to September 21th of 2021. The aim of this work is twofold: 1) to study the weak form of the Efficient Market Hypothesis (EMH) and 2) to examine the veracity behind the theory of the Random Walk Model (RWM). For this, two datasets are built. The first uses autoregressive values, whereas the second dataset is constructed by introducing randomized past values from the time series. Then, a comparison of the performances achieved by the different TSC techniques is carried out. Results obtained show a pronounced difference in terms of performance obtained by all the TSC models when applied to the original dataset against the randomized one. The results achieved by the models applied to the original dataset are significantly better in terms of Area Under ROC Curve (AUC) and Recall. Therefore, the EMH is refused in its weak form, and indisputable evidence against the RWM in a high-frequency scope is provided.&lt;/p&gt;
+
+    
+
+    
+    &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-md-1&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;col-md-10&#34;&gt;
+        &lt;div class=&#34;row&#34;&gt;
+          &lt;div class=&#34;col-12 col-md-3 pub-row-heading&#34;&gt;Type&lt;/div&gt;
+          &lt;div class=&#34;col-12 col-md-9&#34;&gt;
+            
+            
+            &lt;a href=&#34;https://dguijo.com/publication/#1&#34;&gt;
+              Conference paper
+
+            &lt;/a&gt;
+            
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-md-1&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;d-md-none space-below&#34;&gt;&lt;/div&gt;
+    
+
+    
+    &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-md-1&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;col-md-10&#34;&gt;
+        &lt;div class=&#34;row&#34;&gt;
+          &lt;div class=&#34;col-12 col-md-3 pub-row-heading&#34;&gt;Publication&lt;/div&gt;
+          &lt;div class=&#34;col-12 col-md-9&#34;&gt;&lt;em&gt;International Workshop on Soft Computing Models in Industrial and Environmental Applications&lt;/em&gt;&lt;/div&gt;
+
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-md-1&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;d-md-none space-below&#34;&gt;&lt;/div&gt;
+    
+
+    &lt;div class=&#34;space-below&#34;&gt;&lt;/div&gt;
+
+    &lt;div class=&#34;article-style&#34;&gt;&lt;/div&gt;
+
+    
+
+
+
+
+
+&lt;div class=&#34;share-box&#34; aria-hidden=&#34;true&#34;&gt;
+  &lt;ul class=&#34;share&#34;&gt;
+    
+      
+      
+      
+        
+      
+      
+      
+      &lt;li&gt;
+        &lt;a href=&#34;https://twitter.com/intent/tweet?url=https://dguijo.com/publication/ayllon-2022-assessing/&amp;amp;text=Assessing%20the%20Efficient%20Market%20Hypothesis%20for%20Cryptocurrencies%20with%20High-Frequency%20Data%20Using%20Time%20Series%20Classification&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;share-btn-twitter&#34;&gt;
+          &lt;i class=&#34;fab fa-twitter&#34;&gt;&lt;/i&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+    
+      
+      
+      
+        
+      
+      
+      
+      &lt;li&gt;
+        &lt;a href=&#34;https://www.facebook.com/sharer.php?u=https://dguijo.com/publication/ayllon-2022-assessing/&amp;amp;t=Assessing%20the%20Efficient%20Market%20Hypothesis%20for%20Cryptocurrencies%20with%20High-Frequency%20Data%20Using%20Time%20Series%20Classification&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;share-btn-facebook&#34;&gt;
+          &lt;i class=&#34;fab fa-facebook&#34;&gt;&lt;/i&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+    
+      
+      
+      
+        
+      
+      
+      
+      &lt;li&gt;
+        &lt;a href=&#34;mailto:?subject=Assessing%20the%20Efficient%20Market%20Hypothesis%20for%20Cryptocurrencies%20with%20High-Frequency%20Data%20Using%20Time%20Series%20Classification&amp;amp;body=https://dguijo.com/publication/ayllon-2022-assessing/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;share-btn-email&#34;&gt;
+          &lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+    
+      
+      
+      
+        
+      
+      
+      
+      &lt;li&gt;
+        &lt;a href=&#34;https://www.linkedin.com/shareArticle?url=https://dguijo.com/publication/ayllon-2022-assessing/&amp;amp;title=Assessing%20the%20Efficient%20Market%20Hypothesis%20for%20Cryptocurrencies%20with%20High-Frequency%20Data%20Using%20Time%20Series%20Classification&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;share-btn-linkedin&#34;&gt;
+          &lt;i class=&#34;fab fa-linkedin-in&#34;&gt;&lt;/i&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+    
+      
+      
+      
+        
+      
+      
+      
+      &lt;li&gt;
+        &lt;a href=&#34;https://web.whatsapp.com/send?text=Assessing%20the%20Efficient%20Market%20Hypothesis%20for%20Cryptocurrencies%20with%20High-Frequency%20Data%20Using%20Time%20Series%20Classification%20https://dguijo.com/publication/ayllon-2022-assessing/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;share-btn-whatsapp&#34;&gt;
+          &lt;i class=&#34;fab fa-whatsapp&#34;&gt;&lt;/i&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+    
+      
+      
+      
+        
+      
+      
+      
+      &lt;li&gt;
+        &lt;a href=&#34;https://service.weibo.com/share/share.php?url=https://dguijo.com/publication/ayllon-2022-assessing/&amp;amp;title=Assessing%20the%20Efficient%20Market%20Hypothesis%20for%20Cryptocurrencies%20with%20High-Frequency%20Data%20Using%20Time%20Series%20Classification&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;share-btn-weibo&#34;&gt;
+          &lt;i class=&#34;fab fa-weibo&#34;&gt;&lt;/i&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+    
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+      
+
+    
+    
+    
+      &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js&#34; integrity=&#34;sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+      &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js&#34; integrity=&#34;sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+      &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js&#34; integrity=&#34;sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+      &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js&#34; integrity=&#34;sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+
+      
+
+      
+        
+        &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js&#34; integrity=&#34;sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+        
+        &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js&#34;&gt;&lt;/script&gt;
+        
+      
+
+    
+
+    
+    
+      &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js&#34; integrity=&#34;sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+    
+
+    
+    
+    &lt;script&gt;const code_highlighting = true;&lt;/script&gt;
+    
+
+    
+    
+    &lt;script&gt;const isSiteThemeDark = true;&lt;/script&gt;
+    
+
+    
+
+    
+    
+
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    &lt;script src=&#34;https://dguijo.com/js/academic.min.3da86581634ab22d5bb3fc4505df30a5.js&#34;&gt;&lt;/script&gt;
+
+    
+
+
+
+
+
+
+  
+  
+  &lt;div class=&#34;container&#34;&gt;
+    &lt;footer class=&#34;site-footer&#34;&gt;
+  
+
+  &lt;p class=&#34;powered-by&#34;&gt;
+    
+    © David Guijo-Rubio. 2025  
+    
+    
+    
+
+    
+    &lt;span class=&#34;float-right&#34; aria-hidden=&#34;true&#34;&gt;
+      &lt;a href=&#34;#&#34; class=&#34;back-to-top&#34;&gt;
+        &lt;span class=&#34;button_icon&#34;&gt;
+          &lt;i class=&#34;fas fa-chevron-up fa-2x&#34;&gt;&lt;/i&gt;
+        &lt;/span&gt;
+      &lt;/a&gt;
+    &lt;/span&gt;
+    
+  &lt;/p&gt;
+&lt;/footer&gt;
+
+
+
+  &lt;/div&gt;
+  
+
+  
+&lt;div id=&#34;modal&#34; class=&#34;modal fade&#34; role=&#34;dialog&#34;&gt;
+  &lt;div class=&#34;modal-dialog&#34;&gt;
+    &lt;div class=&#34;modal-content&#34;&gt;
+      &lt;div class=&#34;modal-header&#34;&gt;
+        &lt;h5 class=&#34;modal-title&#34;&gt;Cite&lt;/h5&gt;
+        &lt;button type=&#34;button&#34; class=&#34;close&#34; data-dismiss=&#34;modal&#34; aria-label=&#34;Close&#34;&gt;
+          &lt;span aria-hidden=&#34;true&#34;&gt;&amp;times;&lt;/span&gt;
+        &lt;/button&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;modal-body&#34;&gt;
+        &lt;pre&gt;&lt;code class=&#34;tex hljs&#34;&gt;&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;modal-footer&#34;&gt;
+        &lt;a class=&#34;btn btn-outline-primary my-1 js-copy-cite&#34; href=&#34;#&#34; target=&#34;_blank&#34;&gt;
+          &lt;i class=&#34;fas fa-copy&#34;&gt;&lt;/i&gt; Copy
+        &lt;/a&gt;
+        &lt;a class=&#34;btn btn-outline-primary my-1 js-download-cite&#34; href=&#34;#&#34; target=&#34;_blank&#34;&gt;
+          &lt;i class=&#34;fas fa-download&#34;&gt;&lt;/i&gt; Download
+        &lt;/a&gt;
+        &lt;div id=&#34;modal-error&#34;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
