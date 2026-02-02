@@ -5,7 +5,7 @@
     <link>https://dguijo.com/</link>
       <atom:link href="https://dguijo.com/index.xml" rel="self" type="application/rss+xml" />
     <description>David Guijo-Rubio</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2025</copyright><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Guijo-Rubio. 2026</copyright><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dguijo.com/images/icon_hue9ced1b224c29d79395b4f0742b6e11d_19396_512x512_fill_lanczos_center_3.png</url>
       <title>David Guijo-Rubio</title>
@@ -21,10 +21,26 @@
     </item>
     
     <item>
+      <title>Excluding Ascites From the GEMA-Na Score Does Not Impact Outcome Predictions in Liver Transplant Candidates</title>
+      <link>https://dguijo.com/publication/rodriguez-2026-gema-na-wo-ascitis/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/rodriguez-2026-gema-na-wo-ascitis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Enhancing wind speed prediction in wind farms through ordinal classification</title>
       <link>https://dguijo.com/publication/gomez-2025-enhancing/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://dguijo.com/publication/gomez-2025-enhancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence-Based Methods and Algorithms in Fog and Atmospheric Low-Visibility Forecasting</title>
+      <link>https://dguijo.com/publication/salcedo-2025-artificial/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://dguijo.com/publication/salcedo-2025-artificial/</guid>
       <description></description>
     </item>
     
